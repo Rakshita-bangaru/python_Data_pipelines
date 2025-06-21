@@ -1,0 +1,1001 @@
+customer_id,name,email,phone,address,registration_date,loyalty_status,first_name,last_name,countrycodes,CallingCode,transaction_id,amount,transaction_date,product_category,payment_method,store_location,customer_tier
+1,Michelle Kidd,vayala@example.net,+971 -723-4258,"USNS Santiago, FPO AE 80872",25-01-2025,Gold,Michelle,Kidd,AE,971,8,2652.57,2025-04-19 14:46:00,Home,Credit Card,New York,2
+4,Kimberly Price,jessicaknight@example.com,+1 -222-9779,"1631 Alexis Meadows, Lake Amanda, CA 75179",08-12-2024,Gold,Kimberly,Price,CA,1,427,1787.09,2025-04-28 04:34:07,Beauty,PayPal,Chicago,2
+5,Matthew Phillips,qwilliams@example.com,+1 -763-3522,"2274 Williams Heights Suite 895, Andersonhaven, OR 80565",03-02-2024,Gold,Matthew,Phillips,OR,1,452,1983.52,2025-02-03 14:59:13,Sports,PayPal,Online,2
+7,Louis Miller,patriciaelliott@example.org,+1 -862-7105,"02590 Marshall Well, Sheppardland, CT 88067",30-09-2024,Gold,Louis,Miller,CT,1,470,3241.66,2025-05-15 15:17:05,Electronics,PayPal,Los Angeles,2
+7,Louis Miller,patriciaelliott@example.org,+1 -862-7105,"02590 Marshall Well, Sheppardland, CT 88067",30-09-2024,Gold,Louis,Miller,CT,1,857,697.57,2025-06-13 12:03:42,Beauty,Debit Card,Chicago,2
+9,Matthew Harvey,bgaines@example.net,+1 -144-7338,"60123 Davis Ford, Mistychester, WA 69400",31-10-2024,Silver,Matthew,Harvey,WA,1,300,918.34,2025-05-07 20:01:01,Electronics,PayPal,Miami,1
+10,Rachel White,whitemichael@example.org,+972 -729-9740,"6182 Brown Mountain, South Gary, IL 29016",25-02-2024,Bronze,Rachel,White,IL,972,173,3456.05,2025-04-15 19:26:48,Home,Debit Card,Online,0
+10,Rachel White,whitemichael@example.org,+972 -729-9740,"6182 Brown Mountain, South Gary, IL 29016",25-02-2024,Bronze,Rachel,White,IL,972,548,2954.52,2025-05-21 22:54:54,Sports,Debit Card,Miami,0
+10,Rachel White,whitemichael@example.org,+972 -729-9740,"6182 Brown Mountain, South Gary, IL 29016",25-02-2024,Bronze,Rachel,White,IL,972,831,220.35,2025-05-21 17:47:53,Sports,PayPal,Los Angeles,0
+12,Christine Delgado,yfarrell@example.net,+1 -834-9008,"PSC 4025, Box 2078, APO AA 61121",18-04-2024,Bronze,Christine,Delgado,AA,1,126,3696.64,2025-02-15 19:59:56,Beauty,Cash,Online,0
+12,Christine Delgado,yfarrell@example.net,+1 -834-9008,"PSC 4025, Box 2078, APO AA 61121",18-04-2024,Bronze,Christine,Delgado,AA,1,560,0.0,2025-02-08 02:57:55,Beauty,Debit Card,Miami,0
+13,Joseph Brennan,khernandez@example.com,+691 -789-1647,"8890 Keller Hills, North Paul, FM 64749",28-04-2024,Gold,Joseph,Brennan,FM,691,301,0.0,2025-03-18 04:40:03,Beauty,Debit Card,Chicago,2
+13,Joseph Brennan,khernandez@example.com,+691 -789-1647,"8890 Keller Hills, North Paul, FM 64749",28-04-2024,Gold,Joseph,Brennan,FM,691,967,631.85,2025-02-18 17:30:32,Home,Cash,Online,2
+15,Laura Perez,sdavid@example.com,+691 -310-5560,"1518 Green Locks Suite 348, New Brent, FM 51849",04-12-2024,Gold,Laura,Perez,FM,691,504,3194.72,2025-06-01 14:13:06,Beauty,Debit Card,Online,2
+16,Erin Matthews,uhunter@example.net,+972 -780-3711,"67623 Morgan Hollow, Hillshire, IL 78665",12-11-2023,Bronze,Erin,Matthews,IL,972,531,322.34,2025-04-05 11:19:25,Clothing,Debit Card,Los Angeles,0
+16,Erin Matthews,uhunter@example.net,+972 -780-3711,"67623 Morgan Hollow, Hillshire, IL 78665",12-11-2023,Bronze,Erin,Matthews,IL,972,635,492.19,2025-01-23 18:39:00,Clothing,Cash,Miami,0
+17,Melissa Alvarado,parkjohn@example.net,+1 -857-4974,"USNS Austin, FPO AP 52643",24-06-2024,Gold,Melissa,Alvarado,AP,1,116,404.66,2025-05-15 09:16:08,Home,Debit Card,New York,2
+17,Melissa Alvarado,parkjohn@example.net,+1 -857-4974,"USNS Austin, FPO AP 52643",24-06-2024,Gold,Melissa,Alvarado,AP,1,374,2445.23,2025-02-18 22:07:41,Home,Credit Card,Chicago,2
+17,Melissa Alvarado,parkjohn@example.net,+1 -857-4974,"USNS Austin, FPO AP 52643",24-06-2024,Gold,Melissa,Alvarado,AP,1,681,4752.12,2025-05-31 10:50:45,Sports,Cash,Miami,2
+18,Ernest Dunn,kelseybrown@example.net,+1 -543-7471,"3112 Lydia Freeway Suite 927, South Susan, RI 11726",27-01-2025,Gold,Ernest,Dunn,RI,1,570,2929.47,2025-03-18 13:34:29,Beauty,Credit Card,Miami,2
+19,David Johnson,marynelson@example.org,+680 -439-2274,"992 Harris Pines Suite 049, North Marychester, PW 73177",21-02-2025,Silver,David,Johnson,PW,680,4,0.0,2025-04-30 15:26:23,Sports,Debit Card,Los Angeles,1
+19,David Johnson,marynelson@example.org,+680 -439-2274,"992 Harris Pines Suite 049, North Marychester, PW 73177",21-02-2025,Silver,David,Johnson,PW,680,99,4361.19,2025-05-27 16:17:17,Electronics,Credit Card,Chicago,1
+19,David Johnson,marynelson@example.org,+680 -439-2274,"992 Harris Pines Suite 049, North Marychester, PW 73177",21-02-2025,Silver,David,Johnson,PW,680,546,1600.94,2025-03-24 15:39:10,Beauty,Debit Card,Online,1
+20,Wayne Morales,qwilliams@example.com,+1 -559-3832,"15344 Hill Pike, Matthewport, FL 45434",22-02-2025,Gold,Wayne,Morales,FL,1,195,746.43,2025-04-02 02:14:27,Home,PayPal,Miami,2
+20,Wayne Morales,qwilliams@example.com,+1 -559-3832,"15344 Hill Pike, Matthewport, FL 45434",22-02-2025,Gold,Wayne,Morales,FL,1,291,3402.3,2025-03-24 02:17:33,Electronics,PayPal,Miami,2
+20,Wayne Morales,qwilliams@example.com,+1 -559-3832,"15344 Hill Pike, Matthewport, FL 45434",22-02-2025,Gold,Wayne,Morales,FL,1,874,3934.82,2025-05-04 10:16:59,Sports,Credit Card,Online,2
+21,Michael Vincent,jonesjeffrey@example.com,+1 -935-4111,"455 Moore Orchard, New Richardhaven, RI 42023",13-06-2024,Silver,Michael,Vincent,RI,1,176,4674.53,2025-02-25 15:55:18,Clothing,Credit Card,Miami,1
+22,Tammie Mcgee,nsullivan@example.com,+356 -840-2659,"6371 Long Path Apt. 940, South Anthonyton, MT 86683",24-10-2024,Silver,Tammie,Mcgee,MT,356,721,640.83,2025-05-04 03:33:13,Sports,Cash,Los Angeles,1
+23,Marisa Martinez,zward@example.org,+1 -609-1291,"5029 Wall Mountain Suite 847, New Chelseabury, IA 90393",29-03-2025,Bronze,Marisa,Martinez,IA,1,442,1908.49,2025-04-21 01:10:46,Beauty,Debit Card,Online,0
+24,Crystal Peterson,taylorcharles@example.com,+1 -711-1833,"Unit 5741 Box 1124, DPO AA 18219",07-08-2023,Bronze,Crystal,Peterson,AA,1,133,979.81,2025-06-13 05:19:21,Electronics,PayPal,Online,0
+24,Crystal Peterson,taylorcharles@example.com,+1 -711-1833,"Unit 5741 Box 1124, DPO AA 18219",07-08-2023,Bronze,Crystal,Peterson,AA,1,141,1164.89,2025-06-05 09:17:17,Clothing,Debit Card,Chicago,0
+24,Crystal Peterson,taylorcharles@example.com,+1 -711-1833,"Unit 5741 Box 1124, DPO AA 18219",07-08-2023,Bronze,Crystal,Peterson,AA,1,717,4292.9,2025-03-18 08:24:05,Home,Cash,Los Angeles,0
+25,Jeremy Alexander,smithkevin@example.com,+1 -969-9309,"1520 Reid Turnpike, Clarkville, CA 39102",13-06-2025,Silver,Jeremy,Alexander,CA,1,493,591.95,2025-05-13 06:44:39,Beauty,Debit Card,Online,1
+26,James Graham,chawkins@example.net,+379 -656-7695,"2809 Young Squares, Lisaside, VA 53732",10-03-2024,Gold,James,Graham,VA,379,868,3378.58,2025-04-27 11:24:04,Clothing,Debit Card,Los Angeles,2
+27,William Morrison,browningdavid@example.org,+1 -676-8923,"76577 Keith Falls, West Melissashire, NC 55275",01-08-2024,Gold,William,Morrison,NC,1,214,2887.52,2025-05-15 08:47:35,Clothing,Debit Card,Chicago,2
+27,William Morrison,browningdavid@example.org,+1 -676-8923,"76577 Keith Falls, West Melissashire, NC 55275",01-08-2024,Gold,William,Morrison,NC,1,753,3558.59,2025-04-25 08:18:22,Electronics,PayPal,Miami,2
+27,William Morrison,browningdavid@example.org,+1 -676-8923,"76577 Keith Falls, West Melissashire, NC 55275",01-08-2024,Gold,William,Morrison,NC,1,813,2468.38,2025-05-16 04:49:59,Home,PayPal,Los Angeles,2
+28,Brandon Hall,Brandon.Hall@email.com,+57 -123-3048,"8143 Robert Cove Apt. 103, Sanchezport, CO 78231",07-04-2024,Gold,Brandon,Hall,CO,57,210,2404.43,2025-05-11 16:03:42,Clothing,Credit Card,Chicago,2
+30,Heather Hill,qwillis@example.com,+249 -456-8115,"4339 Brown Crescent, Lambchester, SD 62832",15-12-2024,Silver,Heather,Hill,SD,249,946,1252.53,2025-06-01 10:04:29,Home,Cash,Miami,1
+31,Louis Beasley,bjones@example.net,+1 -311-3270,"71975 Smith Drive Suite 746, Bairdmouth, MP 70886",18-09-2023,Bronze,Louis,Beasley,MP,1,905,258.16,2025-05-28 23:35:33,Sports,Credit Card,Miami,0
+32,Julie Shelton,ryanpatel@example.net,+1 -103-5146,"USNS Brown, FPO AP 55711",02-12-2024,Gold,Julie,Shelton,AP,1,70,1272.21,2025-04-03 07:26:00,Sports,Debit Card,Miami,2
+32,Julie Shelton,ryanpatel@example.net,+1 -103-5146,"USNS Brown, FPO AP 55711",02-12-2024,Gold,Julie,Shelton,AP,1,469,4664.71,2025-05-06 10:40:47,Sports,PayPal,Los Angeles,2
+33,Erin Stephens,kyle83@example.com,+57 -443-8577,"5911 Amy Creek Suite 329, Michaelside, CO 25722",02-08-2024,Silver,Erin,Stephens,CO,57,137,4934.62,2025-03-28 19:03:18,Electronics,Cash,Online,1
+33,Erin Stephens,kyle83@example.com,+57 -443-8577,"5911 Amy Creek Suite 329, Michaelside, CO 25722",02-08-2024,Silver,Erin,Stephens,CO,57,224,3477.45,2025-05-29 09:29:52,Home,Credit Card,New York,1
+34,Christopher Powers,nsimmons@example.com,+355 -277-2276,"27599 David Mews, Juliefort, AL 92098",09-06-2024,Silver,Christopher,Powers,AL,355,456,4270.26,2025-04-21 20:03:33,Sports,PayPal,Chicago,1
+34,Christopher Powers,nsimmons@example.com,+355 -277-2276,"27599 David Mews, Juliefort, AL 92098",09-06-2024,Silver,Christopher,Powers,AL,355,522,1037.02,2025-04-13 01:06:52,Electronics,Credit Card,Chicago,1
+35,Rachel Lang,huntcourtney@example.org,+1 -776-8211,"PSC 5662, Box 7419, APO AA 70596",13-11-2024,Silver,Rachel,Lang,AA,1,130,3691.23,2025-01-18 18:29:24,Home,Debit Card,Online,1
+35,Rachel Lang,huntcourtney@example.org,+1 -776-8211,"PSC 5662, Box 7419, APO AA 70596",13-11-2024,Silver,Rachel,Lang,AA,1,495,2947.59,2025-04-25 16:52:12,Clothing,Credit Card,New York,1
+35,Rachel Lang,huntcourtney@example.org,+1 -776-8211,"PSC 5662, Box 7419, APO AA 70596",13-11-2024,Silver,Rachel,Lang,AA,1,593,73.2,2025-06-10 03:55:57,Home,Debit Card,New York,1
+36,Christopher Clark,Christopher.Clark@email.com,+356 -609-3438,"2325 Danielle Knolls Suite 719, Gabrielleview, MT 11649",13-01-2024,Gold,Christopher,Clark,MT,356,709,990.05,2025-04-15 06:24:06,Clothing,Credit Card,New York,2
+37,Jessica Hardy,cherylray@example.org,+692 -875-7801,"8293 Martin Ridges Apt. 444, Lake Erikfort, MH 63270",13-08-2024,Gold,Jessica,Hardy,MH,692,204,1944.72,2025-02-03 17:50:58,Sports,Credit Card,Miami,2
+40,Amy Gates,jesse14@example.org,+373 -198-3028,"69324 Jennifer Plaza Apt. 905, Haroldview, MD 67322",24-11-2024,Gold,Amy,Gates,MD,373,170,3335.28,2025-05-03 06:40:34,Sports,Cash,Chicago,2
+41,Breanna Elliott,mark59@example.net,+1 -532-9433,"29664 Lauren Mountain Apt. 243, West Mary, NV 57114",19-11-2024,Silver,Breanna,Elliott,NV,1,265,2521.36,2025-05-20 05:36:38,Electronics,Cash,Miami,1
+41,Breanna Elliott,mark59@example.net,+1 -532-9433,"29664 Lauren Mountain Apt. 243, West Mary, NV 57114",19-11-2024,Silver,Breanna,Elliott,NV,1,315,4539.88,2025-04-19 02:29:56,Clothing,Debit Card,Miami,1
+43,Kelsey Young,mckeeconnie@example.org,+1 -420-1723,"8806 Davis Fall Suite 188, East Brenda, WI 95051",04-12-2024,Gold,Kelsey,Young,WI,1,823,130.85,2025-05-02 02:51:33,Sports,PayPal,Chicago,2
+44,Travis Neal,stewartkeith@example.org,+1 -105-7470,"1024 Cynthia Way, East Christina, HI 44699",13-01-2025,Bronze,Travis,Neal,HI,1,355,2607.5,2025-05-27 04:37:14,Clothing,Credit Card,Chicago,0
+45,Gordon Logan,robert26@example.org,+1 -549-7811,"8399 Christopher Cliff Suite 911, Joshuashire, GU 04822",24-06-2023,Silver,Gordon,Logan,GU,1,683,4402.65,2025-04-03 07:27:30,Clothing,Debit Card,New York,1
+46,Felicia Noble,taylorcatherine@example.net,+1 -910-3340,"Unit 7244 Box 4360, DPO AP 11537",23-10-2023,Gold,Felicia,Noble,AP,1,455,2156.67,2025-03-27 17:16:27,Beauty,Credit Card,Los Angeles,2
+48,Julie Hardy,robert73@example.net,+356 -418-2029,"167 Lisa Orchard Suite 613, Meredithport, MT 25662",03-12-2023,Gold,Julie,Hardy,MT,356,20,4357.9,2025-03-27 06:31:20,Electronics,Debit Card,New York,2
+48,Julie Hardy,robert73@example.net,+356 -418-2029,"167 Lisa Orchard Suite 613, Meredithport, MT 25662",03-12-2023,Gold,Julie,Hardy,MT,356,463,1537.01,2025-06-17 03:01:40,Clothing,Debit Card,New York,2
+48,Julie Hardy,robert73@example.net,+356 -418-2029,"167 Lisa Orchard Suite 613, Meredithport, MT 25662",03-12-2023,Gold,Julie,Hardy,MT,356,942,2828.92,2025-03-19 06:18:15,Sports,PayPal,Online,2
+53,Phillip Brown,yjackson@example.org,+1 -317-4041,"043 Bryant Avenue, Williamsview, WA 36043",30-05-2024,Bronze,Phillip,Brown,WA,1,180,4547.68,2025-04-26 12:07:15,Clothing,PayPal,Online,0
+54,James Phillips,lopezleon@example.org,+212 -864-1562,"8743 Henderson Fields Apt. 075, New Scottview, MA 34681",25-05-2025,Bronze,James,Phillips,MA,212,938,608.46,2025-06-09 12:41:52,Electronics,Debit Card,New York,0
+55,Travis Stephenson,laura99@example.com,+1 -100-5068,"USS Barton, FPO AA 45890",27-04-2025,Bronze,Travis,Stephenson,AA,1,71,1594.86,2025-02-08 21:00:00,Electronics,Debit Card,Los Angeles,0
+59,Melissa Long,xholden@example.com,+1 -717-6496,"PSC 2039, Box 9858, APO AA 70916",23-01-2025,Silver,Melissa,Long,AA,1,37,1305.45,2025-06-04 00:50:59,Sports,Credit Card,New York,1
+60,Larry Malone,paulmunoz@example.net,+62 -533-5421,"49877 Flores Burg, Lake Kimberly, ID 63294",01-10-2024,Bronze,Larry,Malone,ID,62,859,3651.58,2025-03-01 11:49:14,Home,PayPal,Online,0
+60,Larry Malone,paulmunoz@example.net,+62 -533-5421,"49877 Flores Burg, Lake Kimberly, ID 63294",01-10-2024,Bronze,Larry,Malone,ID,62,918,4687.61,2025-01-21 04:28:40,Electronics,Cash,Miami,0
+60,Larry Malone,paulmunoz@example.net,+62 -533-5421,"49877 Flores Burg, Lake Kimberly, ID 63294",01-10-2024,Bronze,Larry,Malone,ID,62,996,712.47,2025-01-13 14:16:32,Electronics,Debit Card,New York,0
+62,Linda Li,martinmonica@example.net,+680 -167-7317,"8280 Powell Islands, South Ellen, PW 58728",05-04-2024,Gold,Linda,Li,PW,680,517,519.34,2025-04-23 07:40:34,Home,Cash,Los Angeles,2
+63,Jade Gallegos,amandabaker@example.org,+1 -448-4418,"7482 Rhonda Mountains Suite 820, West Andrew, KS 63932",26-08-2024,Gold,Jade,Gallegos,KS,1,190,1400.65,2025-02-07 06:11:08,Clothing,Credit Card,New York,2
+63,Jade Gallegos,amandabaker@example.org,+1 -448-4418,"7482 Rhonda Mountains Suite 820, West Andrew, KS 63932",26-08-2024,Gold,Jade,Gallegos,KS,1,912,4903.78,2025-04-20 15:29:13,Beauty,Debit Card,Chicago,2
+64,Donna Gardner,csmith@example.org,+971 -639-3866,"USCGC Sutton, FPO AE 02651",01-11-2024,Silver,Donna,Gardner,AE,971,561,1337.28,2025-03-18 18:51:40,Beauty,Credit Card,Online,1
+65,Ashley Barrett,allenhowe@example.net,+91 -226-8083,"553 Lewis Springs, South Christineborough, IN 90284",15-06-2025,Bronze,Ashley,Barrett,IN,91,476,2963.79,2025-03-29 21:13:33,Home,PayPal,New York,0
+66,Brenda Malone,anncarroll@example.net,+49 -647-4955,"9903 Rogers Mill, Lebury, DE 97051",21-08-2024,Gold,Brenda,Malone,DE,49,241,2589.77,2025-04-01 20:06:14,Clothing,Credit Card,Chicago,2
+66,Brenda Malone,anncarroll@example.net,+49 -647-4955,"9903 Rogers Mill, Lebury, DE 97051",21-08-2024,Gold,Brenda,Malone,DE,49,263,12.09,2025-04-30 23:15:41,Electronics,Cash,Miami,2
+66,Brenda Malone,anncarroll@example.net,+49 -647-4955,"9903 Rogers Mill, Lebury, DE 97051",21-08-2024,Gold,Brenda,Malone,DE,49,954,3953.3,2025-01-17 10:46:21,Home,Debit Card,Online,2
+67,Amy Hogan,perry60@example.org,+1 -444-5301,"5919 Daniel Coves Apt. 444, Williamsmouth, KY 47249",18-03-2025,Gold,Amy,Hogan,KY,1,50,4775.53,2025-01-05 08:26:47,Electronics,Debit Card,Online,2
+67,Amy Hogan,perry60@example.org,+1 -444-5301,"5919 Daniel Coves Apt. 444, Williamsmouth, KY 47249",18-03-2025,Gold,Amy,Hogan,KY,1,65,3716.87,2025-04-11 18:34:23,Electronics,Cash,Online,2
+67,Amy Hogan,perry60@example.org,+1 -444-5301,"5919 Daniel Coves Apt. 444, Williamsmouth, KY 47249",18-03-2025,Gold,Amy,Hogan,KY,1,855,4168.82,2025-01-24 21:28:16,Sports,Credit Card,Online,2
+69,Lori Hernandez,meganeaton@example.org,+1 -212-2965,"707 Reyes Expressway, Kristentown, NC 30977",17-05-2025,Bronze,Lori,Hernandez,NC,1,286,336.8,2025-04-24 10:00:38,Beauty,Cash,Los Angeles,0
+70,Jessica Clark,ashley38@example.org,+1 -804-5051,"2245 Carrillo Gardens Suite 585, East Lisashire, WI 34517",10-06-2024,Bronze,Jessica,Clark,WI,1,930,2156.22,2025-05-05 19:04:38,Beauty,Credit Card,Chicago,0
+71,Patrick Gibson,ashleygarner@example.org,+1 -837-5441,"924 Riley Trail Suite 206, Lake Karenshire, RI 85236",13-09-2023,Gold,Patrick,Gibson,RI,1,893,470.04,2025-03-29 13:05:44,Electronics,PayPal,Online,2
+73,Cristian Hendrix,robbinseric@example.org,+1 -510-1467,"58535 Jasmine Course Suite 995, East Jason, RI 44789",19-09-2024,Silver,Cristian,Hendrix,RI,1,604,210.52,2025-02-16 19:56:38,Sports,Cash,Chicago,1
+76,Michelle Johnston,jscott@example.com,+373 -874-3984,"1516 Jason Cliff, West Stacyfurt, MD 62389",10-05-2024,Silver,Michelle,Johnston,MD,373,43,4803.45,2025-03-14 23:35:06,Electronics,Cash,Miami,1
+80,Jason Hodge,brownamber@example.net,+355 -548-6922,"18212 Tyler Circles Apt. 059, Bruceport, AL 44586",06-07-2024,Bronze,Jason,Hodge,AL,355,84,3686.68,2025-02-07 07:07:41,Electronics,Debit Card,Online,0
+82,Kathy Wilson,devinvargas@example.com,+1 -994-8107,"879 Lee Underpass Apt. 893, Bradleyfort, AS 32761",23-07-2023,Gold,Kathy,Wilson,AS,1,298,2393.97,2025-04-21 01:10:20,Sports,Debit Card,Miami,2
+82,Kathy Wilson,devinvargas@example.com,+1 -994-8107,"879 Lee Underpass Apt. 893, Bradleyfort, AS 32761",23-07-2023,Gold,Kathy,Wilson,AS,1,509,1592.9,2025-04-22 20:49:51,Sports,Debit Card,Chicago,2
+82,Kathy Wilson,devinvargas@example.com,+1 -994-8107,"879 Lee Underpass Apt. 893, Bradleyfort, AS 32761",23-07-2023,Gold,Kathy,Wilson,AS,1,860,2913.33,2025-05-09 03:54:28,Clothing,PayPal,Los Angeles,2
+83,Hector Reyes,youngkevin@example.net,+216 -752-3856,"559 Jeff Harbor, Port Molly, TN 77372",13-09-2023,Gold,Hector,Reyes,TN,216,94,4045.33,2025-05-03 21:04:04,Sports,Cash,Chicago,2
+83,Hector Reyes,youngkevin@example.net,+216 -752-3856,"559 Jeff Harbor, Port Molly, TN 77372",13-09-2023,Gold,Hector,Reyes,TN,216,575,1024.05,2025-05-18 04:14:30,Clothing,PayPal,New York,2
+84,Tamara Lee,murrayjulie@example.com,+1 -185-8370,"05734 Lester Bypass, Diamondmouth, GU 18366",14-04-2024,Gold,Tamara,Lee,GU,1,196,2123.96,2025-04-11 09:35:41,Sports,Cash,Los Angeles,2
+84,Tamara Lee,murrayjulie@example.com,+1 -185-8370,"05734 Lester Bypass, Diamondmouth, GU 18366",14-04-2024,Gold,Tamara,Lee,GU,1,404,2763.52,2025-01-16 09:07:40,Electronics,PayPal,Online,2
+84,Tamara Lee,murrayjulie@example.com,+1 -185-8370,"05734 Lester Bypass, Diamondmouth, GU 18366",14-04-2024,Gold,Tamara,Lee,GU,1,933,4427.79,2025-05-24 02:38:23,Electronics,PayPal,New York,2
+85,Joseph Potter,xhill@example.net,+216 -143-6781,"801 Harrison Rue, Nicholasstad, TN 88446",27-05-2025,Bronze,Joseph,Potter,TN,216,656,4811.74,2025-05-29 18:52:01,Electronics,Debit Card,Chicago,0
+86,Shawn Frost,bgaines@example.net,+1 -748-1050,"93770 Gabriel Harbor Suite 411, Kinghaven, MO 39887",22-01-2024,Gold,Shawn,Frost,MO,1,929,4256.47,2025-01-18 23:25:45,Sports,Cash,Chicago,2
+87,John Hale,lambthomas@example.org,+1 -611-7366,"668 Michael Keys Apt. 506, East Rachelland, OH 75480",18-11-2023,Silver,John,Hale,OH,1,73,1220.34,2025-02-25 16:03:40,Sports,Debit Card,Miami,1
+88,Rodney Cline,william79@example.org,+1 -124-1265,"5978 Hopkins Highway Suite 577, Evanberg, MS 12159",11-04-2025,Gold,Rodney,Cline,MS,1,280,3938.93,2025-02-15 07:07:57,Home,Credit Card,Miami,2
+88,Rodney Cline,william79@example.org,+1 -124-1265,"5978 Hopkins Highway Suite 577, Evanberg, MS 12159",11-04-2025,Gold,Rodney,Cline,MS,1,319,1055.23,2025-04-24 03:44:38,Clothing,Debit Card,Chicago,2
+89,Megan Black,patelchristina@example.com,+972 -240-2982,"49958 Samuel Spring, New Brad, IL 86545",06-01-2024,Gold,Megan,Black,IL,972,869,3235.69,2025-01-06 11:55:47,Beauty,PayPal,Los Angeles,2
+90,Hannah Rivera,mooredanielle@example.net,+1 -360-9110,"78924 Wood Estates, Tranfurt, OK 30512",31-05-2024,Bronze,Hannah,Rivera,OK,1,351,0.0,2025-04-21 01:00:10,Clothing,Credit Card,Los Angeles,0
+90,Hannah Rivera,mooredanielle@example.net,+1 -360-9110,"78924 Wood Estates, Tranfurt, OK 30512",31-05-2024,Bronze,Hannah,Rivera,OK,1,891,4080.14,2025-01-26 17:53:57,Clothing,Cash,Miami,0
+91,Chelsea Torres,brittney91@example.net,+1 -122-7371,"42146 Valerie Hills Suite 077, Port Kevinbury, KY 02228",26-11-2023,Silver,Chelsea,Torres,KY,1,497,3009.06,2025-01-29 11:28:51,Electronics,PayPal,Los Angeles,1
+92,Joseph Parks,kramertanya@example.org,+227 -599-8100,"19819 Daniel Road, Vasquezburgh, NE 21885",23-06-2024,Gold,Joseph,Parks,NE,227,223,1713.16,2025-05-07 08:47:34,Home,Credit Card,Chicago,2
+92,Joseph Parks,kramertanya@example.org,+227 -599-8100,"19819 Daniel Road, Vasquezburgh, NE 21885",23-06-2024,Gold,Joseph,Parks,NE,227,529,1300.84,2025-05-11 11:53:30,Beauty,Credit Card,Chicago,2
+93,Johnny Bartlett,rebecca49@example.com,+1 -416-6351,"399 John Meadows Apt. 352, Allisonburgh, NV 38488",05-11-2024,Bronze,Johnny,Bartlett,NV,1,508,2114.68,2025-02-21 20:59:05,Home,Credit Card,New York,0
+94,Donald Black,patelchristina@example.com,+379 -784-5559,"346 Jenna Drives Suite 811, West Michaelburgh, VA 08959",05-08-2023,Gold,Donald,Black,VA,379,148,299.95,2025-02-17 17:43:48,Sports,Debit Card,Miami,2
+95,Jacob Pratt,Jacob.Pratt@email.com,+216 -160-8040,"902 Christine Port, North Deanna, TN 03407",02-07-2024,Silver,Jacob,Pratt,TN,216,486,2885.89,2025-03-30 16:14:41,Clothing,Cash,Los Angeles,1
+99,Sherri Moore,rodney64@example.org,+1 -926-3713,"0917 Harrison Drives Apt. 886, Dawsonmouth, NY 72448",02-04-2024,Silver,Sherri,Moore,NY,1,809,3205.34,2025-04-27 04:54:01,Sports,PayPal,Los Angeles,1
+100,Aaron Irwin,wdavis@example.org,+1 -816-2094,"4938 Natalie Coves Suite 528, Cookfurt, DC 27968",15-06-2024,Bronze,Aaron,Irwin,DC,1,119,3231.06,2025-02-17 18:59:02,Clothing,PayPal,Los Angeles,0
+101,Amy Graham,nicolehorton@example.net,+382 -138-6421,"236 Robert Mall, Stephaniemouth, ME 67219",25-02-2024,Bronze,Amy,Graham,ME,382,825,936.99,2025-02-08 23:03:31,Clothing,Credit Card,Los Angeles,0
+102,Larry Hill,garrettrebecca@example.org,+212 -558-6198,"88672 Reyes Haven, Careyshire, MA 04184",24-02-2024,Bronze,Larry,Hill,MA,212,95,4979.11,2025-04-24 16:42:22,Sports,Cash,Los Angeles,0
+102,Larry Hill,garrettrebecca@example.org,+212 -558-6198,"88672 Reyes Haven, Careyshire, MA 04184",24-02-2024,Bronze,Larry,Hill,MA,212,399,4151.84,2025-05-21 07:52:39,Beauty,Credit Card,New York,0
+103,Lindsey Ruiz,yortiz@example.net,+1 -834-4559,"72026 Lisa Village Apt. 143, North James, NV 39337",10-03-2025,Bronze,Lindsey,Ruiz,NV,1,181,1274.08,2025-03-31 12:04:48,Beauty,Cash,Miami,0
+103,Lindsey Ruiz,yortiz@example.net,+1 -834-4559,"72026 Lisa Village Apt. 143, North James, NV 39337",10-03-2025,Bronze,Lindsey,Ruiz,NV,1,305,4259.69,2025-01-25 23:27:47,Sports,PayPal,Miami,0
+104,Jacob Williams,Jacob.Williams@email.com,+971 -992-3670,"Unit 8694 Box 6181, DPO AE 32297",10-07-2024,Silver,Jacob,Williams,AE,971,838,3736.19,2025-03-30 16:29:43,Home,Debit Card,Miami,1
+106,Edward Williams,gjordan@example.com,+1 -805-9444,"PSC 7243, Box 5927, APO AP 54983",18-04-2024,Bronze,Edward,Williams,AP,1,134,4710.53,2025-01-05 23:59:19,Home,Cash,New York,0
+106,Edward Williams,gjordan@example.com,+1 -805-9444,"PSC 7243, Box 5927, APO AP 54983",18-04-2024,Bronze,Edward,Williams,AP,1,599,2605.77,2025-01-01 05:37:32,Sports,Debit Card,New York,0
+106,Edward Williams,gjordan@example.com,+1 -805-9444,"PSC 7243, Box 5927, APO AP 54983",18-04-2024,Bronze,Edward,Williams,AP,1,712,1122.41,2025-04-20 15:12:26,Clothing,Cash,Chicago,0
+107,Robert Mercado,edward39@example.net,+1 -319-2850,"80709 David Green, South Scottside, MP 10154",21-11-2023,Gold,Robert,Mercado,MP,1,155,398.62,2025-04-03 09:15:31,Home,Debit Card,Online,2
+109,Ana Singleton,butlerkrystal@example.org,+1 -860-3725,"9241 Chung Route, New Jamie, AZ 11340",31-03-2024,Silver,Ana,Singleton,AZ,1,865,3906.21,2025-03-30 06:54:09,Electronics,Credit Card,Los Angeles,1
+111,David Jones,asoto@example.com,+241 -207-6678,"9445 Wells Mall, Jameshaven, GA 03460",11-10-2023,Silver,David,Jones,GA,241,19,15.1,2025-06-01 12:01:00,Beauty,Cash,Los Angeles,1
+112,Mary Mccarthy,wongjacqueline@example.com,+1 -821-1821,"3169 Smith Isle Apt. 669, Barbarabury, NY 47935",24-04-2025,Silver,Mary,Mccarthy,NY,1,569,1382.18,2025-01-01 15:07:47,Beauty,Credit Card,Online,1
+113,Trevor Brown,kevin61@example.net,+1 -444-3855,"184 Cervantes Stravenue, Flowersside, AZ 54726",27-05-2024,Silver,Trevor,Brown,AZ,1,186,478.7,2025-05-13 20:14:23,Beauty,Credit Card,Online,1
+117,Mathew Adams,spowell@example.net,+1 -223-9284,"1614 Joseph Ports Apt. 164, Richfurt, WY 68019",28-11-2024,Gold,Mathew,Adams,WY,1,346,1524.04,2025-01-04 21:56:57,Sports,Cash,Online,2
+117,Mathew Adams,spowell@example.net,+1 -223-9284,"1614 Joseph Ports Apt. 164, Richfurt, WY 68019",28-11-2024,Gold,Mathew,Adams,WY,1,902,1657.23,2025-02-15 01:29:38,Sports,Cash,New York,2
+118,Kelli King,danielmunoz@example.net,+212 -193-7262,"244 Charles Greens, Lewisside, MA 77720",19-03-2025,Bronze,Kelli,King,MA,212,233,4304.25,2025-04-15 07:45:33,Beauty,Debit Card,Online,0
+120,Gina Whitaker,lneal@example.org,+971 -786-8008,"USNV Freeman, FPO AE 36441",04-04-2025,Bronze,Gina,Whitaker,AE,971,347,3656.06,2025-03-14 04:00:05,Sports,Debit Card,Chicago,0
+120,Gina Whitaker,lneal@example.org,+971 -786-8008,"USNV Freeman, FPO AE 36441",04-04-2025,Bronze,Gina,Whitaker,AE,971,957,1538.84,2025-05-28 22:50:31,Home,Debit Card,New York,0
+121,Mark Williams,nnelson@example.org,+1 -995-6131,"Unit 2752 Box 0172, DPO AP 69085",18-05-2025,Silver,Mark,Williams,AP,1,353,0.0,2025-03-13 17:36:15,Home,PayPal,New York,1
+122,Erika Rivera,mark70@example.net,+1 -376-5002,"601 Gray Hill Suite 171, Khanchester, AZ 67197",17-01-2025,Silver,Erika,Rivera,AZ,1,349,608.7,2025-06-08 14:52:12,Home,PayPal,Online,1
+123,Courtney Best,kimberlyfoster@example.com,+1 -275-2937,"14979 Grace Vista Apt. 198, Muellerhaven, VI 36472",19-09-2024,Bronze,Courtney,Best,VI,1,53,2158.73,2025-05-17 05:13:37,Home,Debit Card,Online,0
+123,Courtney Best,kimberlyfoster@example.com,+1 -275-2937,"14979 Grace Vista Apt. 198, Muellerhaven, VI 36472",19-09-2024,Bronze,Courtney,Best,VI,1,856,3476.24,2025-03-13 03:48:53,Sports,Credit Card,New York,0
+125,Chloe Hernandez,kathy77@example.org,+1 -201-5356,"732 Joseph Run, Port Lisa, NY 99367",26-03-2025,Bronze,Chloe,Hernandez,NY,1,757,2101.8,2025-04-13 06:26:53,Beauty,PayPal,Chicago,0
+126,Sharon Alexander,huffgina@example.org,+355 -188-6477,"384 Victor Shores Suite 564, Richardfurt, AL 34767",04-12-2024,Gold,Sharon,Alexander,AL,355,565,29.4,2025-02-20 13:22:52,Beauty,Debit Card,Online,2
+126,Sharon Alexander,huffgina@example.org,+355 -188-6477,"384 Victor Shores Suite 564, Richardfurt, AL 34767",04-12-2024,Gold,Sharon,Alexander,AL,355,581,2970.34,2025-05-18 06:06:27,Home,Credit Card,Chicago,2
+127,Kevin Lee,michael46@example.org,+1 -263-5435,"62068 Sabrina Station, Alexanderfort, NY 53764",04-04-2024,Gold,Kevin,Lee,NY,1,158,1493.13,2025-03-17 07:44:42,Beauty,Debit Card,New York,2
+128,Taylor Randall,evansjohn@example.org,+971 -109-9195,"PSC 8994, Box 2730, APO AE 49954",23-03-2025,Silver,Taylor,Randall,AE,971,523,0.0,2025-05-13 07:41:56,Sports,Debit Card,Online,1
+128,Taylor Randall,evansjohn@example.org,+971 -109-9195,"PSC 8994, Box 2730, APO AE 49954",23-03-2025,Silver,Taylor,Randall,AE,971,614,3002.86,2025-03-20 14:18:05,Beauty,Cash,New York,1
+129,Nathan Pearson,williamsjoel@example.org,+216 -544-2945,"47087 Douglas Ports, Austinchester, TN 99409",08-09-2023,Bronze,Nathan,Pearson,TN,216,103,3977.43,2025-06-11 22:59:22,Beauty,Cash,Chicago,0
+129,Nathan Pearson,williamsjoel@example.org,+216 -544-2945,"47087 Douglas Ports, Austinchester, TN 99409",08-09-2023,Bronze,Nathan,Pearson,TN,216,651,23.65,2025-04-11 20:01:35,Clothing,Credit Card,New York,0
+129,Nathan Pearson,williamsjoel@example.org,+216 -544-2945,"47087 Douglas Ports, Austinchester, TN 99409",08-09-2023,Bronze,Nathan,Pearson,TN,216,876,1812.25,2025-01-26 13:26:22,Beauty,Credit Card,New York,0
+131,Richard Robinson,rebeccaanderson@example.com,+1 -893-2976,"9264 Cheryl Village, Waynechester, CT 55686",12-02-2024,Silver,Richard,Robinson,CT,1,156,3292.45,2025-05-13 10:00:42,Home,Credit Card,Online,1
+131,Richard Robinson,rebeccaanderson@example.com,+1 -893-2976,"9264 Cheryl Village, Waynechester, CT 55686",12-02-2024,Silver,Richard,Robinson,CT,1,674,1468.74,2025-05-12 03:59:32,Clothing,Cash,Chicago,1
+132,Samantha Lewis,powersbradley@example.net,+373 -924-5318,"9399 Schmidt Throughway, East Dawn, MD 81036",25-03-2024,Silver,Samantha,Lewis,MD,373,534,442.29,2025-03-06 02:33:26,Sports,Cash,Los Angeles,1
+134,Travis Maxwell,usilva@example.org,+1 -337-7566,"814 Leonard Heights Suite 939, Lake Davidchester, WA 94885",21-10-2024,Silver,Travis,Maxwell,WA,1,668,268.31,2025-05-21 23:46:46,Home,Cash,Online,1
+135,Alexandra Clements,pcruz@example.org,+1 -816-8163,"60614 Morton Fields, Stephanieview, OH 80343",09-09-2024,Gold,Alexandra,Clements,OH,1,348,1523.16,2025-03-01 23:36:19,Home,PayPal,Los Angeles,2
+135,Alexandra Clements,pcruz@example.org,+1 -816-8163,"60614 Morton Fields, Stephanieview, OH 80343",09-09-2024,Gold,Alexandra,Clements,OH,1,611,951.7,2025-01-19 21:06:37,Clothing,Debit Card,Online,2
+137,Samuel Carter,linda41@example.net,+248 -935-9790,"77364 Taylor Drives, Marytown, SC 10892",25-05-2025,Bronze,Samuel,Carter,SC,248,316,4413.2,2025-03-12 05:23:54,Home,PayPal,Chicago,0
+137,Samuel Carter,linda41@example.net,+248 -935-9790,"77364 Taylor Drives, Marytown, SC 10892",25-05-2025,Bronze,Samuel,Carter,SC,248,714,3087.44,2025-02-20 05:49:18,Beauty,Cash,Los Angeles,0
+137,Samuel Carter,linda41@example.net,+248 -935-9790,"77364 Taylor Drives, Marytown, SC 10892",25-05-2025,Bronze,Samuel,Carter,SC,248,799,861.73,2025-01-02 05:01:59,Home,PayPal,Los Angeles,0
+138,Thomas Wheeler,jessicasolis@example.org,+1 -100-3160,"512 Hunter Ridge Apt. 080, Matthewborough, FL 26669",12-08-2023,Bronze,Thomas,Wheeler,FL,1,777,1402.77,2025-06-01 00:30:40,Sports,PayPal,New York,0
+140,Peggy Clark,qperry@example.net,+1 -202-2576,"Unit 0121 Box 8121, DPO AP 20083",07-01-2025,Bronze,Peggy,Clark,AP,1,117,516.83,2025-06-06 19:04:06,Electronics,PayPal,Miami,0
+140,Peggy Clark,qperry@example.net,+1 -202-2576,"Unit 0121 Box 8121, DPO AP 20083",07-01-2025,Bronze,Peggy,Clark,AP,1,746,2495.65,2025-03-19 05:49:03,Clothing,Cash,Los Angeles,0
+141,Amanda Conrad,jonesjeffrey@example.com,+1 -474-9257,"24869 Elizabeth Mountains Apt. 149, Whitehaven, KY 33771",11-06-2024,Silver,Amanda,Conrad,KY,1,177,313.18,2025-04-21 16:54:29,Clothing,Debit Card,Chicago,1
+141,Amanda Conrad,jonesjeffrey@example.com,+1 -474-9257,"24869 Elizabeth Mountains Apt. 149, Whitehaven, KY 33771",11-06-2024,Silver,Amanda,Conrad,KY,1,660,308.07,2025-06-05 01:31:57,Clothing,Debit Card,Online,1
+141,Amanda Conrad,jonesjeffrey@example.com,+1 -474-9257,"24869 Elizabeth Mountains Apt. 149, Whitehaven, KY 33771",11-06-2024,Silver,Amanda,Conrad,KY,1,911,319.55,2025-04-01 13:14:26,Beauty,Debit Card,Chicago,1
+142,Lisa Morales,torresgeorge@example.net,+507 -411-3216,"529 Day Ridges Suite 876, North Christopherville, PA 59897",27-10-2023,Gold,Lisa,Morales,PA,507,278,1365.73,2025-05-02 21:40:12,Beauty,Credit Card,Miami,2
+144,Kimberly Hernandez,andrea78@example.net,+249 -253-5831,"869 Jacqueline Shoals Apt. 564, Allenton, SD 75993",19-11-2023,Bronze,Kimberly,Hernandez,SD,249,51,330.69,2025-04-17 23:16:52,Beauty,Cash,New York,0
+145,Christopher Gonzalez,richardslisa@example.net,+692 -941-5590,"237 Sergio Rue, Jessicamouth, MH 27674",29-11-2024,Gold,Christopher,Gonzalez,MH,692,810,4549.12,2025-05-29 05:20:05,Sports,Credit Card,Miami,2
+147,Elizabeth Phillips,dana59@example.org,+1 -838-2181,"65742 Schwartz Crossing Suite 318, Jesusshire, ND 01878",22-10-2023,Silver,Elizabeth,Phillips,ND,1,358,0.0,2025-02-05 10:02:32,Beauty,Cash,Los Angeles,1
+147,Elizabeth Phillips,dana59@example.org,+1 -838-2181,"65742 Schwartz Crossing Suite 318, Jesusshire, ND 01878",22-10-2023,Silver,Elizabeth,Phillips,ND,1,450,125.83,2025-03-24 12:45:07,Home,Cash,Los Angeles,1
+147,Elizabeth Phillips,dana59@example.org,+1 -838-2181,"65742 Schwartz Crossing Suite 318, Jesusshire, ND 01878",22-10-2023,Silver,Elizabeth,Phillips,ND,1,584,3063.81,2025-05-31 04:39:23,Electronics,Debit Card,Los Angeles,1
+148,Jason Bautista,rodney43@example.org,+91 -250-5850,"6042 Samuel Field Suite 767, Andersonview, IN 36249",12-05-2024,Gold,Jason,Bautista,IN,91,344,105.77,2025-04-24 04:37:54,Clothing,Credit Card,Los Angeles,2
+148,Jason Bautista,rodney43@example.org,+91 -250-5850,"6042 Samuel Field Suite 767, Andersonview, IN 36249",12-05-2024,Gold,Jason,Bautista,IN,91,381,2443.12,2025-02-23 05:00:19,Electronics,PayPal,Miami,2
+150,Pamela Juarez,underwoodjackie@example.net,+971 -143-2359,"USNS Wolf, FPO AE 65625",19-02-2024,Gold,Pamela,Juarez,AE,971,418,2459.28,2025-03-15 05:30:03,Electronics,PayPal,Los Angeles,2
+151,Beth Martinez,christopher84@example.com,+1 -806-5883,"PSC 3709, Box 0367, APO AP 04860",15-05-2024,Bronze,Beth,Martinez,AP,1,488,0.0,2025-03-11 11:16:47,Electronics,Debit Card,Chicago,0
+152,Jennifer Warren,susan83@example.com,+1 -461-4208,"10934 Corey Villages Apt. 352, Stricklandside, TX 66861",24-05-2024,Silver,Jennifer,Warren,TX,1,153,1667.64,2025-06-17 00:20:54,Sports,Debit Card,New York,1
+152,Jennifer Warren,susan83@example.com,+1 -461-4208,"10934 Corey Villages Apt. 352, Stricklandside, TX 66861",24-05-2024,Silver,Jennifer,Warren,TX,1,785,3001.62,2025-05-17 01:48:27,Electronics,PayPal,Miami,1
+153,Ashley Jacobs,lcharles@example.org,+1 -399-9084,"3544 Garcia Glen Apt. 995, Holmesbury, DC 95497",18-06-2024,Bronze,Ashley,Jacobs,DC,1,86,4077.96,2025-04-03 16:48:51,Sports,Debit Card,Miami,0
+153,Ashley Jacobs,lcharles@example.org,+1 -399-9084,"3544 Garcia Glen Apt. 995, Holmesbury, DC 95497",18-06-2024,Bronze,Ashley,Jacobs,DC,1,871,594.41,2025-03-02 02:10:53,Beauty,Cash,New York,0
+154,Patrick Coffey,alison41@example.com,+91 -169-2003,"121 Sarah Road, North Daniel, IN 41716",30-06-2024,Gold,Patrick,Coffey,IN,91,27,543.27,2025-04-20 05:02:59,Beauty,PayPal,New York,2
+154,Patrick Coffey,alison41@example.com,+91 -169-2003,"121 Sarah Road, North Daniel, IN 41716",30-06-2024,Gold,Patrick,Coffey,IN,91,695,2468.45,2025-01-21 00:56:05,Clothing,Credit Card,Los Angeles,2
+155,James Levine,carterricky@example.net,+1 -995-9484,"8485 Clark Via Suite 324, Jeffersonborough, FL 17968",08-03-2025,Gold,James,Levine,FL,1,639,1328.84,2025-03-11 22:19:29,Home,Credit Card,Online,2
+156,Kenneth Hoffman,philipryan@example.org,+57 -864-7176,"951 Laura Walks Apt. 936, West Jack, CO 95090",26-09-2024,Gold,Kenneth,Hoffman,CO,57,847,2475.38,2025-05-05 10:24:41,Home,Debit Card,Los Angeles,2
+158,Luis Savage,richard43@example.com,+373 -104-4959,"699 Sarah Squares, Burgessshire, MD 15113",15-04-2025,Silver,Luis,Savage,MD,373,647,0.0,2025-02-22 21:29:54,Home,Debit Card,Online,1
+158,Luis Savage,richard43@example.com,+373 -104-4959,"699 Sarah Squares, Burgessshire, MD 15113",15-04-2025,Silver,Luis,Savage,MD,373,821,1300.79,2025-03-16 05:53:21,Sports,Cash,Miami,1
+160,Melissa Moore,aaron26@example.org,+54 -899-2318,"1674 Ramos Orchard Suite 118, Prattchester, AR 35457",26-01-2024,Bronze,Melissa,Moore,AR,54,743,0.0,2025-05-28 19:55:45,Sports,Debit Card,Los Angeles,0
+161,Mary Barron,bassstanley@example.net,+1 -599-9308,"4605 Moore Island, Julieville, TX 39650",15-09-2024,Silver,Mary,Barron,TX,1,339,3348.88,2025-05-15 01:36:20,Home,Cash,Chicago,1
+162,Michael Phillips,dillon00@example.org,+1 -131-3577,"PSC 2333, Box 8395, APO AA 76148",13-06-2024,Silver,Michael,Phillips,AA,1,991,3055.0,2025-04-30 22:46:03,Clothing,Debit Card,Los Angeles,1
+163,Holly Kelly,nreyes@example.org,+1 -591-6873,"93900 Rachel Row, Marshallborough, NC 46843",26-07-2024,Bronze,Holly,Kelly,NC,1,216,678.05,2025-03-09 14:35:09,Home,Cash,Online,0
+163,Holly Kelly,nreyes@example.org,+1 -591-6873,"93900 Rachel Row, Marshallborough, NC 46843",26-07-2024,Bronze,Holly,Kelly,NC,1,568,1033.56,2025-06-03 10:57:12,Clothing,Cash,Online,0
+164,Michelle Washington,snyderdavid@example.org,+1 -987-8864,"69374 Kevin Falls, New Anthony, NC 01785",08-05-2024,Bronze,Michelle,Washington,NC,1,547,3634.63,2025-06-13 19:02:29,Clothing,Debit Card,Los Angeles,0
+164,Michelle Washington,snyderdavid@example.org,+1 -987-8864,"69374 Kevin Falls, New Anthony, NC 01785",08-05-2024,Bronze,Michelle,Washington,NC,1,945,332.21,2025-03-20 14:25:18,Sports,Cash,Los Angeles,0
+166,Christopher Taylor,brendaalvarez@example.org,+1 -261-3388,"8133 Trevor Station, Rhondaside, CT 00911",20-08-2024,Gold,Christopher,Taylor,CT,1,72,2510.17,2025-02-24 12:52:37,Clothing,PayPal,New York,2
+168,Nicholas Gonzalez,jasonharrington@example.org,+1 -366-4564,"6874 Christopher Village Suite 491, North Scottland, NH 36604",04-12-2024,Silver,Nicholas,Gonzalez,NH,1,688,1578.94,2025-04-29 09:08:38,Electronics,Credit Card,Los Angeles,1
+169,Christine Dorsey,tamidavis@example.net,+1 -571-6700,"667 Wilson Orchard Suite 785, Joshuamouth, MO 32120",29-03-2025,Bronze,Christine,Dorsey,MO,1,16,366.17,2025-01-19 13:22:11,Electronics,Cash,New York,0
+169,Christine Dorsey,tamidavis@example.net,+1 -571-6700,"667 Wilson Orchard Suite 785, Joshuamouth, MO 32120",29-03-2025,Bronze,Christine,Dorsey,MO,1,386,1052.66,2025-05-02 16:08:51,Clothing,Cash,Online,0
+169,Christine Dorsey,tamidavis@example.net,+1 -571-6700,"667 Wilson Orchard Suite 785, Joshuamouth, MO 32120",29-03-2025,Bronze,Christine,Dorsey,MO,1,917,1569.36,2025-04-04 16:36:25,Electronics,PayPal,Los Angeles,0
+171,Andrew Carter,rdominguez@example.org,+1 -183-8961,"3836 Christy Mountain, Moorehaven, PR 42134",30-10-2024,Silver,Andrew,Carter,PR,1,48,1722.4,2025-06-02 12:22:28,Clothing,Credit Card,Los Angeles,1
+172,Kyle Serrano,leejennifer@example.org,+241 -650-7419,"1302 Berger Hills, North Daniel, GA 21472",27-03-2024,Gold,Kyle,Serrano,GA,241,640,1461.36,2025-05-20 17:15:47,Home,Credit Card,Miami,2
+173,John Perkins,tyler16@example.org,+1 -642-9163,"7298 Monroe Dam, Lynnmouth, IA 63834",13-03-2025,Silver,John,Perkins,IA,1,796,2937.74,2025-05-24 13:11:14,Beauty,Cash,Chicago,1
+174,Kelly Garner,mosskevin@example.org,+355 -594-4736,"6770 Jade Loop Suite 025, New Jacquelinetown, AL 33958",08-01-2024,Silver,Kelly,Garner,AL,355,338,1768.12,2025-01-24 21:24:54,Beauty,Cash,New York,1
+174,Kelly Garner,mosskevin@example.org,+355 -594-4736,"6770 Jade Loop Suite 025, New Jacquelinetown, AL 33958",08-01-2024,Silver,Kelly,Garner,AL,355,953,4405.23,2025-01-27 20:17:31,Electronics,Debit Card,Miami,1
+175,Hector Smith,dblanchard@example.net,+1 -599-2470,"59147 Hernandez Roads, Port Jeremystad, GU 06583",22-10-2024,Bronze,Hector,Smith,GU,1,367,3546.1,2025-05-07 10:43:47,Beauty,Debit Card,Online,0
+176,Alexandra Williams,katherinerobinson@example.org,+62 -840-7846,"11069 Maria Parkways Suite 034, Ryantown, ID 76602",28-06-2024,Silver,Alexandra,Williams,ID,62,973,0.0,2025-03-31 14:14:54,Sports,Cash,Miami,1
+178,Michael Long,julieproctor@example.com,+382 -483-3650,"3591 Samantha Circle Suite 117, Bennettburgh, ME 70457",26-04-2024,Silver,Michael,Long,ME,382,669,3787.45,2025-04-25 10:31:13,Electronics,Debit Card,Online,1
+179,Tracey Smith,karen86@example.net,+356 -618-4101,"083 Graham Mall Apt. 598, New Johnberg, MT 47638",04-07-2023,Gold,Tracey,Smith,MT,356,622,674.93,2025-05-18 05:44:39,Home,PayPal,Los Angeles,2
+181,Dana Howard,williamwalsh@example.org,+373 -963-6070,"303 Spencer Extensions, Angelton, MD 12555",27-02-2024,Bronze,Dana,Howard,MD,373,633,1969.55,2025-03-31 15:16:21,Sports,PayPal,Online,0
+183,Jacob Garcia,olsenamy@example.com,+1 -124-2099,"USCGC Schwartz, FPO AP 74066",27-04-2024,Gold,Jacob,Garcia,AP,1,394,1476.9,2025-01-11 18:56:11,Home,Cash,Online,2
+184,Katherine Howe,fryneil@example.org,+49 -624-3402,"47920 Griffin Island Suite 341, East William, DE 22861",13-03-2025,Gold,Katherine,Howe,DE,49,24,0.0,2025-02-27 13:58:05,Beauty,Debit Card,Los Angeles,2
+184,Katherine Howe,fryneil@example.org,+49 -624-3402,"47920 Griffin Island Suite 341, East William, DE 22861",13-03-2025,Gold,Katherine,Howe,DE,49,154,0.0,2025-04-01 12:35:51,Beauty,Debit Card,Chicago,2
+184,Katherine Howe,fryneil@example.org,+49 -624-3402,"47920 Griffin Island Suite 341, East William, DE 22861",13-03-2025,Gold,Katherine,Howe,DE,49,451,1106.44,2025-02-20 15:50:12,Beauty,Credit Card,Chicago,2
+186,Amanda Salazar,annahowell@example.com,+212 -808-4490,"2696 Laura Walk Apt. 575, Port Natalie, MA 35406",26-11-2024,Silver,Amanda,Salazar,MA,212,499,0.0,2025-04-01 06:40:46,Sports,Cash,New York,1
+191,Ryan Henderson,lisa16@example.com,+241 -815-5725,"7779 April Rue Apt. 159, Christopherbury, GA 20951",09-04-2025,Silver,Ryan,Henderson,GA,241,402,4652.75,2025-02-12 03:07:31,Sports,Credit Card,Los Angeles,1
+191,Ryan Henderson,lisa16@example.com,+241 -815-5725,"7779 April Rue Apt. 159, Christopherbury, GA 20951",09-04-2025,Silver,Ryan,Henderson,GA,241,680,2029.14,2025-02-11 12:28:25,Beauty,Credit Card,Los Angeles,1
+191,Ryan Henderson,lisa16@example.com,+241 -815-5725,"7779 April Rue Apt. 159, Christopherbury, GA 20951",09-04-2025,Silver,Ryan,Henderson,GA,241,949,765.55,2025-06-16 21:13:02,Clothing,Cash,Online,1
+192,Jeffrey Holland,sheila53@example.com,+1 -965-7372,"69465 Tiffany Harbor Suite 409, Port Brian, WV 63970",28-10-2024,Silver,Jeffrey,Holland,WV,1,588,4069.52,2025-02-10 03:39:17,Clothing,Debit Card,Chicago,1
+195,Stephanie Ruiz,frederickandrew@example.org,+54 -521-9720,"082 Pratt Stravenue Suite 923, Donaldhaven, AR 98162",31-12-2023,Silver,Stephanie,Ruiz,AR,54,685,4799.04,2025-01-24 11:23:30,Electronics,Debit Card,Online,1
+197,Kevin Evans,jerry88@example.com,+1 -670-4056,"1082 Anthony Tunnel, Lindaborough, MS 89741",05-08-2024,Silver,Kevin,Evans,MS,1,751,803.93,2025-01-03 23:19:33,Beauty,PayPal,Miami,1
+199,Mary Hays,xthompson@example.net,+1 -578-1116,"631 Christina Crescent Apt. 866, Walterside, DC 89763",08-05-2025,Silver,Mary,Hays,DC,1,606,2778.46,2025-06-14 07:21:44,Electronics,Credit Card,Chicago,1
+199,Mary Hays,xthompson@example.net,+1 -578-1116,"631 Christina Crescent Apt. 866, Walterside, DC 89763",08-05-2025,Silver,Mary,Hays,DC,1,770,3038.46,2025-05-01 00:19:27,Sports,PayPal,New York,1
+200,Sarah Brown,thomasjohnston@example.com,+1 -646-2805,"6903 Monica Cove Suite 303, Jasonhaven, PR 14478",25-07-2024,Silver,Sarah,Brown,PR,1,9,2821.46,2025-01-22 19:12:23,Electronics,PayPal,New York,1
+201,Christine Waller,melissa65@example.com,+1 -142-6168,"048 Jacqueline Gardens Apt. 811, Dianabury, AS 65883",22-02-2025,Silver,Christine,Waller,AS,1,645,0.0,2025-02-17 04:45:49,Home,PayPal,Online,1
+202,Tracey Armstrong,orichard@example.org,+54 -700-5068,"8179 Moses Forge Suite 381, Sanchezberg, AR 30080",07-09-2023,Bronze,Tracey,Armstrong,AR,54,468,3683.34,2025-01-12 07:17:10,Sports,Debit Card,Online,0
+202,Tracey Armstrong,orichard@example.org,+54 -700-5068,"8179 Moses Forge Suite 381, Sanchezberg, AR 30080",07-09-2023,Bronze,Tracey,Armstrong,AR,54,541,2542.15,2025-05-23 18:07:04,Clothing,Debit Card,Online,0
+202,Tracey Armstrong,orichard@example.org,+54 -700-5068,"8179 Moses Forge Suite 381, Sanchezberg, AR 30080",07-09-2023,Bronze,Tracey,Armstrong,AR,54,910,4542.68,2025-03-26 04:05:08,Home,Cash,Online,0
+205,Timothy Ball,clarkrobert@example.org,+1 -283-7779,"23501 Barbara Row Suite 231, Lake Allison, MO 60905",25-10-2024,Bronze,Timothy,Ball,MO,1,260,3657.37,2025-06-09 06:10:04,Home,Credit Card,Los Angeles,0
+205,Timothy Ball,clarkrobert@example.org,+1 -283-7779,"23501 Barbara Row Suite 231, Lake Allison, MO 60905",25-10-2024,Bronze,Timothy,Ball,MO,1,848,0.0,2025-03-19 18:36:57,Beauty,Debit Card,Chicago,0
+206,Christopher Sanchez,jasmine14@example.com,+1 -834-5849,"43879 White Pike, Loriland, NJ 35550",20-01-2025,Gold,Christopher,Sanchez,NJ,1,623,3590.37,2025-02-06 01:21:26,Home,PayPal,Chicago,2
+208,Michael Robinson,zjackson@example.net,+1 -505-1871,"167 Reed Fall Suite 928, Port Arthurtown, NM 18018",21-03-2024,Bronze,Michael,Robinson,NM,1,35,3632.29,2025-01-25 13:36:46,Home,Cash,Los Angeles,0
+208,Michael Robinson,zjackson@example.net,+1 -505-1871,"167 Reed Fall Suite 928, Port Arthurtown, NM 18018",21-03-2024,Bronze,Michael,Robinson,NM,1,228,2875.15,2025-01-15 02:40:17,Home,Debit Card,Los Angeles,0
+208,Michael Robinson,zjackson@example.net,+1 -505-1871,"167 Reed Fall Suite 928, Port Arthurtown, NM 18018",21-03-2024,Bronze,Michael,Robinson,NM,1,947,2226.28,2025-03-07 03:05:29,Beauty,Cash,Los Angeles,0
+210,Steven Little,Steven.Little@email.com,+379 -401-2577,"98653 Patel Brook Suite 801, North Pamela, VA 64279",09-11-2024,Gold,Steven,Little,VA,379,41,4484.24,2025-01-27 13:52:07,Beauty,Cash,Los Angeles,2
+210,Steven Little,Steven.Little@email.com,+379 -401-2577,"98653 Patel Brook Suite 801, North Pamela, VA 64279",09-11-2024,Gold,Steven,Little,VA,379,46,4277.78,2025-02-23 04:30:59,Beauty,Credit Card,Online,2
+210,Steven Little,Steven.Little@email.com,+379 -401-2577,"98653 Patel Brook Suite 801, North Pamela, VA 64279",09-11-2024,Gold,Steven,Little,VA,379,944,3463.49,2025-02-04 20:33:32,Electronics,PayPal,New York,2
+211,Larry Miller,shannon34@example.org,+691 -645-4657,"000 Cox River Apt. 756, Levineburgh, FM 77498",18-04-2024,Silver,Larry,Miller,FM,691,666,2927.3,2025-02-23 04:59:04,Clothing,Cash,Chicago,1
+212,Andrea Harris,lucas50@example.net,+1 -158-1353,"04344 Mary Point, Robertland, NY 04590",23-04-2025,Silver,Andrea,Harris,NY,1,178,657.49,2025-05-19 07:11:26,Home,PayPal,Chicago,1
+212,Andrea Harris,lucas50@example.net,+1 -158-1353,"04344 Mary Point, Robertland, NY 04590",23-04-2025,Silver,Andrea,Harris,NY,1,406,4022.7,2025-06-10 20:02:00,Electronics,PayPal,Online,1
+213,Robert Flowers,patrickpowell@example.net,+54 -503-1930,"1574 Edward Skyway, Smithbury, AR 01018",31-10-2024,Gold,Robert,Flowers,AR,54,371,910.56,2025-03-24 21:08:21,Sports,PayPal,Chicago,2
+214,James Richardson,lisathomas@example.org,+1 -138-3152,"147 Flynn Brook Suite 487, Ericksonmouth, RI 44875",30-08-2023,Bronze,James,Richardson,RI,1,372,1835.58,2025-01-06 06:03:57,Home,Cash,New York,0
+214,James Richardson,lisathomas@example.org,+1 -138-3152,"147 Flynn Brook Suite 487, Ericksonmouth, RI 44875",30-08-2023,Bronze,James,Richardson,RI,1,884,4640.15,2025-03-13 08:28:17,Clothing,Credit Card,Los Angeles,0
+215,David Baker,andersonscott@example.com,+241 -602-9809,"5386 Park Valleys Suite 887, Johnsonhaven, GA 79098",21-06-2024,Bronze,David,Baker,GA,241,302,3418.9,2025-06-15 00:41:01,Sports,Credit Card,Los Angeles,0
+215,David Baker,andersonscott@example.com,+241 -602-9809,"5386 Park Valleys Suite 887, Johnsonhaven, GA 79098",21-06-2024,Bronze,David,Baker,GA,241,361,1785.49,2025-02-20 03:44:19,Home,Cash,New York,0
+215,David Baker,andersonscott@example.com,+241 -602-9809,"5386 Park Valleys Suite 887, Johnsonhaven, GA 79098",21-06-2024,Bronze,David,Baker,GA,241,474,1730.82,2025-06-15 11:38:29,Beauty,Credit Card,New York,0
+216,Jonathan Mcintyre,baileyjames@example.org,+971 -529-8428,"Unit 6819 Box 5672, DPO AE 26000",26-01-2025,Gold,Jonathan,Mcintyre,AE,971,205,607.75,2025-02-06 06:10:36,Electronics,Debit Card,Chicago,2
+216,Jonathan Mcintyre,baileyjames@example.org,+971 -529-8428,"Unit 6819 Box 5672, DPO AE 26000",26-01-2025,Gold,Jonathan,Mcintyre,AE,971,536,3279.26,2025-01-02 20:44:21,Clothing,Cash,Online,2
+216,Jonathan Mcintyre,baileyjames@example.org,+971 -529-8428,"Unit 6819 Box 5672, DPO AE 26000",26-01-2025,Gold,Jonathan,Mcintyre,AE,971,887,3982.83,2025-05-30 16:26:55,Beauty,Cash,Los Angeles,2
+218,Sharon Reynolds,kempjustin@example.org,+1 -500-6328,"23627 Brown Hills Apt. 797, Washingtonberg, CA 57523",01-05-2024,Silver,Sharon,Reynolds,CA,1,59,1342.26,2025-04-25 00:29:20,Sports,Credit Card,Miami,1
+218,Sharon Reynolds,kempjustin@example.org,+1 -500-6328,"23627 Brown Hills Apt. 797, Washingtonberg, CA 57523",01-05-2024,Silver,Sharon,Reynolds,CA,1,872,673.2,2025-03-15 08:39:22,Clothing,Debit Card,Online,1
+219,Elizabeth Sullivan,alexandracastro@example.org,+1 -939-1079,"67548 Sharp Burg, West Jimmymouth, VT 18884",29-11-2024,Gold,Elizabeth,Sullivan,VT,1,279,2937.66,2025-06-09 09:17:16,Sports,PayPal,New York,2
+223,Tanner Thomas,megan11@example.net,+1 -547-4495,"32317 Jennifer Ferry Suite 618, Jessemouth, AK 23666",05-06-2024,Silver,Tanner,Thomas,AK,1,39,454.05,2025-03-04 18:16:42,Clothing,Cash,Chicago,1
+225,Justin Patterson,zmcdonald@example.org,+1 -649-5333,"281 Terry Ports Suite 790, Kimberlymouth, NC 70991",16-07-2024,Silver,Justin,Patterson,NC,1,396,3340.79,2025-05-12 23:17:27,Clothing,PayPal,Online,1
+226,Ryan Thompson,Ryan.Thompson@email.com,+1 -700-1163,"62857 Anne Trafficway Suite 294, New Anthony, MP 17429",28-03-2025,Gold,Ryan,Thompson,MP,1,368,2300.1,2025-05-08 20:50:22,Home,Debit Card,Miami,2
+227,Eric Reynolds,nbrown@example.com,+1 -782-1388,"9084 Zachary Meadows, West Dale, WV 54027",23-09-2023,Gold,Eric,Reynolds,WV,1,951,989.98,2025-05-14 06:58:18,Beauty,Cash,Online,2
+229,Wendy Anderson,spencerkristina@example.com,+1 -986-9717,"9098 Doris Course Apt. 339, Morrisshire, DC 26972",23-03-2025,Gold,Wendy,Anderson,DC,1,955,4694.35,2025-04-10 23:33:36,Sports,Cash,Miami,2
+230,Tyler Velazquez,kathrynharris@example.net,+1 -255-9423,"61344 Jennifer Unions Suite 031, Eriktown, NM 32136",29-09-2024,Gold,Tyler,Velazquez,NM,1,873,3671.14,2025-02-07 13:32:18,Sports,Credit Card,Chicago,2
+230,Tyler Velazquez,kathrynharris@example.net,+1 -255-9423,"61344 Jennifer Unions Suite 031, Eriktown, NM 32136",29-09-2024,Gold,Tyler,Velazquez,NM,1,922,2641.59,2025-03-01 13:18:01,Sports,PayPal,New York,2
+231,Jeffrey Alvarez,dunnrobert@example.net,+507 -345-4774,"80418 Miller Locks Apt. 605, Jeffreyton, PA 86139",12-12-2023,Gold,Jeffrey,Alvarez,PA,507,781,4289.58,2025-03-14 01:26:29,Home,Credit Card,New York,2
+232,Jennifer Payne,andrewforbes@example.com,+1 -688-8852,"012 Zachary Mission Apt. 205, Murphyhaven, PR 22085",31-05-2024,Silver,Jennifer,Payne,PR,1,620,315.64,2025-02-22 17:41:23,Beauty,PayPal,Chicago,1
+234,Andrew Miranda,gatesdonna@example.org,+1 -305-8776,"4104 Tracy River, Sandraborough, WV 09864",07-08-2023,Silver,Andrew,Miranda,WV,1,272,0.0,2025-01-16 19:10:19,Clothing,PayPal,Chicago,1
+234,Andrew Miranda,gatesdonna@example.org,+1 -305-8776,"4104 Tracy River, Sandraborough, WV 09864",07-08-2023,Silver,Andrew,Miranda,WV,1,487,1095.54,2025-06-06 22:01:56,Clothing,Debit Card,Miami,1
+235,Jennifer Arellano,khernandez@example.com,+1 -331-1376,"675 Snow Port Suite 686, Gonzalezshire, NV 15874",08-11-2023,Gold,Jennifer,Arellano,NV,1,997,2125.18,2025-06-09 12:37:36,Electronics,PayPal,Chicago,2
+236,Melissa Bryan,mooredanielle@example.net,+1 -783-5675,"6245 Timothy Village Apt. 972, New Steven, RI 47937",18-02-2025,Silver,Melissa,Bryan,RI,1,798,4593.87,2025-04-09 01:32:54,Electronics,Debit Card,Chicago,1
+237,Christopher Bell,eric67@example.com,+1 -742-3987,"5721 Jeffrey Port, Jonesshire, TX 56909",15-11-2024,Silver,Christopher,Bell,TX,1,336,2323.98,2025-04-04 21:50:07,Beauty,PayPal,Online,1
+238,Mark Keller,ipadilla@example.com,+971 -769-6962,"PSC 7865, Box 1397, APO AE 96166",25-10-2023,Gold,Mark,Keller,AE,971,968,1223.14,2025-01-07 08:55:59,Beauty,Debit Card,Los Angeles,2
+239,Michael Warren,morenodakota@example.com,+1 -868-1418,"256 Adrienne Corners, Amyton, OH 06579",05-03-2025,Bronze,Michael,Warren,OH,1,981,3867.26,2025-02-25 23:37:06,Beauty,Debit Card,Online,0
+240,Jocelyn Brandt,Jocelyn.Brandt@email.com,+1 -587-4118,"50829 Case Pine, Christopherside, ND 87541",14-08-2023,Gold,Jocelyn,Brandt,ND,1,276,1001.23,2025-03-03 20:31:59,Beauty,Debit Card,New York,2
+240,Jocelyn Brandt,Jocelyn.Brandt@email.com,+1 -587-4118,"50829 Case Pine, Christopherside, ND 87541",14-08-2023,Gold,Jocelyn,Brandt,ND,1,827,3141.98,2025-05-17 18:45:54,Sports,Credit Card,Online,2
+243,Nancy Rubio,ehendricks@example.org,+1 -520-3860,"8943 John Fall Apt. 944, West Tanner, UT 22368",29-09-2024,Bronze,Nancy,Rubio,UT,1,82,301.28,2025-03-21 15:15:44,Beauty,Cash,New York,0
+244,Mary Martin,baileybaker@example.com,+1 -342-2802,"83654 Anderson Via Apt. 805, Raymondhaven, OR 91026",11-04-2024,Bronze,Mary,Martin,OR,1,718,3496.4,2025-02-18 03:03:39,Home,Cash,Chicago,0
+244,Mary Martin,baileybaker@example.com,+1 -342-2802,"83654 Anderson Via Apt. 805, Raymondhaven, OR 91026",11-04-2024,Bronze,Mary,Martin,OR,1,907,3311.41,2025-06-06 00:30:10,Sports,PayPal,New York,0
+245,Jaclyn Owens,edward23@example.com,+1 -326-2482,"4679 Diaz Haven Suite 175, Brandychester, MI 92081",29-08-2024,Bronze,Jaclyn,Owens,MI,1,829,1562.36,2025-02-05 20:13:15,Beauty,Credit Card,Chicago,0
+246,Charles Graham,kennethmoore@example.net,+57 -735-6873,"6121 Wright Underpass, South Toddbury, CO 11795",27-04-2024,Silver,Charles,Graham,CO,57,269,1516.26,2025-02-22 17:10:58,Sports,Credit Card,Online,1
+248,Emily Jackson,jchristian@example.net,+241 -865-5309,"8533 George Plains, Port John, GA 74711",13-04-2025,Gold,Emily,Jackson,GA,241,191,4136.33,2025-05-23 08:37:10,Clothing,Debit Card,Online,2
+249,Vanessa Gould,meyerelizabeth@example.net,+1 -688-6071,"95954 Berry Isle Apt. 662, Bryantmouth, MI 93777",04-01-2025,Gold,Vanessa,Gould,MI,1,649,0.0,2025-04-18 10:11:32,Clothing,PayPal,Chicago,2
+252,Andrea Jones,john59@example.com,+1 -369-9195,"02310 Schultz Junction Apt. 165, Port Tanyastad, WY 30994",28-03-2024,Bronze,Andrea,Jones,WY,1,90,3704.49,2025-06-11 03:03:04,Sports,Debit Card,Chicago,0
+253,Mary Schneider,yoconnor@example.net,+1 -163-4710,"Unit 0740 Box 4483, DPO AA 60517",18-02-2024,Silver,Mary,Schneider,AA,1,166,3244.47,2025-01-21 01:34:22,Electronics,Debit Card,New York,1
+253,Mary Schneider,yoconnor@example.net,+1 -163-4710,"Unit 0740 Box 4483, DPO AA 60517",18-02-2024,Silver,Mary,Schneider,AA,1,454,4305.83,2025-05-27 14:21:07,Clothing,Credit Card,Online,1
+255,Misty Romero,ucrawford@example.org,+692 -740-7783,"878 Sheppard Stream Suite 368, Staceyview, MH 08601",20-12-2023,Bronze,Misty,Romero,MH,692,510,1935.5,2025-02-28 18:01:06,Electronics,Credit Card,Miami,0
+256,Jennifer Bonilla,grahammadeline@example.net,+1 -222-8831,"Unit 0493 Box 9031, DPO AP 01455",17-10-2023,Silver,Jennifer,Bonilla,AP,1,748,3735.84,2025-02-26 19:12:42,Clothing,Credit Card,Chicago,1
+256,Jennifer Bonilla,grahammadeline@example.net,+1 -222-8831,"Unit 0493 Box 9031, DPO AP 01455",17-10-2023,Silver,Jennifer,Bonilla,AP,1,900,2765.69,2025-02-17 08:36:08,Clothing,Cash,Los Angeles,1
+257,Donna Roberts,melindamoss@example.org,+1 -100-3405,"3700 Diana Views Suite 628, South Nicole, KY 77668",24-01-2024,Silver,Donna,Roberts,KY,1,390,4078.63,2025-02-12 23:27:00,Home,Debit Card,Miami,1
+258,Jesus Lucas,wsmith@example.org,+248 -886-9122,"7606 Le Landing Apt. 728, Lake Raymondhaven, SC 95733",01-12-2023,Silver,Jesus,Lucas,SC,248,467,996.81,2025-03-02 01:34:39,Beauty,Debit Card,New York,1
+258,Jesus Lucas,wsmith@example.org,+248 -886-9122,"7606 Le Landing Apt. 728, Lake Raymondhaven, SC 95733",01-12-2023,Silver,Jesus,Lucas,SC,248,496,4220.45,2025-01-21 19:32:43,Clothing,Credit Card,Chicago,1
+259,John King,kmullins@example.org,+249 -688-7297,"1756 Robinson Dale, North Tina, SD 69227",04-04-2024,Gold,John,King,SD,249,33,2011.03,2025-01-23 21:57:58,Home,Debit Card,Online,2
+259,John King,kmullins@example.org,+249 -688-7297,"1756 Robinson Dale, North Tina, SD 69227",04-04-2024,Gold,John,King,SD,249,700,3566.26,2025-01-11 03:31:35,Clothing,Cash,Miami,2
+261,Kristi Clarke,wgreen@example.org,+1 -877-8644,"767 Ralph Pass, East Michelle, FL 17450",09-05-2025,Gold,Kristi,Clarke,FL,1,527,2728.64,2025-04-24 08:50:08,Clothing,Cash,Chicago,2
+262,Julia Ingram,derrickcruz@example.org,+1 -682-6725,"2876 Cox Village, West Jonmouth, AK 63438",09-01-2024,Bronze,Julia,Ingram,AK,1,383,381.86,2025-01-22 21:16:11,Sports,Credit Card,New York,0
+262,Julia Ingram,derrickcruz@example.org,+1 -682-6725,"2876 Cox Village, West Jonmouth, AK 63438",09-01-2024,Bronze,Julia,Ingram,AK,1,642,4324.39,2025-02-01 23:47:10,Clothing,Cash,Online,0
+263,Amy Wilson,umorris@example.net,+1 -243-4510,"2892 Edward Oval Apt. 027, Amandafurt, NC 52635",11-03-2024,Silver,Amy,Wilson,NC,1,610,3435.23,2025-04-07 01:19:25,Home,Cash,New York,1
+264,Charles Noble,crystaldavis@example.com,+1 -169-1584,"793 Judy Road, South Meagan, OR 35852",13-03-2025,Bronze,Charles,Noble,OR,1,414,4374.65,2025-02-18 12:11:13,Electronics,Cash,Los Angeles,0
+266,Leah Gonzalez,angela76@example.com,+1 -622-8448,"9511 Paula Place, East Williamville, MS 56549",06-10-2023,Silver,Leah,Gonzalez,MS,1,879,3625.53,2025-02-01 22:35:42,Home,PayPal,Chicago,1
+266,Leah Gonzalez,angela76@example.com,+1 -622-8448,"9511 Paula Place, East Williamville, MS 56549",06-10-2023,Silver,Leah,Gonzalez,MS,1,969,4238.05,2025-02-05 18:42:28,Electronics,Debit Card,Chicago,1
+267,Tara Cox,heatherpatel@example.net,+1 -187-4112,"4962 Patricia Avenue Apt. 761, Smithtown, WV 91221",12-12-2024,Gold,Tara,Cox,WV,1,266,1382.88,2025-03-02 03:58:08,Clothing,Credit Card,Los Angeles,2
+268,Michelle Hooper,jonathan17@example.net,+1 -724-5531,"08653 Wright Summit, Johnland, KY 35664",19-04-2024,Silver,Michelle,Hooper,KY,1,507,478.78,2025-06-06 18:05:11,Electronics,Cash,Miami,1
+269,Jessica Scott,ricky97@example.com,+1 -721-4412,"870 Brett Alley Suite 545, Wilsonburgh, AK 82301",06-03-2024,Silver,Jessica,Scott,AK,1,328,1087.3,2025-04-11 22:35:20,Home,Debit Card,Online,1
+269,Jessica Scott,ricky97@example.com,+1 -721-4412,"870 Brett Alley Suite 545, Wilsonburgh, AK 82301",06-03-2024,Silver,Jessica,Scott,AK,1,483,1301.18,2025-05-10 16:46:36,Electronics,PayPal,Miami,1
+269,Jessica Scott,ricky97@example.com,+1 -721-4412,"870 Brett Alley Suite 545, Wilsonburgh, AK 82301",06-03-2024,Silver,Jessica,Scott,AK,1,631,4477.96,2025-01-07 03:26:37,Electronics,Debit Card,Los Angeles,1
+270,David Gilmore,andersoncaitlin@example.com,+248 -640-7736,"21158 Travis Forges Apt. 061, Tuckerfort, SC 45078",06-03-2024,Silver,David,Gilmore,SC,248,98,3274.94,2025-03-01 10:19:27,Electronics,Cash,Online,1
+270,David Gilmore,andersoncaitlin@example.com,+248 -640-7736,"21158 Travis Forges Apt. 061, Tuckerfort, SC 45078",06-03-2024,Silver,David,Gilmore,SC,248,448,891.01,2025-03-19 15:04:59,Home,Cash,Online,1
+271,Nicholas Turner,ipalmer@example.org,+62 -876-6665,"1125 Smith Island, Alvaradoborough, ID 39192",24-04-2025,Silver,Nicholas,Turner,ID,62,36,3320.88,2025-03-14 10:20:41,Beauty,Debit Card,Miami,1
+271,Nicholas Turner,ipalmer@example.org,+62 -876-6665,"1125 Smith Island, Alvaradoborough, ID 39192",24-04-2025,Silver,Nicholas,Turner,ID,62,984,4213.12,2025-01-06 19:50:35,Sports,Cash,Online,1
+274,Bradley Phillips,kristen01@example.org,+1 -486-3291,"83415 Ross Points Suite 681, South Jimmy, OH 51465",25-07-2023,Bronze,Bradley,Phillips,OH,1,962,2238.32,2025-06-05 12:16:26,Beauty,Credit Card,New York,0
+276,Justin Jennings,qstephens@example.net,+1 -799-5676,"7107 Campbell Villages, Shelbymouth, MI 48271",19-11-2023,Silver,Justin,Jennings,MI,1,249,3551.77,2025-05-24 14:08:52,Electronics,Cash,Miami,1
+277,Benjamin Williams,josephferguson@example.net,+1 -137-1453,"99695 Pope Ports, Brownmouth, VI 96863",30-01-2025,Silver,Benjamin,Williams,VI,1,277,3965.03,2025-02-11 11:11:20,Home,Cash,Los Angeles,1
+277,Benjamin Williams,josephferguson@example.net,+1 -137-1453,"99695 Pope Ports, Brownmouth, VI 96863",30-01-2025,Silver,Benjamin,Williams,VI,1,768,3465.21,2025-01-19 20:23:34,Clothing,Cash,Online,1
+283,Steven Price,yrivera@example.net,+972 -510-5098,"844 Tracy Glens, Thompsonberg, IL 81137",05-06-2025,Gold,Steven,Price,IL,972,139,4270.05,2025-05-15 01:20:58,Home,PayPal,Online,2
+283,Steven Price,yrivera@example.net,+972 -510-5098,"844 Tracy Glens, Thompsonberg, IL 81137",05-06-2025,Gold,Steven,Price,IL,972,142,3371.6,2025-02-25 14:09:10,Home,PayPal,Chicago,2
+283,Steven Price,yrivera@example.net,+972 -510-5098,"844 Tracy Glens, Thompsonberg, IL 81137",05-06-2025,Gold,Steven,Price,IL,972,644,3277.25,2025-04-11 00:41:57,Home,Cash,Chicago,2
+285,Timothy Roberts,Timothy.Roberts@email.com,+57 -510-4266,"947 Singh Summit Apt. 802, Johnsburgh, CO 65026",24-10-2023,Gold,Timothy,Roberts,CO,57,237,725.18,2025-05-26 17:23:24,Home,Credit Card,Chicago,2
+286,Chris Washington,myork@example.com,+691 -302-2916,"957 Danielle Passage, Tammyton, FM 47260",22-02-2024,Bronze,Chris,Washington,FM,691,13,2071.72,2025-05-06 03:01:02,Clothing,Cash,Miami,0
+286,Chris Washington,myork@example.com,+691 -302-2916,"957 Danielle Passage, Tammyton, FM 47260",22-02-2024,Bronze,Chris,Washington,FM,691,165,262.11,2025-01-24 20:20:06,Beauty,PayPal,Online,0
+291,Adam Cook,jacksonsuzanne@example.net,+1 -690-7680,"334 Cheryl Manor, New Allen, MI 73722",01-03-2025,Bronze,Adam,Cook,MI,1,321,3891.85,2025-04-03 18:01:22,Clothing,PayPal,Online,0
+295,Tara Murphy,mary41@example.com,+212 -516-4213,"83442 Joshua Fork Apt. 148, Schmidtfort, MA 76993",09-11-2024,Silver,Tara,Murphy,MA,212,803,1926.05,2025-02-27 12:16:08,Clothing,Debit Card,Chicago,1
+296,Tara Webb,sheila70@example.org,+1 -908-5172,"94923 Laura Rue, Stewarttown, ND 63165",03-06-2025,Silver,Tara,Webb,ND,1,78,3743.55,2025-02-04 08:17:51,Home,Credit Card,Chicago,1
+296,Tara Webb,sheila70@example.org,+1 -908-5172,"94923 Laura Rue, Stewarttown, ND 63165",03-06-2025,Silver,Tara,Webb,ND,1,332,206.5,2025-01-04 19:57:10,Home,Cash,Online,1
+297,Bryan Marshall,daniel62@example.net,+1 e,"86370 Charles Loop Apt. 517, Madelineborough, WV 97499",30-06-2024,Silver,Bryan,Marshall,WV,1,235,1616.8,2025-01-31 06:25:49,Beauty,PayPal,Chicago,1
+298,Teresa Alexander,smurphy@example.net,+241 -410-6970,"679 Isabella Garden, Dustinview, GA 15586",17-04-2024,Gold,Teresa,Alexander,GA,241,161,1192.58,2025-03-01 08:22:21,Home,Cash,Chicago,2
+300,Mary Rich,michael88@example.org,+249 -467-9387,"9240 Warner Spurs Apt. 158, Jimmymouth, SD 98508",19-12-2023,Gold,Mary,Rich,SD,249,262,1984.05,2025-05-30 23:12:05,Electronics,PayPal,Los Angeles,2
+301,Michael Schroeder,jefferygarcia@example.org,+1 -425-3622,"9529 Zachary Parkways Suite 978, North Gabrielbury, MI 42304",27-09-2023,Bronze,Michael,Schroeder,MI,1,202,4330.1,2025-04-08 06:17:48,Clothing,Debit Card,Chicago,0
+301,Michael Schroeder,jefferygarcia@example.org,+1 -425-3622,"9529 Zachary Parkways Suite 978, North Gabrielbury, MI 42304",27-09-2023,Bronze,Michael,Schroeder,MI,1,209,3526.29,2025-03-20 07:04:46,Clothing,PayPal,Chicago,0
+301,Michael Schroeder,jefferygarcia@example.org,+1 -425-3622,"9529 Zachary Parkways Suite 978, North Gabrielbury, MI 42304",27-09-2023,Bronze,Michael,Schroeder,MI,1,458,2973.48,2025-05-01 20:09:50,Beauty,Credit Card,Online,0
+301,Michael Schroeder,jefferygarcia@example.org,+1 -425-3622,"9529 Zachary Parkways Suite 978, North Gabrielbury, MI 42304",27-09-2023,Bronze,Michael,Schroeder,MI,1,648,2967.35,2025-02-17 01:18:44,Beauty,Credit Card,Chicago,0
+302,David Watson,evansbradley@example.com,+1 -551-7289,"0525 Rivers Wells Apt. 655, West Christopher, OR 23013",01-06-2024,Gold,David,Watson,OR,1,928,4334.04,2025-05-22 07:19:25,Beauty,Debit Card,Miami,2
+303,Wesley George,maria99@example.org,+216 -170-2778,"8688 Charles Flat, South Samuelland, TN 99286",09-05-2025,Bronze,Wesley,George,TN,216,23,1108.71,2025-01-22 10:42:01,Electronics,Credit Card,Miami,0
+303,Wesley George,maria99@example.org,+216 -170-2778,"8688 Charles Flat, South Samuelland, TN 99286",09-05-2025,Bronze,Wesley,George,TN,216,563,2682.71,2025-03-24 17:55:10,Clothing,Credit Card,Online,0
+303,Wesley George,maria99@example.org,+216 -170-2778,"8688 Charles Flat, South Samuelland, TN 99286",09-05-2025,Bronze,Wesley,George,TN,216,992,457.81,2025-06-01 21:18:07,Clothing,PayPal,Chicago,0
+304,Ryan Farley,ybartlett@example.org,+1 -918-4835,"1738 Katie Locks Apt. 002, Jodyburgh, VI 91996",09-07-2024,Silver,Ryan,Farley,VI,1,702,3887.25,2025-05-29 15:28:18,Sports,Cash,Chicago,1
+305,William Baker,kelleykenneth@example.net,+856 -401-3320,"06951 Allison Crossroad Apt. 226, Anthonybury, LA 62012",17-02-2024,Bronze,William,Baker,LA,856,426,16.65,2025-06-04 10:52:40,Beauty,Debit Card,Miami,0
+307,Courtney Reed,xhopkins@example.net,+1 xxx-xxx-xxxx,"8858 Joshua Square Suite 148, Johnbury, OH 85434",04-09-2024,Gold,Courtney,Reed,OH,1,340,1008.48,2025-05-13 17:02:48,Home,Credit Card,Los Angeles,2
+310,Amy Holland,johngarcia@example.net,+54 -980-4345,"679 Cabrera Mission Apt. 743, Port Jillian, AR 49650",22-03-2025,Bronze,Amy,Holland,AR,54,600,303.19,2025-01-12 06:52:27,Clothing,Credit Card,Chicago,0
+310,Amy Holland,johngarcia@example.net,+54 -980-4345,"679 Cabrera Mission Apt. 743, Port Jillian, AR 49650",22-03-2025,Bronze,Amy,Holland,AR,54,763,4157.31,2025-01-11 20:01:56,Clothing,Debit Card,Chicago,0
+312,Anthony Edwards,qsmith@example.com,+1 -762-8266,"USS Gallagher, FPO AA 93881",17-06-2023,Gold,Anthony,Edwards,AA,1,194,2422.86,2025-01-13 13:45:30,Clothing,PayPal,Online,2
+312,Anthony Edwards,qsmith@example.com,+1 -762-8266,"USS Gallagher, FPO AA 93881",17-06-2023,Gold,Anthony,Edwards,AA,1,444,482.48,2025-03-02 01:12:35,Clothing,PayPal,Miami,2
+313,Tracey Dawson,heather72@example.com,+1 -202-2007,"629 Keith Street Suite 248, Crawfordborough, ND 76771",28-12-2024,Gold,Tracey,Dawson,ND,1,890,3469.31,2025-04-14 08:11:33,Home,Cash,Online,2
+314,Craig Winters,kaufmanangela@example.com,+1 -964-1842,"879 Kirk Lodge Suite 401, Jamesview, NC 76500",10-07-2024,Silver,Craig,Winters,NC,1,294,1405.61,2025-05-21 06:36:48,Beauty,Cash,Los Angeles,1
+314,Craig Winters,kaufmanangela@example.com,+1 -964-1842,"879 Kirk Lodge Suite 401, Jamesview, NC 76500",10-07-2024,Silver,Craig,Winters,NC,1,401,4978.25,2025-03-09 07:43:31,Electronics,PayPal,Los Angeles,1
+316,Anthony Brooks,rebecca93@example.com,+1 -757-2673,"306 Fuller Stravenue, North Davidmouth, GU 94689",12-06-2024,Gold,Anthony,Brooks,GU,1,670,4799.26,2025-03-02 21:03:31,Beauty,Credit Card,Miami,2
+317,Christopher Brown,zwells@example.org,+1 -475-6155,"3621 Sean Branch Suite 935, New Jason, HI 63485",16-08-2023,Silver,Christopher,Brown,HI,1,163,4536.0,2025-04-02 23:28:34,Sports,Debit Card,Online,1
+317,Christopher Brown,zwells@example.org,+1 -475-6155,"3621 Sean Branch Suite 935, New Jason, HI 63485",16-08-2023,Silver,Christopher,Brown,HI,1,306,279.77,2025-06-17 04:36:20,Home,Debit Card,Chicago,1
+317,Christopher Brown,zwells@example.org,+1 -475-6155,"3621 Sean Branch Suite 935, New Jason, HI 63485",16-08-2023,Silver,Christopher,Brown,HI,1,307,4165.6,2025-04-20 02:07:29,Beauty,Cash,Chicago,1
+318,Jade Guerrero,Jade.Guerrero@email.com,+1 -679-4560,"2807 Coleman Unions Suite 682, West Christineborough, TX 24899",20-12-2024,Silver,Jade,Guerrero,TX,1,866,3070.8,2025-05-25 13:36:29,Home,PayPal,New York,1
+322,Sarah Marshall,hfreeman@example.net,+856 -859-5186,"71961 Julie Fort, Fieldsbury, LA 84048",29-11-2024,Silver,Sarah,Marshall,LA,856,696,3772.78,2025-04-27 05:27:34,Sports,Credit Card,Los Angeles,1
+323,Kevin Wilson,richard32@example.org,+1 -202-9938,"65285 Carolyn Parkways, Lake Anthony, AS 15970",14-03-2024,Gold,Kevin,Wilson,AS,1,2,2041.87,2025-01-02 15:24:19,Clothing,Cash,New York,2
+325,Jason Mendoza,seanlopez@example.com,+1 -923-1897,"06413 Giles Islands, Jacksonfort, WI 90566",19-12-2023,Bronze,Jason,Mendoza,WI,1,491,1024.59,2025-03-19 12:00:38,Beauty,Debit Card,Online,0
+326,Jennifer Robinson,zturner@example.net,+1 -866-8047,"63023 Cordova Manor, Lake Gilbert, MI 34307",05-03-2025,Bronze,Jennifer,Robinson,MI,1,167,636.68,2025-05-11 20:03:49,Electronics,Cash,Miami,0
+329,Wendy Mcbride,holtdawn@example.com,+1 -180-1693,"31049 Jerry Haven, Port Matthewchester, FL 56932",13-03-2025,Gold,Wendy,Mcbride,FL,1,698,3596.56,2025-04-17 19:14:14,Home,Credit Card,New York,2
+331,Margaret Douglas,jennifer04@example.net,+249 -612-7624,"94033 Manuel Corners Apt. 771, Hernandezport, SD 60061",15-06-2024,Gold,Margaret,Douglas,SD,249,585,2475.6,2025-03-08 23:52:39,Home,PayPal,Chicago,2
+331,Margaret Douglas,jennifer04@example.net,+249 -612-7624,"94033 Manuel Corners Apt. 771, Hernandezport, SD 60061",15-06-2024,Gold,Margaret,Douglas,SD,249,638,0.0,2025-04-24 01:40:13,Home,Credit Card,New York,2
+331,Margaret Douglas,jennifer04@example.net,+249 -612-7624,"94033 Manuel Corners Apt. 771, Hernandezport, SD 60061",15-06-2024,Gold,Margaret,Douglas,SD,249,841,3937.72,2025-01-28 13:50:42,Home,Debit Card,Chicago,2
+333,Kelly Farmer,gmartin@example.com,+507 -833-3660,"4758 Allen Streets Suite 999, East Mark, PA 29522",06-03-2025,Silver,Kelly,Farmer,PA,507,920,3877.7,2025-05-01 12:36:41,Electronics,Debit Card,New York,1
+334,Ronald Chang,gjones@example.org,+1 -790-1818,"22249 Matthew Plains, Bradleyborough, KY 81183",07-04-2025,Gold,Ronald,Chang,KY,1,742,1288.9,2025-01-21 06:19:57,Home,Cash,Los Angeles,2
+335,Joseph Gonzalez,vadams@example.org,+971 -560-2847,"USNS Edwards, FPO AE 89987",28-11-2023,Bronze,Joseph,Gonzalez,AE,971,461,3430.42,2025-03-28 19:23:56,Beauty,Debit Card,New York,0
+336,Michael Middleton,josephsmith@example.com,+680 -531-6723,"344 Robert Via Suite 549, Stanleyfurt, PW 53697",02-02-2024,Gold,Michael,Middleton,PW,680,350,2897.65,2025-02-19 05:42:36,Home,PayPal,Chicago,2
+336,Michael Middleton,josephsmith@example.com,+680 -531-6723,"344 Robert Via Suite 549, Stanleyfurt, PW 53697",02-02-2024,Gold,Michael,Middleton,PW,680,445,1555.81,2025-04-13 03:00:45,Home,PayPal,Online,2
+336,Michael Middleton,josephsmith@example.com,+680 -531-6723,"344 Robert Via Suite 549, Stanleyfurt, PW 53697",02-02-2024,Gold,Michael,Middleton,PW,680,797,1084.71,2025-01-30 05:30:45,Home,Credit Card,New York,2
+338,Timothy Ponce,kevin61@example.net,+1 -830-5367,"7275 Jones Mountain, South Stacytown, WI 28774",25-03-2025,Silver,Timothy,Ponce,WI,1,692,4166.24,2025-03-07 18:07:28,Electronics,Debit Card,Miami,1
+338,Timothy Ponce,kevin61@example.net,+1 -830-5367,"7275 Jones Mountain, South Stacytown, WI 28774",25-03-2025,Silver,Timothy,Ponce,WI,1,749,3852.72,2025-04-21 10:12:23,Clothing,Cash,Chicago,1
+339,Mary Olson,margaretatkinson@example.net,+1 -813-9970,"0472 Wright Brook, Anthonybury, AS 75534",24-07-2024,Gold,Mary,Olson,AS,1,597,4684.87,2025-04-01 00:19:04,Electronics,Cash,New York,2
+340,Gary Blair,emilyschmidt@example.net,+507 -710-2639,"97300 Susan Estate Apt. 700, Kaitlynfort, PA 56424",15-11-2023,Bronze,Gary,Blair,PA,507,234,3132.55,2025-01-08 00:10:52,Home,PayPal,Chicago,0
+340,Gary Blair,emilyschmidt@example.net,+507 -710-2639,"97300 Susan Estate Apt. 700, Kaitlynfort, PA 56424",15-11-2023,Bronze,Gary,Blair,PA,507,259,4058.1,2025-05-21 14:35:29,Electronics,Cash,Los Angeles,0
+340,Gary Blair,emilyschmidt@example.net,+507 -710-2639,"97300 Susan Estate Apt. 700, Kaitlynfort, PA 56424",15-11-2023,Bronze,Gary,Blair,PA,507,881,896.57,2025-04-21 09:01:29,Electronics,Cash,Online,0
+341,Jeremiah King,craigperez@example.org,+1 -595-3855,"15162 Ingram Mission, Lake Paulton, VI 32454",22-07-2024,Gold,Jeremiah,King,VI,1,671,916.02,2025-05-14 15:03:13,Electronics,Cash,Los Angeles,2
+343,Angela Jefferson,steven44@example.org,+241 -704-3347,"4975 Washington Alley, East Thomas, GA 73527",21-10-2023,Bronze,Angela,Jefferson,GA,241,478,4415.48,2025-03-21 11:01:51,Beauty,Cash,Chicago,0
+344,Eric Merritt,jessica52@example.com,+379 -234-6196,"8586 Adam Oval Suite 658, South Megan, VA 09885",10-01-2025,Gold,Eric,Merritt,VA,379,878,3534.78,2025-02-07 00:30:17,Electronics,Credit Card,Los Angeles,2
+345,Amy Brewer,fmccormick@example.net,+1 -931-2927,"8819 Joseph Coves Suite 078, New Samanthamouth, CA 02654",20-07-2023,Gold,Amy,Brewer,CA,1,189,968.97,2025-04-20 04:24:40,Clothing,Credit Card,Miami,2
+345,Amy Brewer,fmccormick@example.net,+1 -931-2927,"8819 Joseph Coves Suite 078, New Samanthamouth, CA 02654",20-07-2023,Gold,Amy,Brewer,CA,1,369,4127.88,2025-01-22 15:51:31,Electronics,PayPal,Online,2
+346,Chad Brown,marygilmore@example.com,+971 -476-3060,"PSC 5668, Box 7057, APO AE 28514",14-07-2024,Gold,Chad,Brown,AE,971,132,4689.16,2025-05-20 08:00:23,Electronics,Cash,Online,2
+346,Chad Brown,marygilmore@example.com,+971 -476-3060,"PSC 5668, Box 7057, APO AE 28514",14-07-2024,Gold,Chad,Brown,AE,971,465,3674.55,2025-05-16 03:32:20,Clothing,PayPal,Miami,2
+347,Timothy Alvarez,anthony80@example.net,+356 -720-4111,"39071 Thomas Circle Suite 848, New Gregoryton, MT 97664",22-08-2024,Silver,Timothy,Alvarez,MT,356,303,2557.31,2025-04-04 12:54:36,Beauty,PayPal,Chicago,1
+347,Timothy Alvarez,anthony80@example.net,+356 -720-4111,"39071 Thomas Circle Suite 848, New Gregoryton, MT 97664",22-08-2024,Silver,Timothy,Alvarez,MT,356,576,3003.16,2025-04-17 02:25:00,Home,PayPal,Chicago,1
+347,Timothy Alvarez,anthony80@example.net,+356 -720-4111,"39071 Thomas Circle Suite 848, New Gregoryton, MT 97664",22-08-2024,Silver,Timothy,Alvarez,MT,356,715,1814.28,2025-06-01 18:05:29,Home,Cash,Chicago,1
+349,Tonya Miller,tedwards@example.org,+1 -159-6821,"6235 Carolyn Island, Christinaport, WI 98929",24-11-2023,Silver,Tonya,Miller,WI,1,643,2759.95,2025-02-02 00:47:00,Sports,Cash,New York,1
+349,Tonya Miller,tedwards@example.org,+1 -159-6821,"6235 Carolyn Island, Christinaport, WI 98929",24-11-2023,Silver,Tonya,Miller,WI,1,931,3267.7,2025-04-16 09:30:03,Beauty,Debit Card,Miami,1
+351,Mary Simmons,brownjacqueline@example.com,+1 -786-9500,"USS Jarvis, FPO AP 91319",17-02-2025,Bronze,Mary,Simmons,AP,1,948,822.8,2025-03-20 23:31:28,Beauty,Debit Card,New York,0
+354,Tyrone Burke,todd12@example.org,+1 -331-3546,"184 Barron Hill Apt. 996, Port Erica, NV 76772",21-10-2023,Bronze,Tyrone,Burke,NV,1,376,202.36,2025-02-20 19:13:29,Clothing,Debit Card,Los Angeles,0
+354,Tyrone Burke,todd12@example.org,+1 -331-3546,"184 Barron Hill Apt. 996, Port Erica, NV 76772",21-10-2023,Bronze,Tyrone,Burke,NV,1,574,3244.66,2025-02-26 22:43:11,Home,PayPal,Chicago,0
+357,Cory Clark,johnsonlori@example.net,+1 -977-1472,"61738 Ferguson Harbor, South Alejandra, TX 55600",29-07-2023,Gold,Cory,Clark,TX,1,618,1643.13,2025-03-04 04:22:04,Beauty,Credit Card,Chicago,2
+358,Joe Chen,spencerjames@example.net,+1 -333-6336,"172 Hartman Extension Apt. 403, Lake Katieview, AS 06728",03-05-2025,Silver,Joe,Chen,AS,1,408,1618.15,2025-04-18 14:07:44,Electronics,PayPal,New York,1
+358,Joe Chen,spencerjames@example.net,+1 -333-6336,"172 Hartman Extension Apt. 403, Lake Katieview, AS 06728",03-05-2025,Silver,Joe,Chen,AS,1,782,4977.87,2025-04-08 03:21:06,Clothing,Debit Card,New York,1
+359,Maria Evans,pthomas@example.net,+1 -252-9913,"7861 Lewis Tunnel, West Lisa, WA 48475",17-08-2024,Bronze,Maria,Evans,WA,1,485,2525.69,2025-03-02 03:29:12,Beauty,Credit Card,New York,0
+364,James Cervantes,scarroll@example.net,+1 -266-1313,"4626 Michele Ports Suite 152, Lake Patricia, CT 17339",30-12-2023,Silver,James,Cervantes,CT,1,511,3905.2,2025-01-24 11:07:47,Electronics,PayPal,Los Angeles,1
+367,Jacob Johnson,velasquezwilliam@example.org,+1 -124-5069,"6098 Mason Plaza Suite 701, West Briannaland, MS 05237",20-06-2023,Silver,Jacob,Johnson,MS,1,322,2304.8,2025-05-29 07:11:48,Beauty,PayPal,Chicago,1
+369,Robert Rogers,nathan77@example.net,+1 -739-7970,"93905 Ashlee Burgs Apt. 411, Port Rachaelmouth, AK 55241",18-10-2023,Silver,Robert,Rogers,AK,1,805,2584.3,2025-02-25 18:05:35,Home,Cash,Los Angeles,1
+370,Aaron Lewis,robinsonrachel@example.net,+356 -152-8997,"42809 Farmer Heights Apt. 621, Jamieborough, MT 00903",24-05-2025,Gold,Aaron,Lewis,MT,356,219,2163.21,2025-04-02 05:22:21,Electronics,Debit Card,Online,2
+370,Aaron Lewis,robinsonrachel@example.net,+356 -152-8997,"42809 Farmer Heights Apt. 621, Jamieborough, MT 00903",24-05-2025,Gold,Aaron,Lewis,MT,356,530,728.0,2025-04-19 14:48:56,Home,Cash,New York,2
+370,Aaron Lewis,robinsonrachel@example.net,+356 -152-8997,"42809 Farmer Heights Apt. 621, Jamieborough, MT 00903",24-05-2025,Gold,Aaron,Lewis,MT,356,637,3956.12,2025-05-30 17:14:20,Beauty,Cash,Chicago,2
+370,Aaron Lewis,robinsonrachel@example.net,+356 -152-8997,"42809 Farmer Heights Apt. 621, Jamieborough, MT 00903",24-05-2025,Gold,Aaron,Lewis,MT,356,846,3109.27,2025-04-01 12:50:22,Beauty,Debit Card,Chicago,2
+372,Jennifer Nelson,troy37@example.org,+49 -526-7317,"66986 April Mountains, Lake Amy, DE 77179",08-10-2023,Gold,Jennifer,Nelson,DE,49,100,2884.53,2025-01-04 09:03:45,Clothing,PayPal,New York,2
+372,Jennifer Nelson,troy37@example.org,+49 -526-7317,"66986 April Mountains, Lake Amy, DE 77179",08-10-2023,Gold,Jennifer,Nelson,DE,49,138,46.56,2025-01-31 10:19:14,Beauty,Debit Card,Chicago,2
+373,Kevin Middleton,xcole@example.org,+1 -993-4858,"6135 Amanda Drive Apt. 544, Osborneburgh, CT 09279",30-04-2025,Silver,Kevin,Middleton,CT,1,77,4614.19,2025-03-17 15:41:11,Home,Debit Card,New York,1
+373,Kevin Middleton,xcole@example.org,+1 -993-4858,"6135 Amanda Drive Apt. 544, Osborneburgh, CT 09279",30-04-2025,Silver,Kevin,Middleton,CT,1,91,457.98,2025-01-11 01:40:24,Clothing,Credit Card,Los Angeles,1
+375,Carrie Bennett,josephsmith@example.com,+216 -347-8743,"86877 Smith Stravenue, Dawsontown, TN 16794",04-02-2025,Gold,Carrie,Bennett,TN,216,360,3910.71,2025-06-15 07:31:04,Clothing,Cash,Los Angeles,2
+377,Fred Pierce,youngkevin@example.net,+1 -309-8492,"Unit 2514 Box 2066, DPO AP 73812",17-12-2023,Silver,Fred,Pierce,AP,1,38,4321.29,2025-04-28 07:17:42,Beauty,Debit Card,New York,1
+377,Fred Pierce,youngkevin@example.net,+1 -309-8492,"Unit 2514 Box 2066, DPO AP 73812",17-12-2023,Silver,Fred,Pierce,AP,1,824,488.95,2025-04-08 22:12:10,Home,PayPal,Chicago,1
+378,Michael Singh,jennifer95@example.net,+241 xxx-xxx-xxxx,"97409 Joshua Rapids, Bakerport, GA 23426",25-10-2024,Silver,Michael,Singh,GA,241,845,3095.94,2025-03-21 02:06:24,Beauty,Debit Card,Chicago,1
+378,Michael Singh,jennifer95@example.net,+241 xxx-xxx-xxxx,"97409 Joshua Rapids, Bakerport, GA 23426",25-10-2024,Silver,Michael,Singh,GA,241,932,4149.87,2025-06-05 17:32:30,Electronics,Credit Card,Online,1
+379,Jessica Woodward,pearsonbrady@example.net,+1 -795-8297,"88969 Pratt Heights, South Todd, OR 21155",24-12-2023,Bronze,Jessica,Woodward,OR,1,183,869.64,2025-05-25 01:31:27,Clothing,PayPal,Los Angeles,0
+379,Jessica Woodward,pearsonbrady@example.net,+1 -795-8297,"88969 Pratt Heights, South Todd, OR 21155",24-12-2023,Bronze,Jessica,Woodward,OR,1,701,1854.24,2025-02-11 16:00:11,Sports,Debit Card,Miami,0
+380,Katherine Weiss,joneskatherine@example.net,+212 -230-7323,"191 Lori Spring Suite 339, Nicholasville, MA 26895",25-05-2024,Silver,Katherine,Weiss,MA,212,804,4654.56,2025-01-01 22:43:32,Sports,Cash,Miami,1
+381,April Caldwell,spencer75@example.com,+1 -374-6325,"24485 Samuel Port, Deannamouth, MS 78637",12-09-2024,Silver,April,Caldwell,MS,1,299,0.0,2025-02-11 02:37:54,Sports,Credit Card,Chicago,1
+381,April Caldwell,spencer75@example.com,+1 -374-6325,"24485 Samuel Port, Deannamouth, MS 78637",12-09-2024,Silver,April,Caldwell,MS,1,634,1847.0,2025-03-16 21:40:22,Clothing,Debit Card,Chicago,1
+383,Miranda Pham,aliciamorris@example.com,+1 xxx-xxx-xxxx,"8282 Mary Forest Apt. 281, Amymouth, WI 71635",13-07-2023,Silver,Miranda,Pham,WI,1,69,3937.65,2025-03-27 18:47:08,Clothing,Debit Card,Chicago,1
+383,Miranda Pham,aliciamorris@example.com,+1 xxx-xxx-xxxx,"8282 Mary Forest Apt. 281, Amymouth, WI 71635",13-07-2023,Silver,Miranda,Pham,WI,1,188,3622.81,2025-06-08 13:53:01,Electronics,Cash,Miami,1
+383,Miranda Pham,aliciamorris@example.com,+1 xxx-xxx-xxxx,"8282 Mary Forest Apt. 281, Amymouth, WI 71635",13-07-2023,Silver,Miranda,Pham,WI,1,429,1377.09,2025-05-14 13:53:43,Sports,PayPal,Chicago,1
+385,Katherine Brown,taylorcharles@example.com,+1 -352-5442,"987 Caitlin Club, Harrisville, WV 42076",26-03-2025,Silver,Katherine,Brown,WV,1,551,1711.89,2025-06-04 10:02:40,Home,Cash,Los Angeles,1
+386,David Martin,teresaellis@example.com,+971 -464-2691,"USNV Robles, FPO AE 76430",29-08-2024,Bronze,David,Martin,AE,971,756,156.92,2025-05-08 20:09:41,Home,Debit Card,Los Angeles,0
+387,Melissa Lopez,michaelbennett@example.com,+1 -210-4100,"4399 Lisa Overpass Suite 895, Lake Rachelborough, IA 69800",20-04-2024,Silver,Melissa,Lopez,IA,1,970,2243.19,2025-03-31 23:10:54,Sports,Debit Card,Chicago,1
+389,Kiara Marshall,hayesjoshua@example.com,+680 -101-5942,"7026 Bowers Ramp, Gloriamouth, PW 12476",12-04-2025,Silver,Kiara,Marshall,PW,680,433,3871.63,2025-02-07 06:06:25,Clothing,Cash,Los Angeles,1
+389,Kiara Marshall,hayesjoshua@example.com,+680 -101-5942,"7026 Bowers Ramp, Gloriamouth, PW 12476",12-04-2025,Silver,Kiara,Marshall,PW,680,460,1488.34,2025-05-19 07:32:40,Home,Credit Card,Chicago,1
+390,Jennifer Church,Jennifer.Church@email.com,+1 -959-9415,"7024 Dustin Hollow, East Mariaburgh, TX 82934",29-06-2024,Bronze,Jennifer,Church,TX,1,308,1060.95,2025-03-03 11:35:08,Electronics,Debit Card,Miami,0
+391,Diana Williams,salazarmichael@example.net,+1 -660-2635,"32302 Mcknight Ridges Suite 827, South Louistown, OK 14627",09-01-2025,Bronze,Diana,Williams,OK,1,162,3058.64,2025-05-04 16:40:28,Beauty,Cash,Los Angeles,0
+391,Diana Williams,salazarmichael@example.net,+1 -660-2635,"32302 Mcknight Ridges Suite 827, South Louistown, OK 14627",09-01-2025,Bronze,Diana,Williams,OK,1,744,983.05,2025-04-16 21:04:56,Sports,PayPal,New York,0
+393,Samantha Hardy,neilsmith@example.net,+1 -312-5453,"PSC 3076, Box 7121, APO AA 12737",17-09-2024,Gold,Samantha,Hardy,AA,1,293,0.0,2025-01-11 14:05:56,Clothing,Cash,Chicago,2
+393,Samantha Hardy,neilsmith@example.net,+1 -312-5453,"PSC 3076, Box 7121, APO AA 12737",17-09-2024,Gold,Samantha,Hardy,AA,1,395,3344.85,2025-03-27 17:39:59,Home,Cash,Chicago,2
+393,Samantha Hardy,neilsmith@example.net,+1 -312-5453,"PSC 3076, Box 7121, APO AA 12737",17-09-2024,Gold,Samantha,Hardy,AA,1,484,1334.54,2025-05-25 11:40:54,Electronics,Debit Card,New York,2
+394,Michael Juarez,deborahschmitt@example.com,+1 xxx-xxx-xxxx,"065 Huffman Flat, East Michael, NH 86560",09-06-2024,Silver,Michael,Juarez,NH,1,198,2731.16,2025-01-05 06:20:58,Beauty,Credit Card,Los Angeles,1
+394,Michael Juarez,deborahschmitt@example.com,+1 xxx-xxx-xxxx,"065 Huffman Flat, East Michael, NH 86560",09-06-2024,Silver,Michael,Juarez,NH,1,248,742.62,2025-03-27 05:26:01,Electronics,Credit Card,Chicago,1
+395,Meghan Bradley,pottsethan@example.net,+1 -397-3607,"41664 Kelly Mill, West Edwin, RI 50551",02-08-2023,Silver,Meghan,Bradley,RI,1,200,355.24,2025-04-16 01:56:07,Clothing,Credit Card,Los Angeles,1
+395,Meghan Bradley,pottsethan@example.net,+1 -397-3607,"41664 Kelly Mill, West Edwin, RI 50551",02-08-2023,Silver,Meghan,Bradley,RI,1,940,11.88,2025-04-09 02:54:23,Home,Credit Card,Online,1
+397,William Pittman,amber63@example.org,+507 -117-9323,"61190 Monique Spur Suite 059, Port Susan, PA 27136",01-10-2024,Gold,William,Pittman,PA,507,282,4770.81,2025-02-16 09:03:19,Electronics,Credit Card,Miami,2
+397,William Pittman,amber63@example.org,+507 -117-9323,"61190 Monique Spur Suite 059, Port Susan, PA 27136",01-10-2024,Gold,William,Pittman,PA,507,320,1883.01,2025-04-29 14:52:22,Home,Debit Card,New York,2
+397,William Pittman,amber63@example.org,+507 -117-9323,"61190 Monique Spur Suite 059, Port Susan, PA 27136",01-10-2024,Gold,William,Pittman,PA,507,812,4087.64,2025-02-24 03:30:43,Clothing,Credit Card,Miami,2
+398,Christopher Baxter,amills@example.com,+241 -488-6187,"5402 Bonnie Terrace, Lake Michaelfort, GA 92899",14-09-2024,Silver,Christopher,Baxter,GA,241,3,107.35,2025-02-16 03:49:01,Beauty,Debit Card,Online,1
+398,Christopher Baxter,amills@example.com,+241 -488-6187,"5402 Bonnie Terrace, Lake Michaelfort, GA 92899",14-09-2024,Silver,Christopher,Baxter,GA,241,854,3447.83,2025-04-27 20:25:35,Clothing,Debit Card,Miami,1
+400,Alejandro Romero,david51@example.com,+1 xxx-xxx-xxxx,"303 Garcia Extension, Lake Rebeccaberg, MO 28901",12-10-2024,Bronze,Alejandro,Romero,MO,1,337,276.43,2025-04-30 04:52:44,Home,Debit Card,New York,0
+401,Catherine Davis,sthompson@example.net,+212 -519-7933,"27542 Norman Rue Apt. 487, East Jamesside, MA 14058",09-01-2025,Gold,Catherine,Davis,MA,212,74,2041.88,2025-02-28 16:28:37,Clothing,Credit Card,Chicago,2
+401,Catherine Davis,sthompson@example.net,+212 -519-7933,"27542 Norman Rue Apt. 487, East Jamesside, MA 14058",09-01-2025,Gold,Catherine,Davis,MA,212,525,3075.67,2025-05-16 16:42:59,Beauty,PayPal,New York,2
+401,Catherine Davis,sthompson@example.net,+212 -519-7933,"27542 Norman Rue Apt. 487, East Jamesside, MA 14058",09-01-2025,Gold,Catherine,Davis,MA,212,898,2638.12,2025-06-06 11:56:51,Clothing,Debit Card,Los Angeles,2
+402,William Adams,amymooney@example.com,+249 -797-7086,"12320 John Isle Apt. 007, South Michael, SD 72530",10-03-2024,Bronze,William,Adams,SD,249,102,2067.0,2025-02-06 10:36:33,Electronics,Cash,Los Angeles,0
+402,William Adams,amymooney@example.com,+249 -797-7086,"12320 John Isle Apt. 007, South Michael, SD 72530",10-03-2024,Bronze,William,Adams,SD,249,227,2191.05,2025-01-28 01:30:31,Electronics,Credit Card,Chicago,0
+403,Benjamin Lara,stephaniewilcox@example.com,+249 -960-3759,"0737 Cindy Gateway, Lake Gavin, SD 56523",10-04-2024,Silver,Benjamin,Lara,SD,249,589,1669.56,2025-01-27 09:08:00,Electronics,Credit Card,Miami,1
+403,Benjamin Lara,stephaniewilcox@example.com,+249 -960-3759,"0737 Cindy Gateway, Lake Gavin, SD 56523",10-04-2024,Silver,Benjamin,Lara,SD,249,603,1085.48,2025-02-04 15:15:18,Clothing,Credit Card,New York,1
+405,Michael Johnson,sanchezann@example.net,+971 xxx-xxx-xxxx,"Unit 0208 Box 6940, DPO AE 29408",02-08-2023,Silver,Michael,Johnson,AE,971,786,1794.95,2025-02-06 12:15:30,Clothing,Credit Card,Chicago,1
+406,Edgar Davis,hannahleach@example.net,+1 -210-3479,"5205 Williams Greens, Brownville, MP 88911",22-08-2024,Bronze,Edgar,Davis,MP,1,641,118.9,2025-01-10 04:32:07,Clothing,PayPal,Los Angeles,0
+407,Margaret Calderon,aaron22@example.org,+241 -472-3366,"720 Willie Viaduct Suite 728, North Thomashaven, GA 84643",07-07-2024,Silver,Margaret,Calderon,GA,241,439,3691.93,2025-01-02 04:53:51,Electronics,PayPal,New York,1
+407,Margaret Calderon,aaron22@example.org,+241 -472-3366,"720 Willie Viaduct Suite 728, North Thomashaven, GA 84643",07-07-2024,Silver,Margaret,Calderon,GA,241,773,2734.59,2025-03-27 02:50:09,Sports,Cash,Chicago,1
+408,Nicole Buchanan,hinesamanda@example.net,+1 -152-7713,"67112 Smith Brooks Suite 841, New Brian, CA 13657",01-03-2024,Bronze,Nicole,Buchanan,CA,1,125,1621.62,2025-02-07 15:10:12,Electronics,Credit Card,Chicago,0
+409,Frank Gray,evanssharon@example.com,+355 -203-9735,"77166 Mack Hollow Suite 339, South Cynthiaburgh, AL 90730",20-03-2025,Gold,Frank,Gray,AL,355,213,3379.98,2025-04-18 11:31:50,Home,Credit Card,Miami,2
+409,Frank Gray,evanssharon@example.com,+355 -203-9735,"77166 Mack Hollow Suite 339, South Cynthiaburgh, AL 90730",20-03-2025,Gold,Frank,Gray,AL,355,246,4655.97,2025-03-09 19:29:27,Clothing,Cash,Online,2
+410,Rebecca Roberts,nhill@example.org,+1 -485-4699,"6414 Michael Trace, South Christopher, HI 58174",20-10-2023,Silver,Rebecca,Roberts,HI,1,314,4927.53,2025-04-13 22:58:08,Beauty,PayPal,New York,1
+410,Rebecca Roberts,nhill@example.org,+1 -485-4699,"6414 Michael Trace, South Christopher, HI 58174",20-10-2023,Silver,Rebecca,Roberts,HI,1,772,3895.36,2025-01-25 13:45:04,Sports,Debit Card,Online,1
+411,Nathan Howard,jeffreyroberson@example.com,+972 -552-7341,"538 Franklin Trail Suite 020, Russellburgh, IL 76341",17-06-2024,Bronze,Nathan,Howard,IL,972,359,2194.22,2025-02-15 20:19:17,Electronics,Cash,Miami,0
+412,Nathan Herman,ryanreynolds@example.org,+216 -372-9228,"489 Ochoa Ports Suite 029, Kelseyport, TN 10456",29-11-2023,Gold,Nathan,Herman,TN,216,602,4867.64,2025-04-28 08:46:49,Home,Cash,Miami,2
+414,Stephen Jensen,bdonovan@example.net,+1 -533-9260,"459 Williams Coves Suite 877, Andersonhaven, VI 55632",28-02-2024,Bronze,Stephen,Jensen,VI,1,317,2761.36,2025-01-03 03:13:23,Home,Cash,Los Angeles,0
+415,Jacqueline White,ydavidson@example.org,+49 -980-4015,"2403 Shane Courts, New Alexandratown, DE 46461",16-06-2024,Bronze,Jacqueline,White,DE,49,370,3583.85,2025-03-28 06:06:40,Beauty,Cash,Chicago,0
+418,Nichole Tran,gcook@example.com,+1 -459-6268,"05483 Howard Meadows Apt. 870, Port Sethfort, OK 09782",05-06-2024,Bronze,Nichole,Tran,OK,1,271,1220.98,2025-04-28 17:46:54,Clothing,PayPal,Los Angeles,0
+418,Nichole Tran,gcook@example.com,+1 -459-6268,"05483 Howard Meadows Apt. 870, Port Sethfort, OK 09782",05-06-2024,Bronze,Nichole,Tran,OK,1,466,1613.21,2025-03-17 10:27:59,Clothing,Cash,Los Angeles,0
+418,Nichole Tran,gcook@example.com,+1 -459-6268,"05483 Howard Meadows Apt. 870, Port Sethfort, OK 09782",05-06-2024,Bronze,Nichole,Tran,OK,1,899,4549.18,2025-01-04 04:51:42,Home,Debit Card,Miami,0
+420,Elizabeth Stewart,latoya75@example.com,+1 -299-2716,"394 Nguyen Crossroad, Acostafurt, NM 62339",26-11-2024,Silver,Elizabeth,Stewart,NM,1,283,1030.65,2025-06-08 18:22:26,Sports,Debit Card,New York,1
+420,Elizabeth Stewart,latoya75@example.com,+1 -299-2716,"394 Nguyen Crossroad, Acostafurt, NM 62339",26-11-2024,Silver,Elizabeth,Stewart,NM,1,888,3424.18,2025-02-14 05:41:50,Sports,Debit Card,Chicago,1
+421,Michelle Mcdaniel,andrewrodriguez@example.com,+1 xxx-xxx-xxxx,"42824 Jenkins Knoll, Floydstad, KY 47073",04-03-2024,Bronze,Michelle,Mcdaniel,KY,1,289,745.21,2025-04-12 12:29:59,Electronics,Credit Card,Miami,0
+421,Michelle Mcdaniel,andrewrodriguez@example.com,+1 xxx-xxx-xxxx,"42824 Jenkins Knoll, Floydstad, KY 47073",04-03-2024,Bronze,Michelle,Mcdaniel,KY,1,706,2761.59,2025-03-01 09:21:13,Beauty,Cash,Chicago,0
+422,James Manning,ukelly@example.net,+241 -384-9584,"7792 Donald Walks Apt. 013, Deborahview, GA 29631",09-03-2025,Silver,James,Manning,GA,241,114,304.55,2025-04-25 08:06:18,Sports,PayPal,New York,1
+422,James Manning,ukelly@example.net,+241 -384-9584,"7792 Donald Walks Apt. 013, Deborahview, GA 29631",09-03-2025,Silver,James,Manning,GA,241,225,4873.25,2025-05-09 10:29:36,Electronics,Debit Card,New York,1
+422,James Manning,ukelly@example.net,+241 -384-9584,"7792 Donald Walks Apt. 013, Deborahview, GA 29631",09-03-2025,Silver,James,Manning,GA,241,735,3497.63,2025-01-05 21:15:55,Clothing,PayPal,Chicago,1
+425,Amy Taylor,dana35@example.com,+373 -776-8002,"118 Shaw Way, Whitakerside, MD 54767",01-11-2024,Bronze,Amy,Taylor,MD,373,437,2158.6,2025-04-15 06:12:19,Electronics,Debit Card,Online,0
+426,Brad Sanford,francisco57@example.net,+356 -890-5362,"5879 Theresa Isle, Timothyborough, MT 92552",13-06-2024,Silver,Brad,Sanford,MT,356,345,1292.85,2025-04-23 16:28:58,Electronics,PayPal,Miami,1
+426,Brad Sanford,francisco57@example.net,+356 -890-5362,"5879 Theresa Isle, Timothyborough, MT 92552",13-06-2024,Silver,Brad,Sanford,MT,356,558,1041.41,2025-03-19 11:01:32,Home,Credit Card,Los Angeles,1
+427,Tiffany Simmons,merrittchristina@example.com,+57 -215-6682,"005 Katie Overpass Apt. 105, South Elizabethstad, CO 70731",29-01-2025,Gold,Tiffany,Simmons,CO,57,431,4397.73,2025-05-16 23:54:16,Home,Debit Card,Miami,2
+427,Tiffany Simmons,merrittchristina@example.com,+57 -215-6682,"005 Katie Overpass Apt. 105, South Elizabethstad, CO 70731",29-01-2025,Gold,Tiffany,Simmons,CO,57,745,3196.15,2025-02-24 05:43:27,Clothing,Credit Card,New York,2
+429,Katherine Brooks,francisco57@example.net,+680 xxx-xxx-xxxx,"271 Bullock Squares Apt. 689, Smithport, PW 03347",19-12-2023,Gold,Katherine,Brooks,PW,680,624,1064.15,2025-03-08 02:43:01,Home,Credit Card,Chicago,2
+429,Katherine Brooks,francisco57@example.net,+680 xxx-xxx-xxxx,"271 Bullock Squares Apt. 689, Smithport, PW 03347",19-12-2023,Gold,Katherine,Brooks,PW,680,711,2486.3,2025-03-29 04:01:02,Beauty,Credit Card,Online,2
+430,David Moreno,wgreen@example.org,+972 -277-6176,"05828 Smith Bridge, Casechester, IL 07576",30-07-2023,Bronze,David,Moreno,IL,972,663,2145.28,2025-01-12 18:37:53,Electronics,PayPal,New York,0
+431,Eric Kirby,sethmoore@example.com,+1 -940-5515,"PSC 8600, Box 0198, APO AP 19139",01-03-2025,Gold,Eric,Kirby,AP,1,977,4032.94,2025-05-21 01:12:57,Beauty,Debit Card,Online,2
+432,Joel Parrish,katherine70@example.org,+1 -404-8228,"2594 Hicks Manor, Lawrencemouth, WV 14175",15-08-2024,Silver,Joel,Parrish,WV,1,392,4192.08,2025-05-19 12:09:10,Clothing,Credit Card,Los Angeles,1
+432,Joel Parrish,katherine70@example.org,+1 -404-8228,"2594 Hicks Manor, Lawrencemouth, WV 14175",15-08-2024,Silver,Joel,Parrish,WV,1,411,846.02,2025-03-12 20:16:29,Clothing,Cash,New York,1
+433,Martha Brown,brookschad@example.com,+1 xxx-xxx-xxxx,"967 Trujillo Circle, West Bradleyville, OK 57763",07-06-2025,Bronze,Martha,Brown,OK,1,31,1330.01,2025-01-27 02:30:14,Clothing,PayPal,Los Angeles,0
+434,Diana Molina,mthompson@example.com,+1 -467-3532,"Unit 1437 Box 8840, DPO AA 21079",28-07-2024,Silver,Diana,Molina,AA,1,64,1654.41,2025-04-20 01:34:10,Clothing,Credit Card,Online,1
+436,Daniel Nguyen,jenniferowens@example.org,+1 -376-8888,"5014 Lori Hollow Suite 764, North Patriciaview, ND 94838",13-01-2024,Gold,Daniel,Nguyen,ND,1,61,3811.29,2025-05-02 19:08:54,Home,PayPal,Los Angeles,2
+438,Bonnie Martin,suttonjoseph@example.net,+54 xxx-xxx-xxxx,"613 Mcdaniel Viaduct Suite 956, Tammyberg, AR 05987",01-09-2023,Gold,Bonnie,Martin,AR,54,184,1825.56,2025-02-17 20:45:29,Electronics,PayPal,Online,2
+439,William Barber,angela80@example.org,+1 -742-9354,"5210 Tammy Streets Apt. 886, New Emmafurt, UT 98871",08-11-2024,Silver,William,Barber,UT,1,325,2407.88,2025-06-09 06:34:15,Beauty,Debit Card,Los Angeles,1
+440,Nicole Evans,lopezdiane@example.com,+1 -604-1762,"63249 Michele Rue Suite 199, South Jenniferburgh, MO 27623",20-06-2023,Gold,Nicole,Evans,MO,1,236,3682.17,2025-05-21 00:11:58,Clothing,PayPal,New York,2
+440,Nicole Evans,lopezdiane@example.com,+1 -604-1762,"63249 Michele Rue Suite 199, South Jenniferburgh, MO 27623",20-06-2023,Gold,Nicole,Evans,MO,1,288,931.27,2025-04-10 07:23:20,Sports,Credit Card,New York,2
+441,Stephanie Frank,Stephanie.Frank@email.com,+1 -512-3038,"Unit 8568 Box 7099, DPO AA 48495",09-03-2025,Bronze,Stephanie,Frank,AA,1,908,0.0,2025-05-12 15:19:20,Beauty,Cash,New York,0
+443,Jennifer Chang,collinsgloria@example.net,+692 -325-1786,"97694 Yates Summit, East Ralph, MH 32052",07-04-2025,Bronze,Jennifer,Chang,MH,692,462,563.67,2025-02-08 22:18:11,Home,Credit Card,Miami,0
+443,Jennifer Chang,collinsgloria@example.net,+692 -325-1786,"97694 Yates Summit, East Ralph, MH 32052",07-04-2025,Bronze,Jennifer,Chang,MH,692,994,4232.53,2025-02-28 04:00:04,Electronics,Debit Card,Chicago,0
+445,Mallory Mann,charles11@example.net,+1 -580-4(497),"14758 Bautista Fords Apt. 251, Sandrachester, NJ 03284",23-10-2024,Gold,Mallory,Mann,NJ,1,384,4974.03,2025-03-20 13:26:03,Home,PayPal,Online,2
+446,Michael Hamilton,zmoon@example.org,+1 -157-4896,"USNV Pruitt, FPO AA 39974",07-07-2023,Silver,Michael,Hamilton,AA,1,628,1550.58,2025-02-12 03:18:44,Clothing,Debit Card,New York,1
+447,David Liu,sroberts@example.com,+692 -319-5886,"6050 Gordon Trail, Port Amyport, MH 10703",20-11-2024,Silver,David,Liu,MH,692,989,0.0,2025-01-22 14:27:07,Beauty,Cash,Chicago,1
+450,Melissa Curry,heather21@example.net,+49 xxx-xxx-xxxx,"7069 Robert Locks, Julieport, DE 10381",28-01-2024,Gold,Melissa,Curry,DE,49,909,4579.04,2025-01-09 22:51:06,Clothing,Credit Card,Miami,2
+451,Madison Hill,bwoodard@example.org,+1 -343-1773,"65847 Melissa River Suite 539, Taylorchester, WI 52986",01-09-2023,Silver,Madison,Hill,WI,1,684,4278.58,2025-03-24 08:32:05,Home,Debit Card,Chicago,1
+452,Justin Ramirez,vsellers@example.org,+1 -313-6093,"84369 Garcia Glens Suite 446, Port Christina, ND 84431",04-11-2024,Silver,Justin,Ramirez,ND,1,479,4541.67,2025-04-30 09:35:20,Electronics,Debit Card,Online,1
+452,Justin Ramirez,vsellers@example.org,+1 -313-6093,"84369 Garcia Glens Suite 446, Port Christina, ND 84431",04-11-2024,Silver,Justin,Ramirez,ND,1,567,4124.38,2025-02-28 01:25:02,Sports,PayPal,New York,1
+456,Beth Santos,frogers@example.org,+856 -285-9899,"380 Julie Common Suite 951, Alishamouth, LA 68363",10-07-2023,Bronze,Beth,Santos,LA,856,615,3742.1,2025-03-04 02:42:25,Electronics,PayPal,Miami,0
+457,Dylan Leon,steve56@example.net,+976 -533-8198,"932 Ashlee Garden, Thompsonmouth, MN 54215",22-05-2024,Gold,Dylan,Leon,MN,976,257,2257.2,2025-05-08 23:30:08,Home,Credit Card,New York,2
+458,Ian Reed,pattersonryan@example.net,+692 -922-4226,"634 Stephen Street, North Jill, MH 33206",02-10-2024,Silver,Ian,Reed,MH,692,420,3139.12,2025-06-16 11:49:10,Sports,Credit Card,New York,1
+458,Ian Reed,pattersonryan@example.net,+692 -922-4226,"634 Stephen Street, North Jill, MH 33206",02-10-2024,Silver,Ian,Reed,MH,692,783,306.92,2025-03-09 15:12:26,Sports,Cash,Chicago,1
+459,Joe Nixon,crussell@example.com,+971 -808-1410,"PSC 3428, Box 2194, APO AE 97815",02-02-2025,Silver,Joe,Nixon,AE,971,543,3335.68,2025-04-18 22:53:53,Beauty,Debit Card,Miami,1
+461,Dennis Wyatt,timothy80@example.org,+54 -165-8568,"08014 Patricia Hollow, Lake Martinshire, AR 03056",12-12-2023,Bronze,Dennis,Wyatt,AR,54,120,152.07,2025-01-26 22:39:10,Sports,Credit Card,Miami,0
+462,Curtis Henderson,rebecca83@example.org,+1 -562-6971,"2355 Bradley Crossing, Yeseniastad, GU 35506",27-12-2024,Gold,Curtis,Henderson,GU,1,489,3433.6,2025-03-04 13:25:43,Beauty,Debit Card,New York,2
+463,Jessica Jones,ajenkins@example.net,+976 -255-2917,"621 Ronald Trail, Calvinbury, MN 55461",25-05-2025,Silver,Jessica,Jones,MN,976,412,3639.71,2025-05-15 22:57:43,Beauty,Cash,Miami,1
+464,Ashley Kelly,troy37@example.org,+91 -211-6026,"595 Tammy Road Suite 821, Myersfurt, IN 76641",30-01-2025,Silver,Ashley,Kelly,IN,91,123,1249.01,2025-04-01 01:16:55,Beauty,Credit Card,Los Angeles,1
+465,Jessica Phillips,pecktony@example.com,+1 -767-7291,"230 Baker Tunnel Suite 942, South Jessica, CA 34592",22-01-2024,Silver,Jessica,Phillips,CA,1,285,731.79,2025-03-15 09:11:30,Home,Credit Card,Chicago,1
+466,Lori Nelson,cameron14@example.net,+972 -785-5015,"7826 Bryce Ranch Suite 351, Nortonfort, IL 54640",23-06-2023,Silver,Lori,Nelson,IL,972,312,112.24,2025-05-25 15:50:55,Clothing,Credit Card,New York,1
+466,Lori Nelson,cameron14@example.net,+972 -785-5015,"7826 Bryce Ranch Suite 351, Nortonfort, IL 54640",23-06-2023,Silver,Lori,Nelson,IL,972,654,30.83,2025-04-26 07:26:14,Sports,PayPal,Online,1
+467,Alison Torres,donnaclark@example.net,+1 -226-3442,"2019 Stokes Curve Apt. 471, East Stacytown, KY 83654",13-02-2024,Gold,Alison,Torres,KY,1,323,4684.65,2025-04-30 13:40:32,Home,Debit Card,New York,2
+469,Kristine Hess,sheilajohnson@example.org,+1 -505-2954,"9459 Jones Light Apt. 313, Austinberg, MO 01426",27-01-2025,Gold,Kristine,Hess,MO,1,29,159.61,2025-02-28 10:32:44,Electronics,Debit Card,Chicago,2
+469,Kristine Hess,sheilajohnson@example.org,+1 -505-2954,"9459 Jones Light Apt. 313, Austinberg, MO 01426",27-01-2025,Gold,Kristine,Hess,MO,1,389,2525.02,2025-02-27 20:08:37,Beauty,Credit Card,Miami,2
+472,Cynthia Collins,merrittdonna@example.com,+1 -650-8622,"95486 Charles Turnpike Suite 060, Matthewmouth, KY 37665",25-04-2025,Gold,Cynthia,Collins,KY,1,193,3107.41,2025-05-21 14:29:52,Beauty,Credit Card,Online,2
+473,Samantha Maldonado,emily51@example.org,+1 -339-5356,"7179 Catherine Highway Apt. 233, North Candaceburgh, IA 01788",17-10-2024,Bronze,Samantha,Maldonado,IA,1,253,3009.18,2025-02-27 05:23:45,Home,Credit Card,Los Angeles,0
+473,Samantha Maldonado,emily51@example.org,+1 -339-5356,"7179 Catherine Highway Apt. 233, North Candaceburgh, IA 01788",17-10-2024,Bronze,Samantha,Maldonado,IA,1,960,2571.55,2025-02-10 23:20:50,Electronics,Cash,Los Angeles,0
+474,Connor Mcintyre,jgarcia@example.org,+1 -322-6350,"15813 Romero Rapid, Jonesville, PR 59375",20-01-2025,Bronze,Connor,Mcintyre,PR,1,250,4304.02,2025-06-15 22:46:14,Electronics,PayPal,Chicago,0
+476,Valerie Jackson,patriciabates@example.org,+692 -529-9992,"59380 Reed Parkways Suite 595, North Brett, MH 02556",03-09-2024,Bronze,Valerie,Jackson,MH,692,168,316.25,2025-05-30 12:31:38,Sports,Cash,Miami,0
+476,Valerie Jackson,patriciabates@example.org,+692 -529-9992,"59380 Reed Parkways Suite 595, North Brett, MH 02556",03-09-2024,Bronze,Valerie,Jackson,MH,692,729,4948.7,2025-04-01 11:53:32,Beauty,PayPal,Los Angeles,0
+477,Sean Yoder,julie46@example.org,+1 -927-2317,"0038 Lamb Unions Suite 243, Stephaniemouth, IA 82717",10-04-2024,Silver,Sean,Yoder,IA,1,577,3909.54,2025-05-07 18:14:07,Sports,Debit Card,Miami,1
+478,Eric Bailey,scottdavis@example.net,+1 -676-2725,"733 Thomas Glen, New Alexis, MS 23021",25-11-2024,Gold,Eric,Bailey,MS,1,916,1645.06,2025-01-15 07:38:28,Electronics,PayPal,New York,2
+479,Bonnie Bray,chad51@example.net,+216 -181-9308,"6353 Guzman Overpass Apt. 058, West Anita, TN 01338",12-02-2024,Silver,Bonnie,Bray,TN,216,169,3165.42,2025-05-27 04:51:00,Clothing,PayPal,Miami,1
+481,Stephanie King,melindamoss@example.org,+62 -956-9016,"7082 Diaz Shoals Suite 994, Nathanview, ID 10449",13-11-2024,Bronze,Stephanie,King,ID,62,403,1276.51,2025-05-18 08:41:38,Electronics,Cash,Miami,0
+481,Stephanie King,melindamoss@example.org,+62 -956-9016,"7082 Diaz Shoals Suite 994, Nathanview, ID 10449",13-11-2024,Bronze,Stephanie,King,ID,62,941,2384.11,2025-01-07 06:28:12,Electronics,PayPal,Chicago,0
+482,Paula Anderson,Paula.Anderson@email.com,+57 -973-6439,"3992 Hannah Flat Suite 078, East Adamfort, CO 64440",09-09-2023,Gold,Paula,Anderson,CO,57,182,4594.95,2025-03-08 12:27:53,Clothing,Cash,Chicago,2
+483,Emily Anderson,jamesbarnes@example.com,+1 -710-5049,"8494 Denise Spring, Hollyport, NV 97768",31-07-2023,Bronze,Emily,Anderson,NV,1,877,1242.55,2025-01-17 03:11:32,Clothing,Debit Card,Chicago,0
+483,Emily Anderson,jamesbarnes@example.com,+1 -710-5049,"8494 Denise Spring, Hollyport, NV 97768",31-07-2023,Bronze,Emily,Anderson,NV,1,937,2544.59,2025-03-16 04:38:08,Beauty,Cash,Chicago,0
+484,Derek Mendoza,michelle55@example.net,+1 -294-3922,"20842 Davidson Roads Apt. 196, Perezmouth, VI 05233",14-09-2023,Bronze,Derek,Mendoza,VI,1,471,593.6,2025-03-30 23:15:24,Electronics,Credit Card,Miami,0
+486,Cody Fuentes,linda64@example.org,+249 xxx-xxx-xxxx,"388 Laura Green, East Douglastown, SD 30250",12-04-2024,Silver,Cody,Fuentes,SD,249,136,4597.5,2025-03-24 17:03:16,Beauty,Credit Card,Miami,1
+486,Cody Fuentes,linda64@example.org,+249 xxx-xxx-xxxx,"388 Laura Green, East Douglastown, SD 30250",12-04-2024,Silver,Cody,Fuentes,SD,249,373,4866.21,2025-02-10 08:37:28,Home,Debit Card,Los Angeles,1
+486,Cody Fuentes,linda64@example.org,+249 xxx-xxx-xxxx,"388 Laura Green, East Douglastown, SD 30250",12-04-2024,Silver,Cody,Fuentes,SD,249,678,2972.65,2025-01-03 02:10:04,Sports,PayPal,Chicago,1
+488,Brandy Sawyer,eileen22@example.net,+1 -991-5642,"99602 William Trace Apt. 546, Gloverchester, OR 15668",29-01-2024,Silver,Brandy,Sawyer,OR,1,157,4240.74,2025-04-05 23:06:28,Beauty,PayPal,New York,1
+488,Brandy Sawyer,eileen22@example.net,+1 -991-5642,"99602 William Trace Apt. 546, Gloverchester, OR 15668",29-01-2024,Silver,Brandy,Sawyer,OR,1,417,2354.0,2025-01-07 11:41:06,Sports,PayPal,Los Angeles,1
+488,Brandy Sawyer,eileen22@example.net,+1 -991-5642,"99602 William Trace Apt. 546, Gloverchester, OR 15668",29-01-2024,Silver,Brandy,Sawyer,OR,1,539,4427.08,2025-03-24 12:27:59,Electronics,Debit Card,Chicago,1
+488,Brandy Sawyer,eileen22@example.net,+1 -991-5642,"99602 William Trace Apt. 546, Gloverchester, OR 15668",29-01-2024,Silver,Brandy,Sawyer,OR,1,720,2432.17,2025-01-21 20:14:55,Beauty,Cash,Online,1
+488,Brandy Sawyer,eileen22@example.net,+1 -991-5642,"99602 William Trace Apt. 546, Gloverchester, OR 15668",29-01-2024,Silver,Brandy,Sawyer,OR,1,927,2250.71,2025-04-27 19:49:08,Home,Credit Card,Chicago,1
+489,Brandon Brown,catherinelloyd@example.com,+1 -681-4966,"43687 Megan Burgs, South Katherine, WY 77537",26-09-2024,Bronze,Brandon,Brown,WY,1,919,1557.84,2025-05-27 15:29:47,Home,Credit Card,New York,0
+491,Jessica Zuniga,justin95@example.com,+971 -988-9918,"Unit 5249 Box 5812, DPO AE 20689",27-04-2024,Bronze,Jessica,Zuniga,AE,971,75,2100.21,2025-05-03 16:31:57,Clothing,Cash,Chicago,0
+493,Lauren Merritt,joshua39@example.com,+1 -753-8762,"88792 Webster Glens Apt. 204, Edwardtown, MS 51201",08-10-2023,Silver,Lauren,Merritt,MS,1,113,3127.99,2025-03-14 07:15:14,Electronics,PayPal,Chicago,1
+495,Emily Walsh,michael22@example.org,+356 -651-4479,"4858 Amy Fork, East Carolyntown, MT 49445",16-03-2025,Bronze,Emily,Walsh,MT,356,843,1923.08,2025-05-17 07:54:58,Home,Debit Card,Online,0
+496,Brian Paul,evansalexandra@example.org,+1 -500-8617,"90246 Meyers Haven Apt. 312, East Stacy, MO 46363",04-08-2023,Silver,Brian,Paul,MO,1,145,512.78,2025-05-27 14:31:31,Clothing,Debit Card,New York,1
+496,Brian Paul,evansalexandra@example.org,+1 -500-8617,"90246 Meyers Haven Apt. 312, East Stacy, MO 46363",04-08-2023,Silver,Brian,Paul,MO,1,220,3061.88,2025-02-01 11:15:21,Electronics,PayPal,Online,1
+496,Brian Paul,evansalexandra@example.org,+1 -500-8617,"90246 Meyers Haven Apt. 312, East Stacy, MO 46363",04-08-2023,Silver,Brian,Paul,MO,1,296,191.35,2025-06-01 14:55:48,Beauty,Cash,Chicago,1
+496,Brian Paul,evansalexandra@example.org,+1 -500-8617,"90246 Meyers Haven Apt. 312, East Stacy, MO 46363",04-08-2023,Silver,Brian,Paul,MO,1,793,2000.34,2025-04-26 18:50:26,Electronics,PayPal,Miami,1
+497,John Lopez,mariakeith@example.org,+692 -847-2841,"42879 Briggs Streets Suite 122, Lake Anthony, MH 12293",22-10-2024,Silver,John,Lopez,MH,692,733,4879.74,2025-01-16 06:37:36,Electronics,Cash,Online,1
+498,Matthew Salazar,Matthew.Salazar@email.com,+1 -165-4661,"340 Nathaniel Mill, New Patricia, NC 94010",29-09-2023,Silver,Matthew,Salazar,NC,1,424,433.18,2025-01-04 01:47:15,Sports,Cash,New York,1
+501,David Shields,joseph84@example.net,+1 -193-5560,"782 Mark Stravenue, South Erika, MI 19919",18-02-2024,Bronze,David,Shields,MI,1,434,2621.8,2025-03-10 01:20:47,Electronics,Debit Card,Online,0
+504,Benjamin Johnson,jeffery23@example.net,+1 -402-7383,"921 Davis Lights, Laurabury, WI 45843",16-06-2024,Silver,Benjamin,Johnson,WI,1,676,1039.99,2025-04-13 12:18:16,Electronics,PayPal,Online,1
+504,Benjamin Johnson,jeffery23@example.net,+1 -402-7383,"921 Davis Lights, Laurabury, WI 45843",16-06-2024,Silver,Benjamin,Johnson,WI,1,716,3225.42,2025-05-23 16:49:02,Clothing,Cash,Miami,1
+505,James Mcneil,kaufmanangela@example.com,+972 -375-7324,"277 Brian Flats Apt. 704, Port Charles, IL 15497",09-09-2023,Gold,James,Mcneil,IL,972,309,2880.67,2025-04-29 00:55:33,Electronics,Credit Card,Online,2
+507,Kevin Flores,scarrillo@example.org,+856 -418-6652,"08288 Travis Grove, Robertfort, LA 07233",28-11-2024,Silver,Kevin,Flores,LA,856,150,1548.34,2025-02-28 14:33:48,Home,Cash,New York,1
+507,Kevin Flores,scarrillo@example.org,+856 -418-6652,"08288 Travis Grove, Robertfort, LA 07233",28-11-2024,Silver,Kevin,Flores,LA,856,494,2939.6,2025-05-30 13:45:28,Clothing,Cash,Miami,1
+508,Ronald Harvey,lawsonkristen@example.org,+1 -450-7834,"757 Paula Heights, Corymouth, NC 42340",26-06-2023,Gold,Ronald,Harvey,NC,1,759,2922.08,2025-04-16 21:31:49,Home,Debit Card,Chicago,2
+509,Monique Malone,ebailey@example.com,+1 -689-5788,"268 Crystal View Apt. 789, North Brittany, GU 65449",28-03-2025,Bronze,Monique,Malone,GU,1,52,1589.99,2025-05-18 16:10:22,Clothing,Cash,Chicago,0
+509,Monique Malone,ebailey@example.com,+1 -689-5788,"268 Crystal View Apt. 789, North Brittany, GU 65449",28-03-2025,Bronze,Monique,Malone,GU,1,661,165.73,2025-03-12 23:40:52,Beauty,Debit Card,Chicago,0
+510,Harold Smith,baileybaker@example.com,+971 xxx-xxx-xxxx,"PSC 9049, Box 7834, APO AE 49849",28-06-2023,Bronze,Harold,Smith,AE,971,667,903.84,2025-05-17 16:05:51,Home,Credit Card,New York,0
+511,Kaitlin Drake,charles91@example.org,+971 -753-1690,"USNV Stone, FPO AE 78689",02-02-2025,Gold,Kaitlin,Drake,AE,971,362,4310.65,2025-03-25 17:45:07,Clothing,Credit Card,New York,2
+513,Janet Meyer,williamsclaudia@example.org,+680 -492-3649,"0842 Galloway Islands Suite 688, North Theodoremouth, PW 40896",18-08-2023,Bronze,Janet,Meyer,PW,680,174,4212.29,2025-04-02 17:01:13,Home,PayPal,New York,0
+514,Christina Mendoza,nortonamber@example.net,+49 -366-5583,"8814 Victor Prairie, Port Jeffrey, DE 11958",29-08-2024,Silver,Christina,Mendoza,DE,49,573,1679.76,2025-06-14 06:06:33,Sports,PayPal,Online,1
+514,Christina Mendoza,nortonamber@example.net,+49 -366-5583,"8814 Victor Prairie, Port Jeffrey, DE 11958",29-08-2024,Silver,Christina,Mendoza,DE,49,965,2633.39,2025-01-26 02:27:58,Clothing,Cash,Online,1
+515,Joseph Kennedy,alex17@example.net,+1 -706-4951,"Unit 5195 Box 0094, DPO AP 54993",21-12-2023,Gold,Joseph,Kennedy,AP,1,699,4306.89,2025-03-31 08:01:12,Beauty,PayPal,Online,2
+516,Blake Hernandez,hectorthompson@example.org,+355 -924-4087,"5534 Dennis Cliffs, Port Joshuaborough, AL 80681",16-05-2025,Gold,Blake,Hernandez,AL,355,722,2695.54,2025-06-03 19:39:25,Beauty,Debit Card,Online,2
+516,Blake Hernandez,hectorthompson@example.org,+355 -924-4087,"5534 Dennis Cliffs, Port Joshuaborough, AL 80681",16-05-2025,Gold,Blake,Hernandez,AL,355,840,4669.1,2025-04-20 22:06:52,Sports,Cash,Online,2
+518,Tamara Anderson,eric01@example.com,+971 -463-6376,"USCGC Leblanc, FPO AE 53051",07-02-2025,Bronze,Tamara,Anderson,AE,971,459,4348.74,2025-03-25 01:02:43,Beauty,PayPal,Chicago,0
+519,Michael Carter,amber60@example.net,+1 -353-5810,"02563 Daniel Walks Apt. 510, Lake Robertberg, KY 04899",14-12-2023,Gold,Michael,Carter,KY,1,755,2480.56,2025-01-16 17:21:37,Sports,Debit Card,New York,2
+520,Shawn Horn,mrobinson@example.org,+62 -841-9155,"0035 Washington Route Suite 113, North Hannahberg, ID 61146",30-12-2023,Silver,Shawn,Horn,ID,62,480,3120.78,2025-01-07 18:59:52,Clothing,Cash,Los Angeles,1
+521,Lauren Jackson,mjimenez@example.net,+91 -207-1892,"31965 Bowers Expressway, West Jose, IN 29055",23-05-2025,Gold,Lauren,Jackson,IN,91,844,3968.51,2025-03-05 23:56:22,Clothing,Debit Card,New York,2
+524,Amber Medina,iharvey@example.com,+1 -179-7634,"4425 Adkins Ranch, New Darrenborough, NJ 26665",19-07-2024,Gold,Amber,Medina,NJ,1,363,3384.85,2025-02-12 05:35:29,Home,PayPal,Online,2
+524,Amber Medina,iharvey@example.com,+1 -179-7634,"4425 Adkins Ranch, New Darrenborough, NJ 26665",19-07-2024,Gold,Amber,Medina,NJ,1,850,0.0,2025-01-05 01:40:20,Sports,Credit Card,Los Angeles,2
+526,Cristina Blake,wwebb@example.org,+1 -625-8031,"748 Colleen Circles, Maynardtown, NH 62583",04-06-2025,Silver,Cristina,Blake,NH,1,924,2521.09,2025-06-16 02:32:47,Clothing,Cash,Miami,1
+527,Maria Moore,alexisvega@example.net,+1 ,"756 Gutierrez Meadow Apt. 520, West Sarahfurt, MI 97559",01-05-2025,Gold,Maria,Moore,MI,1,980,4424.47,2025-03-20 06:54:15,Sports,Credit Card,Online,2
+531,Ashley Flores,pamela91@example.org,+1 -563-9423,"592 Joseph Points, East Wendyshire, WI 13694",29-04-2025,Silver,Ashley,Flores,WI,1,85,4690.75,2025-02-20 01:20:03,Clothing,Debit Card,Chicago,1
+532,Susan Ramirez,spencerjulia@example.org,+1 -699-1571,"8297 Juan Flat Apt. 842, Amandaburgh, OH 93372",31-10-2024,Silver,Susan,Ramirez,OH,1,334,2370.22,2025-03-26 12:32:29,Electronics,Debit Card,Los Angeles,1
+532,Susan Ramirez,spencerjulia@example.org,+1 -699-1571,"8297 Juan Flat Apt. 842, Amandaburgh, OH 93372",31-10-2024,Silver,Susan,Ramirez,OH,1,972,4333.14,2025-06-03 03:09:12,Electronics,Cash,Online,1
+534,Barbara Dorsey,archervalerie@example.com,+1 -389-4765,"6448 Grant Land Apt. 239, East Deborah, WV 61428",16-09-2023,Bronze,Barbara,Dorsey,WV,1,30,2749.55,2025-05-20 00:18:26,Electronics,Debit Card,Miami,0
+534,Barbara Dorsey,archervalerie@example.com,+1 -389-4765,"6448 Grant Land Apt. 239, East Deborah, WV 61428",16-09-2023,Bronze,Barbara,Dorsey,WV,1,97,2013.88,2025-01-15 08:36:38,Sports,PayPal,Online,0
+534,Barbara Dorsey,archervalerie@example.com,+1 -389-4765,"6448 Grant Land Apt. 239, East Deborah, WV 61428",16-09-2023,Bronze,Barbara,Dorsey,WV,1,564,3123.01,2025-02-26 02:59:44,Sports,Credit Card,Miami,0
+537,Nicole Ramos,eileen22@example.net,+1 -759-8890,"3549 Susan Union, Port Alexander, VT 09955",21-11-2023,Gold,Nicole,Ramos,VT,1,834,87.12,2025-03-14 05:00:13,Beauty,Cash,Los Angeles,2
+541,Cameron Olsen,nwilkins@example.org,+1 -968-6703,"468 Kevin Springs Apt. 767, Wendyburgh, CT 03556",07-10-2024,Silver,Cameron,Olsen,CT,1,112,2660.53,2025-05-30 17:31:16,Electronics,Credit Card,Online,1
+541,Cameron Olsen,nwilkins@example.org,+1 -968-6703,"468 Kevin Springs Apt. 767, Wendyburgh, CT 03556",07-10-2024,Silver,Cameron,Olsen,CT,1,583,1843.44,2025-03-09 09:07:15,Sports,Debit Card,Los Angeles,1
+541,Cameron Olsen,nwilkins@example.org,+1 -968-6703,"468 Kevin Springs Apt. 767, Wendyburgh, CT 03556",07-10-2024,Silver,Cameron,Olsen,CT,1,728,450.6,2025-01-16 23:52:30,Sports,PayPal,Miami,1
+542,William Adams,jacksonchloe@example.com,+1 -835-5057,"1445 Perkins Club Apt. 998, Arielhaven, TX 44131",16-10-2024,Bronze,William,Adams,TX,1,159,46.65,2025-04-06 15:31:58,Electronics,PayPal,Chicago,0
+542,William Adams,jacksonchloe@example.com,+1 -835-5057,"1445 Perkins Club Apt. 998, Arielhaven, TX 44131",16-10-2024,Bronze,William,Adams,TX,1,179,4636.94,2025-03-29 02:45:23,Beauty,PayPal,Online,0
+542,William Adams,jacksonchloe@example.com,+1 -835-5057,"1445 Perkins Club Apt. 998, Arielhaven, TX 44131",16-10-2024,Bronze,William,Adams,TX,1,416,2049.09,2025-04-15 11:25:25,Home,PayPal,Online,0
+543,Dale Carey,laura17@example.net,+1 -891-2585,"931 Charles Roads, New Christophertown, CA 85860",04-05-2024,Bronze,Dale,Carey,CA,1,767,0.0,2025-01-27 17:32:45,Home,PayPal,Miami,0
+544,Dylan King,kevin69@example.net,+1 -292-4003,"687 Lauren Well Apt. 260, Greenetown, TX 22762",23-10-2023,Bronze,Dylan,King,TX,1,268,2440.94,2025-02-03 08:06:00,Home,Credit Card,New York,0
+547,Phillip Holt,vadams@example.org,+1 -748-4321,"95267 Moore Locks Apt. 980, East Lisamouth, AK 77227",24-03-2025,Silver,Phillip,Holt,AK,1,5,3063.28,2025-06-14 04:28:53,Clothing,PayPal,Los Angeles,1
+548,Sharon Cooper,nathan78@example.net,+1 -602-4172,"7283 Cheryl Cliffs Suite 849, Lake Cynthia, UT 64746",21-01-2025,Silver,Sharon,Cooper,UT,1,11,3925.15,2025-02-20 05:53:17,Sports,Credit Card,Online,1
+550,Steven Wilson,sroberts@example.com,+373 -524-3847,"99839 Chambers Junctions, North Hannah, MD 43712",21-05-2025,Silver,Steven,Wilson,MD,373,379,3174.61,2025-01-31 18:53:56,Electronics,PayPal,Miami,1
+550,Steven Wilson,sroberts@example.com,+373 -524-3847,"99839 Chambers Junctions, North Hannah, MD 43712",21-05-2025,Silver,Steven,Wilson,MD,373,747,3553.6,2025-04-01 08:19:55,Home,Credit Card,New York,1
+552,Devon Medina,joshua78@example.net,+1 -527-5783,"9876 William Hill Apt. 110, Lonniemouth, AK 11090",03-05-2024,Bronze,Devon,Medina,AK,1,582,453.63,2025-04-19 12:47:08,Beauty,Cash,New York,0
+554,Charles Beltran,jennifermontgomery@example.com,+1 -748-6800,"PSC 2683, Box 3197, APO AA 40732",05-07-2023,Bronze,Charles,Beltran,AA,1,851,3721.88,2025-04-14 02:34:36,Beauty,Cash,Los Angeles,0
+556,Jorge Suarez,anitaarmstrong@example.com,+692 -402-9799,"937 Obrien Prairie, Reyesville, MH 59603",24-06-2024,Bronze,Jorge,Suarez,MH,692,672,4535.65,2025-04-06 08:03:27,Clothing,Credit Card,Miami,0
+556,Jorge Suarez,anitaarmstrong@example.com,+692 -402-9799,"937 Obrien Prairie, Reyesville, MH 59603",24-06-2024,Bronze,Jorge,Suarez,MH,692,979,2130.7,2025-03-29 18:26:37,Clothing,PayPal,New York,0
+558,Mike Smith,justin24@example.com,+249 -393-8347,"5221 Larry Isle Apt. 422, Alejandrobury, SD 00585",24-04-2025,Bronze,Mike,Smith,SD,249,251,1057.89,2025-04-30 01:58:09,Sports,Credit Card,New York,0
+559,Dylan Nguyen,xmcfarland@example.net,+1 -920-7996,"6930 Michael Flat, Blackview, VI 13862",07-04-2024,Gold,Dylan,Nguyen,VI,1,608,2093.69,2025-02-16 06:13:31,Clothing,Credit Card,New York,2
+559,Dylan Nguyen,xmcfarland@example.net,+1 -920-7996,"6930 Michael Flat, Blackview, VI 13862",07-04-2024,Gold,Dylan,Nguyen,VI,1,894,4291.48,2025-02-12 20:01:26,Electronics,Credit Card,Online,2
+560,Catherine Delgado,eroberts@example.com,+248 -776-1570,"529 Matthew Plain Apt. 562, East Andrew, SC 64468",24-08-2023,Gold,Catherine,Delgado,SC,248,515,1873.63,2025-04-24 02:11:07,Electronics,Cash,Online,2
+563,Wanda Dalton,max85@example.net,+355 -375-7173,"44508 Sean Canyon Apt. 065, Veronicashire, AL 22441",28-03-2024,Bronze,Wanda,Dalton,AL,355,566,2527.89,2025-01-07 10:04:48,Beauty,Debit Card,Online,0
+563,Wanda Dalton,max85@example.net,+355 -375-7173,"44508 Sean Canyon Apt. 065, Veronicashire, AL 22441",28-03-2024,Bronze,Wanda,Dalton,AL,355,630,753.01,2025-04-11 12:37:33,Sports,Cash,New York,0
+563,Wanda Dalton,max85@example.net,+355 -375-7173,"44508 Sean Canyon Apt. 065, Veronicashire, AL 22441",28-03-2024,Bronze,Wanda,Dalton,AL,355,761,961.29,2025-03-01 19:37:39,Beauty,Credit Card,New York,0
+563,Wanda Dalton,max85@example.net,+355 -375-7173,"44508 Sean Canyon Apt. 065, Veronicashire, AL 22441",28-03-2024,Bronze,Wanda,Dalton,AL,355,982,3935.86,2025-01-24 02:35:42,Sports,Debit Card,New York,0
+564,Brandon Brown,richardsrobert@example.org,+971 -678-9258,"USNV Dunn, FPO AE 71462",12-04-2025,Bronze,Brandon,Brown,AE,971,67,38.38,2025-06-12 13:08:24,Sports,Debit Card,Miami,0
+565,Erin Lee,egarcia@example.net,+1 -855-1966,"7455 Roy Ways, Juliestad, NC 50525",17-10-2023,Silver,Erin,Lee,NC,1,1,2992.47,2025-03-10 01:20:54,Sports,Debit Card,New York,1
+566,Jerry Flores,christopher84@example.com,+1 -167-4974,"1256 Hughes Courts, East Danielberg, ND 81265",08-02-2024,Bronze,Jerry,Flores,ND,1,230,2429.47,2025-03-31 13:45:45,Electronics,Cash,Online,0
+566,Jerry Flores,christopher84@example.com,+1 -167-4974,"1256 Hughes Courts, East Danielberg, ND 81265",08-02-2024,Bronze,Jerry,Flores,ND,1,256,1966.37,2025-04-01 01:01:40,Sports,PayPal,New York,0
+567,Eddie Velez,xmeadows@example.com,+54 -359-5182,"59479 Fisher Ferry Apt. 868, Port Alexander, AR 10850",20-05-2024,Bronze,Eddie,Velez,AR,54,901,4899.77,2025-06-02 15:25:53,Clothing,Credit Card,Miami,0
+568,Erin Richard,juliagardner@example.net,+1 -837-5244,"0505 Robert Greens, Port Heatherstad, KY 47124",13-11-2024,Bronze,Erin,Richard,KY,1,118,3350.57,2025-02-22 05:53:05,Clothing,Credit Card,Online,0
+568,Erin Richard,juliagardner@example.net,+1 -837-5244,"0505 Robert Greens, Port Heatherstad, KY 47124",13-11-2024,Bronze,Erin,Richard,KY,1,391,2906.7,2025-04-06 08:55:52,Electronics,PayPal,New York,0
+568,Erin Richard,juliagardner@example.net,+1 -837-5244,"0505 Robert Greens, Port Heatherstad, KY 47124",13-11-2024,Bronze,Erin,Richard,KY,1,526,4903.02,2025-05-27 18:12:22,Beauty,PayPal,Chicago,0
+570,Mindy Smith,alexisvega@example.net,+379 -779-9364,"06942 Anthony Islands, South Miguel, VA 65795",23-01-2024,Silver,Mindy,Smith,VA,379,779,2292.32,2025-02-10 16:43:05,Beauty,Credit Card,Chicago,1
+572,Stephanie Rodriguez,Stephanie.Rodriguez@email.com,+57 -468-9017,"11787 Catherine Divide, Russellmouth, CO 67747",26-07-2024,Bronze,Stephanie,Rodriguez,CO,57,287,3008.61,2025-04-06 02:53:30,Home,Cash,Online,0
+574,Samuel Martinez,kelly59@example.org,+1 -311-8850,"81258 Brock Lakes Apt. 336, Stephentown, VI 45973",28-03-2024,Bronze,Samuel,Martinez,VI,1,830,4411.81,2025-04-04 05:25:49,Home,Cash,Chicago,0
+575,Logan Obrien,jason40@example.org,+1 -911-5539,"31096 Jasmine Branch Suite 696, Gibsonville, ND 32488",24-08-2023,Gold,Logan,Obrien,ND,1,481,2698.86,2025-03-24 05:04:01,Beauty,Cash,Miami,2
+576,Melissa Lopez,yvette60@example.net,+212 -665-7044,"91286 Heather Springs Suite 814, North Rebecca, MA 58867",15-10-2024,Silver,Melissa,Lopez,MA,212,12,1287.14,2025-03-22 02:04:41,Beauty,Credit Card,Miami,1
+576,Melissa Lopez,yvette60@example.net,+212 -665-7044,"91286 Heather Springs Suite 814, North Rebecca, MA 58867",15-10-2024,Silver,Melissa,Lopez,MA,212,111,2177.12,2025-01-09 03:39:56,Beauty,Credit Card,Chicago,1
+576,Melissa Lopez,yvette60@example.net,+212 -665-7044,"91286 Heather Springs Suite 814, North Rebecca, MA 58867",15-10-2024,Silver,Melissa,Lopez,MA,212,571,4347.46,2025-05-18 00:46:14,Electronics,Credit Card,Miami,1
+579,Kristi Smith,sandramaxwell@example.net,+1 -658-8084,"17984 Avila Creek Apt. 132, Wilsonhaven, FL 72820",29-05-2025,Silver,Kristi,Smith,FL,1,14,0.0,2025-04-16 20:54:47,Home,Cash,Online,1
+579,Kristi Smith,sandramaxwell@example.net,+1 -658-8084,"17984 Avila Creek Apt. 132, Wilsonhaven, FL 72820",29-05-2025,Silver,Kristi,Smith,FL,1,691,4035.73,2025-01-10 18:58:07,Sports,Credit Card,New York,1
+581,Bernard Morse,tfoster@example.com,+1 -539-5685,"6393 Black Mission Suite 619, Port Jasmine, MI 66324",17-03-2024,Bronze,Bernard,Morse,MI,1,542,3681.02,2025-04-28 02:59:04,Beauty,PayPal,Miami,0
+582,Kathy Cohen,bradley07@example.com,+1 -360-1930,"USNV Rice, FPO AA 90752",21-01-2025,Bronze,Kathy,Cohen,AA,1,732,2259.09,2025-03-29 11:19:39,Home,Credit Card,Chicago,0
+584,Steve Alvarado,greenjessica@example.com,+1 -750-8292,"4197 Camacho Row Suite 820, Coreymouth, MS 33570",26-02-2025,Gold,Steve,Alvarado,MS,1,127,512.92,2025-04-21 05:10:30,Sports,Credit Card,Online,2
+585,Mark Rocha,sarahjones@example.org,+1 -882-4222,"5947 Johnson Trafficway Apt. 151, Ayersfurt, IA 68097",28-11-2024,Gold,Mark,Rocha,IA,1,516,1106.26,2025-01-05 10:14:16,Home,Debit Card,Miami,2
+586,Tony Hurley,jenniferhernandez@example.org,+248 -661-3532,"806 Troy Center Apt. 284, Kirstenhaven, SC 85229",22-11-2023,Gold,Tony,Hurley,SC,248,423,1753.52,2025-03-18 01:56:59,Beauty,Cash,Miami,2
+586,Tony Hurley,jenniferhernandez@example.org,+248 -661-3532,"806 Troy Center Apt. 284, Kirstenhaven, SC 85229",22-11-2023,Gold,Tony,Hurley,SC,248,832,4904.92,2025-04-26 22:55:48,Home,PayPal,Los Angeles,2
+587,Brett Rollins,paulmunoz@example.net,+1 -449-6113,"46659 Travis Drives, Barkerborough, NV 44463",16-12-2023,Silver,Brett,Rollins,NV,1,590,2353.34,2025-03-29 22:08:38,Clothing,Cash,New York,1
+589,Ashley Perkins,james89@example.org,+91 -119-5939,"8156 Bruce Lakes Apt. 367, Michaelshire, IN 08733",18-01-2025,Silver,Ashley,Perkins,IN,91,815,3656.1,2025-01-24 08:06:50,Clothing,PayPal,Los Angeles,1
+590,Susan Garcia,ijensen@example.com,+356 -333-4812,"903 Michael Oval, North Blake, MT 59501",07-05-2025,Gold,Susan,Garcia,MT,356,440,389.88,2025-04-20 02:45:37,Home,Cash,Los Angeles,2
+594,Sherry Martinez,meganwright@example.org,+856 -723-5557,"498 Amber Fork, Butlermouth, LA 89768",22-11-2023,Gold,Sherry,Martinez,LA,856,410,417.56,2025-04-09 14:10:18,Beauty,Cash,New York,2
+596,Carol Shaffer,burnsscott@example.org,+507 -782-9223,"81324 John Walk, Alanchester, PA 20064",23-10-2023,Bronze,Carol,Shaffer,PA,507,242,2177.23,2025-04-11 15:18:13,Home,Credit Card,Los Angeles,0
+598,Melissa Adams,aimee17@example.net,+356 -827-2392,"662 Kimberly Row Suite 993, Rebeccaborough, MT 26645",18-10-2023,Gold,Melissa,Adams,MT,356,87,1632.77,2025-06-05 05:43:19,Clothing,PayPal,Miami,2
+599,Jeremy Sparks,qwillis@example.com,+1 -942-4637,"5929 Mary Drives Apt. 763, Derrickmouth, AS 94889",11-07-2024,Bronze,Jeremy,Sparks,AS,1,870,3148.32,2025-05-26 01:04:55,Sports,Credit Card,Online,0
+600,Jeffrey Dean,brentsullivan@example.net,+1 -804-7399,"2193 Charles Locks Apt. 483, Lake Kristen, WI 28974",25-06-2023,Bronze,Jeffrey,Dean,WI,1,258,4677.29,2025-03-25 11:47:44,Home,Credit Card,Chicago,0
+603,Kelly Montgomery,jmartinez@example.org,+680 -631-9250,"493 Peters Radial Suite 594, Joshuabury, PW 95924",19-01-2025,Bronze,Kelly,Montgomery,PW,680,222,1617.81,2025-06-09 12:46:32,Electronics,Cash,Online,0
+605,Kelly Crawford,umiller@example.com,+1 -421-6391,"0906 Sandra Stravenue, East Charlotte, KS 82095",15-12-2023,Silver,Kelly,Crawford,KS,1,694,3791.69,2025-03-07 14:16:52,Electronics,Debit Card,New York,1
+607,Bryan Miller,tamara10@example.org,+1 -357-5650,"15831 Lewis Cliff Suite 525, Phillipsfort, MP 33526",30-10-2024,Gold,Bryan,Miller,MP,1,160,1349.06,2025-05-02 10:29:10,Home,Debit Card,Online,2
+609,Roberto Martinez,harveycaitlin@example.net,+1 -185-8492,"USS Wheeler, FPO AA 80983",20-02-2024,Gold,Roberto,Martinez,AA,1,22,4341.42,2025-04-18 00:36:30,Sports,Cash,Online,2
+609,Roberto Martinez,harveycaitlin@example.net,+1 -185-8492,"USS Wheeler, FPO AA 80983",20-02-2024,Gold,Roberto,Martinez,AA,1,385,4141.97,2025-04-15 18:11:27,Home,Credit Card,Miami,2
+610,Maria Donaldson,ddavis@example.net,+355 -473-4388,"93478 Ingram Land Suite 110, Watsonhaven, AL 43330",07-01-2024,Bronze,Maria,Donaldson,AL,355,208,269.26,2025-02-15 23:12:41,Home,Debit Card,Chicago,0
+610,Maria Donaldson,ddavis@example.net,+355 -473-4388,"93478 Ingram Land Suite 110, Watsonhaven, AL 43330",07-01-2024,Bronze,Maria,Donaldson,AL,355,914,4419.84,2025-05-02 09:57:11,Beauty,Cash,Online,0
+612,Ricky Levine,egomez@example.org,+1 -122-3395,"79039 Daniel Drive, New Stacey, TX 69894",17-10-2023,Silver,Ricky,Levine,TX,1,784,4594.53,2025-06-11 17:24:31,Home,Credit Card,New York,1
+613,Thomas Palmer,gonzalesjoseph@example.net,+1 -720-3690,"580 Rivera Village, Michaelchester, WV 48305",11-05-2024,Bronze,Thomas,Palmer,WV,1,646,0.0,2025-04-27 09:50:48,Clothing,Credit Card,Chicago,0
+613,Thomas Palmer,gonzalesjoseph@example.net,+1 -720-3690,"580 Rivera Village, Michaelchester, WV 48305",11-05-2024,Bronze,Thomas,Palmer,WV,1,707,2047.22,2025-04-28 09:48:33,Beauty,PayPal,Chicago,0
+614,Vicki Flores,wilsonamy@example.com,+1 -160-1784,"USCGC Kemp, FPO AA 65184",21-03-2024,Bronze,Vicki,Flores,AA,1,333,2124.25,2025-02-12 13:36:57,Sports,PayPal,Miami,0
+615,David Ramos,durancharles@example.com,+1 -184-9262,"969 Gomez Cape Apt. 332, Port Alejandro, VT 16899",19-08-2024,Silver,David,Ramos,VT,1,7,3027.38,2025-03-18 15:59:16,Beauty,Credit Card,Chicago,1
+616,Deborah Miller,lperez@example.org,+692 -144-6159,"2181 Johnston Groves Apt. 869, Port Megan, MH 71716",02-12-2024,Gold,Deborah,Miller,MH,692,609,2041.02,2025-03-31 21:19:17,Home,Debit Card,New York,2
+616,Deborah Miller,lperez@example.org,+692 -144-6159,"2181 Johnston Groves Apt. 869, Port Megan, MH 71716",02-12-2024,Gold,Deborah,Miller,MH,692,727,2976.51,2025-05-18 05:32:25,Beauty,PayPal,Miami,2
+617,Alexander Clarke,christinaboyer@example.org,+62 -332-3980,"306 Willie Run Suite 366, Chadside, ID 62354",14-07-2023,Gold,Alexander,Clarke,ID,62,115,1006.88,2025-01-22 05:12:57,Electronics,Debit Card,Chicago,2
+618,Christopher Green,flynnvalerie@example.org,+1 -350-8245,"PSC 2578, Box 5028, APO AP 51761",25-10-2024,Bronze,Christopher,Green,AP,1,836,4083.59,2025-01-26 23:20:38,Beauty,Debit Card,Los Angeles,0
+619,Matthew Johnson,jennifer33@example.com,+1 -994-8272,"1634 Lopez Mall, Port Amyborough, OH 72189",02-08-2024,Bronze,Matthew,Johnson,OH,1,435,3789.7,2025-05-08 01:49:21,Beauty,Credit Card,Los Angeles,0
+619,Matthew Johnson,jennifer33@example.com,+1 -994-8272,"1634 Lopez Mall, Port Amyborough, OH 72189",02-08-2024,Bronze,Matthew,Johnson,OH,1,819,3816.74,2025-03-20 07:30:32,Home,Credit Card,Online,0
+622,Valerie Taylor,thompsonzachary@example.org,+1 -798-7181,"58045 Jennifer Meadows, Lindsayberg, WY 02565",07-08-2023,Bronze,Valerie,Taylor,WY,1,453,2566.29,2025-02-19 05:27:35,Sports,PayPal,Chicago,0
+622,Valerie Taylor,thompsonzachary@example.org,+1 -798-7181,"58045 Jennifer Meadows, Lindsayberg, WY 02565",07-08-2023,Bronze,Valerie,Taylor,WY,1,524,3498.67,2025-03-26 23:06:41,Clothing,Credit Card,Miami,0
+623,Mary Joyce,shannon34@example.org,+1 -880-7761,"7037 Miles Club, Donaldchester, AS 47164",17-07-2023,Bronze,Mary,Joyce,AS,1,441,1815.83,2025-03-19 03:24:11,Electronics,Debit Card,Miami,0
+623,Mary Joyce,shannon34@example.org,+1 -880-7761,"7037 Miles Club, Donaldchester, AS 47164",17-07-2023,Bronze,Mary,Joyce,AS,1,964,3667.92,2025-04-05 14:10:51,Clothing,Credit Card,Los Angeles,0
+623,Mary Joyce,shannon34@example.org,+1 -880-7761,"7037 Miles Club, Donaldchester, AS 47164",17-07-2023,Bronze,Mary,Joyce,AS,1,983,559.51,2025-06-11 05:55:23,Beauty,Cash,New York,0
+624,Matthew Best,jennifer71@example.com,+373 -791-1514,"57973 Robert Prairie, Georgeshire, MD 30904",14-04-2025,Bronze,Matthew,Best,MD,373,795,651.34,2025-01-07 23:19:55,Sports,PayPal,Online,0
+626,Carl Brown,garymiller@example.net,+1 -774-9141,"82977 Thomas Parkway Suite 500, Burnsville, VI 93145",20-02-2025,Bronze,Carl,Brown,VI,1,752,0.0,2025-01-20 07:30:15,Sports,Credit Card,New York,0
+627,Jennifer Jordan,jwhite@example.com,+856 -936-4790,"1019 Brittany Cove, Turnerburgh, LA 61344",07-06-2024,Bronze,Jennifer,Jordan,LA,856,122,3969.06,2025-01-17 09:27:37,Home,Debit Card,New York,0
+627,Jennifer Jordan,jwhite@example.com,+856 -936-4790,"1019 Brittany Cove, Turnerburgh, LA 61344",07-06-2024,Bronze,Jennifer,Jordan,LA,856,217,1725.83,2025-04-11 23:49:48,Home,Debit Card,Miami,0
+628,Sheila Ramirez,richmondisabel@example.org,+1 -140-4441,"3988 Martinez Villages Suite 653, Howardchester, RI 82521",07-10-2023,Gold,Sheila,Ramirez,RI,1,313,4443.75,2025-05-10 23:44:34,Sports,PayPal,New York,2
+628,Sheila Ramirez,richmondisabel@example.org,+1 -140-4441,"3988 Martinez Villages Suite 653, Howardchester, RI 82521",07-10-2023,Gold,Sheila,Ramirez,RI,1,731,4542.16,2025-01-17 11:34:05,Home,Credit Card,Online,2
+632,Jacob Smith,rachelmartinez@example.net,+1 -195-8939,"55182 Erica Street Apt. 707, South Julia, MS 74155",24-01-2024,Silver,Jacob,Smith,MS,1,110,0.0,2025-02-17 13:45:29,Sports,Cash,New York,1
+634,Joseph Rodriguez,phancock@example.com,+856 -316-7395,"782 John Pine Apt. 763, East Jeremy, LA 41570",03-03-2025,Bronze,Joseph,Rodriguez,LA,856,238,532.22,2025-02-24 03:38:18,Electronics,Cash,New York,0
+636,Grace Jones,hgreen@example.org,+382 -820-3736,"742 Poole Run, Shannonhaven, ME 70335",24-05-2025,Silver,Grace,Jones,ME,382,475,3628.2,2025-03-08 14:52:53,Beauty,PayPal,Online,1
+637,Maria Vega,jameslee@example.org,+382 -189-1636,"241 Joseph Springs, Michaeltown, ME 51654",25-06-2024,Gold,Maria,Vega,ME,382,925,975.73,2025-04-30 03:42:11,Electronics,Cash,Chicago,2
+638,Lori Carpenter,anthonyreed@example.com,+1 -165-1646,"750 Laura Station Suite 132, West Reginaville, MI 62077",17-10-2024,Silver,Lori,Carpenter,MI,1,621,4000.22,2025-04-11 00:03:50,Clothing,Debit Card,Online,1
+638,Lori Carpenter,anthonyreed@example.com,+1 -165-1646,"750 Laura Station Suite 132, West Reginaville, MI 62077",17-10-2024,Silver,Lori,Carpenter,MI,1,754,3857.12,2025-03-17 16:56:42,Home,Cash,Los Angeles,1
+638,Lori Carpenter,anthonyreed@example.com,+1 -165-1646,"750 Laura Station Suite 132, West Reginaville, MI 62077",17-10-2024,Silver,Lori,Carpenter,MI,1,800,3688.46,2025-02-21 12:38:36,Sports,PayPal,Miami,1
+642,Tiffany Fuller,robynross@example.com,+216 -767-2062,"60042 Heather Well, East Jenniferside, TN 48717",12-06-2024,Gold,Tiffany,Fuller,TN,216,482,2826.89,2025-04-30 11:18:10,Beauty,Cash,Chicago,2
+642,Tiffany Fuller,robynross@example.com,+216 -767-2062,"60042 Heather Well, East Jenniferside, TN 48717",12-06-2024,Gold,Tiffany,Fuller,TN,216,766,2701.87,2025-05-12 00:11:05,Home,PayPal,New York,2
+642,Tiffany Fuller,robynross@example.com,+216 -767-2062,"60042 Heather Well, East Jenniferside, TN 48717",12-06-2024,Gold,Tiffany,Fuller,TN,216,913,1546.61,2025-05-18 22:07:44,Sports,PayPal,New York,2
+644,Jackson Lane,nathaniel56@example.org,+1 -902-4366,"72314 Garcia Villages, South Tony, NV 09047",25-05-2024,Silver,Jackson,Lane,NV,1,243,4522.92,2025-03-11 22:56:40,Sports,PayPal,Online,1
+645,Tony Guerra,paularodriguez@example.com,+1 -269-4588,"7174 Harrison Prairie, Smithshire, NY 43549",11-02-2025,Silver,Tony,Guerra,NY,1,425,4282.09,2025-02-08 18:01:59,Home,Credit Card,Miami,1
+648,Zachary Gutierrez,jguerrero@example.net,+1 -519-8167,"9642 Garcia Isle, South Christopher, VI 34206",26-07-2024,Gold,Zachary,Gutierrez,VI,1,273,2716.77,2025-04-16 08:39:46,Electronics,Debit Card,New York,2
+648,Zachary Gutierrez,jguerrero@example.net,+1 -519-8167,"9642 Garcia Isle, South Christopher, VI 34206",26-07-2024,Gold,Zachary,Gutierrez,VI,1,971,2296.35,2025-06-05 03:43:38,Home,Credit Card,New York,2
+650,Todd Owens,robert57@example.com,+1 -125-4756,"012 Lee Field, Aprilmouth, RI 86285",19-04-2024,Bronze,Todd,Owens,RI,1,889,2667.77,2025-06-08 12:01:01,Electronics,Debit Card,Los Angeles,0
+651,Ronald Wood,williamschristina@example.net,+212 -756-9939,"8475 Newton Lock, North Jamesport, MA 78993",02-06-2025,Gold,Ronald,Wood,MA,212,443,559.64,2025-04-30 20:02:39,Electronics,Cash,Online,2
+652,Lisa Walker,jeffreymoore@example.net,+241 -301-7915,"208 Daryl Square, New Judy, GA 57140",13-04-2025,Bronze,Lisa,Walker,GA,241,778,2429.41,2025-04-18 22:45:19,Electronics,Debit Card,Chicago,0
+654,Peter Silva,yrosario@example.net,+1 -985-5937,"603 Stephanie Crescent Apt. 269, Stephanieberg, WV 37937",06-10-2024,Bronze,Peter,Silva,WV,1,172,346.08,2025-05-18 19:20:40,Home,Cash,Online,0
+656,Julia Hess,goldenpaula@example.org,+212 -399-7188,"613 Davis Manor Apt. 842, South Calebland, MA 83145",17-08-2023,Bronze,Julia,Hess,MA,212,447,4017.06,2025-02-03 15:53:39,Sports,PayPal,Chicago,0
+656,Julia Hess,goldenpaula@example.org,+212 -399-7188,"613 Davis Manor Apt. 842, South Calebland, MA 83145",17-08-2023,Bronze,Julia,Hess,MA,212,820,0.0,2025-01-30 09:09:21,Beauty,Cash,Chicago,0
+656,Julia Hess,goldenpaula@example.org,+212 -399-7188,"613 Davis Manor Apt. 842, South Calebland, MA 83145",17-08-2023,Bronze,Julia,Hess,MA,212,861,2937.02,2025-04-29 15:17:42,Beauty,PayPal,Miami,0
+657,Ryan Everett,gstevens@example.org,+1 -377-3066,"922 Young Harbor Suite 690, North Elizabethside, VT 64808",24-11-2023,Gold,Ryan,Everett,VT,1,25,3206.91,2025-04-28 12:32:22,Clothing,Credit Card,New York,2
+659,Seth Mccall,fbarron@example.net,+249 -909-5685,"5583 Hoover Field, East Heather, SD 94321",27-10-2023,Silver,Seth,Mccall,SD,249,28,2712.18,2025-02-01 03:32:52,Sports,Cash,Online,1
+659,Seth Mccall,fbarron@example.net,+249 -909-5685,"5583 Hoover Field, East Heather, SD 94321",27-10-2023,Silver,Seth,Mccall,SD,249,605,4859.14,2025-06-12 02:53:48,Home,Credit Card,Miami,1
+660,Phillip Simmons,zneal@example.net,+1 -617-3929,"72892 Hahn Locks, Williamsport, KS 81628",17-04-2025,Gold,Phillip,Simmons,KS,1,833,2168.37,2025-01-17 23:09:06,Home,PayPal,Los Angeles,2
+662,Jennifer Smith,jacksoncraig@example.net,+1 -118-7658,"19854 Cynthia Path Suite 655, South Dustinland, CT 48016",23-04-2025,Silver,Jennifer,Smith,CT,1,80,200.34,2025-01-13 01:30:50,Beauty,Credit Card,Chicago,1
+663,Sarah Fischer,woodwilliam@example.org,+1 -351-8099,"647 Morgan Heights, West Kaitlyn, MP 26977",27-10-2024,Gold,Sarah,Fischer,MP,1,719,3130.7,2025-04-08 09:13:08,Beauty,Credit Card,Chicago,2
+666,Jillian Schwartz,tim50@example.net,+248 -467-1748,"884 Turner Alley Apt. 854, Delacruzstad, SC 11183",18-11-2023,Silver,Jillian,Schwartz,SC,248,771,2848.76,2025-01-05 07:05:59,Sports,Cash,Los Angeles,1
+667,Matthew Smith,kevinespinoza@example.org,+1 -368-5339,"8878 Michael Knoll, West Williamborough, CT 80459",30-04-2025,Bronze,Matthew,Smith,CT,1,988,2815.32,2025-06-15 20:57:54,Beauty,Cash,Los Angeles,0
+669,Victor Patrick,howardsandra@example.com,+227 -772-8006,"310 Thompson Spring Suite 581, North Vickiton, NE 34785",28-09-2024,Silver,Victor,Patrick,NE,227,79,435.05,2025-05-16 17:10:18,Home,PayPal,Chicago,1
+669,Victor Patrick,howardsandra@example.com,+227 -772-8006,"310 Thompson Spring Suite 581, North Vickiton, NE 34785",28-09-2024,Silver,Victor,Patrick,NE,227,207,1160.19,2025-02-18 21:17:22,Home,Credit Card,Los Angeles,1
+669,Victor Patrick,howardsandra@example.com,+227 -772-8006,"310 Thompson Spring Suite 581, North Vickiton, NE 34785",28-09-2024,Silver,Victor,Patrick,NE,227,221,398.96,2025-06-08 13:12:29,Electronics,Cash,Chicago,1
+669,Victor Patrick,howardsandra@example.com,+227 -772-8006,"310 Thompson Spring Suite 581, North Vickiton, NE 34785",28-09-2024,Silver,Victor,Patrick,NE,227,740,610.4,2025-01-07 03:27:20,Electronics,Cash,Miami,1
+669,Victor Patrick,howardsandra@example.com,+227 -772-8006,"310 Thompson Spring Suite 581, North Vickiton, NE 34785",28-09-2024,Silver,Victor,Patrick,NE,227,998,3069.08,2025-04-01 19:59:01,Home,PayPal,Los Angeles,1
+670,Jesse Glover,campbellmary@example.com,+249 -870-7292,"0055 James Motorway, North Kevin, SD 76894",10-01-2024,Gold,Jesse,Glover,SD,249,232,375.28,2025-02-22 22:20:31,Home,PayPal,Los Angeles,2
+670,Jesse Glover,campbellmary@example.com,+249 -870-7292,"0055 James Motorway, North Kevin, SD 76894",10-01-2024,Gold,Jesse,Glover,SD,249,974,3020.45,2025-04-19 12:40:45,Beauty,Cash,New York,2
+671,Sarah Harris,ipalmer@example.org,+1 -325-3294,"62861 Arthur Flat, Owenbury, TX 81114",02-05-2024,Gold,Sarah,Harris,TX,1,121,2121.15,2025-06-09 17:45:12,Electronics,Debit Card,Los Angeles,2
+671,Sarah Harris,ipalmer@example.org,+1 -325-3294,"62861 Arthur Flat, Owenbury, TX 81114",02-05-2024,Gold,Sarah,Harris,TX,1,506,2505.52,2025-04-18 15:57:10,Clothing,PayPal,Miami,2
+672,Cheryl Smith,lewisjennifer@example.net,+379 -312-2823,"2628 James Isle, Kevinchester, VA 40263",15-09-2024,Bronze,Cheryl,Smith,VA,379,464,1115.85,2025-04-06 10:24:24,Electronics,Cash,Chicago,0
+673,Nicole Berg,amandagraves@example.net,+356 -284-2560,"800 Kelsey Fords, Lake Yolanda, MT 23538",01-10-2023,Gold,Nicole,Berg,MT,356,579,1446.25,2025-03-25 20:23:12,Clothing,Cash,Online,2
+675,Bethany Ware,narroyo@example.com,+1 -343-8802,"167 Johnson Loop, Lake Anna, AK 06500",20-08-2023,Silver,Bethany,Ware,AK,1,675,1088.11,2025-04-30 13:25:18,Home,Cash,Los Angeles,1
+676,Brittany Mckee,marynelson@example.org,+1 -560-5518,"USNS Vance, FPO AP 02174",03-01-2025,Gold,Brittany,Mckee,AP,1,56,2543.2,2025-01-23 09:11:26,Electronics,Credit Card,New York,2
+676,Brittany Mckee,marynelson@example.org,+1 -560-5518,"USNS Vance, FPO AP 02174",03-01-2025,Gold,Brittany,Mckee,AP,1,705,241.13,2025-04-05 18:52:27,Sports,Cash,Chicago,2
+677,Laura Jones,thomas51@example.net,+971 -423-7375,"PSC 4348, Box 8883, APO AE 07596",23-08-2023,Bronze,Laura,Jones,AE,971,318,1425.56,2025-01-10 11:59:32,Home,Credit Card,Miami,0
+679,Sarah Bond,nbrown@example.com,+1 -349-1064,"72142 Jones Fork, South Christina, NV 05192",13-09-2024,Gold,Sarah,Bond,NV,1,185,1764.94,2025-05-27 02:03:40,Beauty,Credit Card,Chicago,2
+680,Cindy Wright,robinsonjames@example.com,+1 -869-6443,"037 Johnson Lock Apt. 513, Davidport, WA 16559",01-05-2024,Gold,Cindy,Wright,WA,1,502,2307.3,2025-04-07 05:19:22,Beauty,Credit Card,New York,2
+681,Mariah Wilson,lisaclark@example.org,+1 -294-9074,"0834 Hale Springs Apt. 803, Michaelmouth, NY 41069",23-05-2025,Silver,Mariah,Wilson,NY,1,275,832.4,2025-02-20 11:19:45,Electronics,Debit Card,Online,1
+681,Mariah Wilson,lisaclark@example.org,+1 -294-9074,"0834 Hale Springs Apt. 803, Michaelmouth, NY 41069",23-05-2025,Silver,Mariah,Wilson,NY,1,880,4624.07,2025-05-18 08:05:05,Clothing,Debit Card,Chicago,1
+683,Brian Brady,angelajohnson@example.org,+1 -622-2616,"PSC 3852, Box 4903, APO AA 65341",12-12-2023,Bronze,Brian,Brady,AA,1,88,1574.76,2025-04-19 07:18:00,Beauty,Cash,Online,0
+683,Brian Brady,angelajohnson@example.org,+1 -622-2616,"PSC 3852, Box 4903, APO AA 65341",12-12-2023,Bronze,Brian,Brady,AA,1,835,2600.42,2025-05-20 02:32:27,Sports,Credit Card,Chicago,0
+684,Tom Wolf,diane49@example.com,+1 -742-2043,"429 Sheila Pine Suite 070, Hannahton, UT 99264",02-02-2024,Gold,Tom,Wolf,UT,1,737,2723.63,2025-01-12 17:32:19,Clothing,Credit Card,Chicago,2
+685,Kristin Miller,lambertrobert@example.net,+49 -960-1188,"2839 Hooper Path, Port Kayla, DE 54371",24-05-2025,Gold,Kristin,Miller,DE,49,736,1158.37,2025-04-08 21:16:57,Clothing,Cash,Los Angeles,2
+687,Thomas Oneill,Thomas.Oneill@email.com,+976 -475-6781,"4512 Kathryn Manor Suite 493, Port Terri, MN 77071",15-11-2023,Silver,Thomas,Oneill,MN,976,769,2975.3,2025-05-05 01:55:40,Beauty,Cash,Miami,1
+688,Pamela Chambers,james62@example.org,+856 -347-2126,"3820 Samantha Rue, Cassandrafort, LA 13403",30-10-2024,Gold,Pamela,Chambers,LA,856,89,1378.09,2025-06-14 03:58:44,Clothing,Debit Card,Chicago,2
+688,Pamela Chambers,james62@example.org,+856 -347-2126,"3820 Samantha Rue, Cassandrafort, LA 13403",30-10-2024,Gold,Pamela,Chambers,LA,856,267,3936.82,2025-03-17 12:24:47,Electronics,Cash,Los Angeles,2
+689,Robert Johnson,sue12@example.com,+227 -621-5387,"2650 Dan Drive Suite 104, Stephanieton, NE 66236",16-06-2025,Gold,Robert,Johnson,NE,227,284,4487.05,2025-03-24 14:55:03,Home,PayPal,Online,2
+690,Debbie Jackson,gflores@example.org,+54 -690-5954,"524 Brian Views, Kristinmouth, AR 75411",28-10-2024,Gold,Debbie,Jackson,AR,54,935,2831.03,2025-03-07 20:52:14,Beauty,Debit Card,Los Angeles,2
+691,Michael Elliott,villanuevabeth@example.org,+1 -678-4185,"3845 Johnson Extensions, South Danielview, MP 70285",18-02-2024,Gold,Michael,Elliott,MP,1,512,865.39,2025-02-20 16:01:49,Sports,Debit Card,Chicago,2
+692,Tony George,heathercarrillo@example.org,+1 -419-8973,"762 Ian Forest Apt. 665, Joannaburgh, NJ 80663",13-11-2023,Silver,Tony,George,NJ,1,405,3486.07,2025-04-03 11:23:18,Clothing,PayPal,Miami,1
+693,Jacob Rosales,qwilliams@example.com,+1 -170-3147,"USNV Molina, FPO AP 96167",30-07-2024,Gold,Jacob,Rosales,AP,1,326,2211.37,2025-03-24 02:00:29,Home,Debit Card,Chicago,2
+694,James Foster,angelawashington@example.net,+1 -138-5962,"381 Osborne Turnpike, Antoniotown, AS 18596",15-10-2023,Silver,James,Foster,AS,1,986,166.41,2025-04-18 10:50:08,Sports,PayPal,Miami,1
+696,Kevin Hansen,rwilliams@example.org,+57 -622-4211,"967 Claudia Valley, Lake Keithton, CO 04699",11-09-2023,Silver,Kevin,Hansen,CO,57,867,865.55,2025-04-17 06:29:40,Electronics,Credit Card,Online,1
+696,Kevin Hansen,rwilliams@example.org,+57 -622-4211,"967 Claudia Valley, Lake Keithton, CO 04699",11-09-2023,Silver,Kevin,Hansen,CO,57,885,1114.14,2025-06-06 05:21:22,Electronics,PayPal,Chicago,1
+697,Diana Ray,oduncan@example.net,+1 -947-8196,"31597 James Well, North Peterburgh, UT 47068",08-08-2024,Gold,Diana,Ray,UT,1,149,4683.07,2025-05-13 00:48:43,Electronics,Credit Card,New York,2
+697,Diana Ray,oduncan@example.net,+1 -947-8196,"31597 James Well, North Peterburgh, UT 47068",08-08-2024,Gold,Diana,Ray,UT,1,197,4736.17,2025-03-20 15:49:13,Clothing,Credit Card,Online,2
+697,Diana Ray,oduncan@example.net,+1 -947-8196,"31597 James Well, North Peterburgh, UT 47068",08-08-2024,Gold,Diana,Ray,UT,1,264,3721.42,2025-06-16 22:40:43,Home,PayPal,Online,2
+701,Jesse Mcdaniel,michaelblackburn@example.com,+249 -339-1662,"162 Steven Fords, West Randall, SD 25122",30-11-2023,Silver,Jesse,Mcdaniel,SD,249,393,227.38,2025-02-07 02:04:46,Electronics,PayPal,Miami,1
+704,Barry White,paul09@example.org,+49 -938-2293,"46217 Linda Highway Apt. 223, Port Lindsayview, DE 83644",18-11-2023,Gold,Barry,White,DE,49,47,4559.71,2025-04-27 10:19:12,Beauty,Credit Card,Chicago,2
+704,Barry White,paul09@example.org,+49 -938-2293,"46217 Linda Highway Apt. 223, Port Lindsayview, DE 83644",18-11-2023,Gold,Barry,White,DE,49,713,2205.29,2025-03-20 19:18:27,Beauty,Debit Card,Miami,2
+705,Michael Bright,melaniehuerta@example.com,+1 -523-3598,"0533 Dunn Tunnel Suite 670, Brownchester, OH 91854",05-02-2025,Gold,Michael,Bright,OH,1,398,4429.17,2025-02-19 13:06:13,Clothing,Cash,New York,2
+707,Jessica Leonard,udickerson@example.com,+1 -986-4040,"836 Harper Bridge, Lake Jody, NM 66761",02-09-2023,Silver,Jessica,Leonard,NM,1,83,692.14,2025-05-10 09:06:00,Electronics,PayPal,Online,1
+708,Susan Allen,Susan.Allen@email.com,+216 -976-8713,"7429 Allen Branch Apt. 579, South Jaimeside, TN 68771",29-10-2023,Gold,Susan,Allen,TN,216,498,943.53,2025-01-22 22:16:43,Clothing,PayPal,Los Angeles,2
+708,Susan Allen,Susan.Allen@email.com,+216 -976-8713,"7429 Allen Branch Apt. 579, South Jaimeside, TN 68771",29-10-2023,Gold,Susan,Allen,TN,216,514,4129.48,2025-01-27 02:13:38,Beauty,Debit Card,Online,2
+710,Michelle Rodriguez,tara58@example.net,+1 -919-1476,"959 Kelsey Mountains Apt. 556, South Patrick, KY 49684",27-10-2023,Gold,Michelle,Rodriguez,KY,1,57,1248.98,2025-01-27 11:07:27,Sports,Cash,Chicago,2
+710,Michelle Rodriguez,tara58@example.net,+1 -919-1476,"959 Kelsey Mountains Apt. 556, South Patrick, KY 49684",27-10-2023,Gold,Michelle,Rodriguez,KY,1,596,70.39,2025-02-20 04:44:47,Sports,Cash,Los Angeles,2
+710,Michelle Rodriguez,tara58@example.net,+1 -919-1476,"959 Kelsey Mountains Apt. 556, South Patrick, KY 49684",27-10-2023,Gold,Michelle,Rodriguez,KY,1,978,410.11,2025-01-14 16:01:04,Electronics,Cash,Miami,2
+711,Wendy Beasley,robertcross@example.net,+1 -611-4744,"PSC 9939, Box 1202, APO AA 25201",21-01-2025,Gold,Wendy,Beasley,AA,1,477,4736.24,2025-03-09 19:49:26,Beauty,Cash,Chicago,2
+713,Rachel Bell,browntheodore@example.org,+1 -549-9322,"5897 William Route, West George, RI 12534",02-10-2023,Bronze,Rachel,Bell,RI,1,662,4384.6,2025-01-21 08:51:28,Electronics,PayPal,Los Angeles,0
+714,Joan Hamilton,xthompson@example.net,+691 -320-6213,"20920 Warren Overpass Apt. 996, Ortizview, FM 28724",02-01-2024,Silver,Joan,Hamilton,FM,691,693,3751.06,2025-06-15 07:01:19,Clothing,PayPal,New York,1
+716,Tiffany Quinn,ethaningram@example.net,+49 -260-2279,"46923 Xavier Knoll Apt. 669, Fullerburgh, DE 97056",03-07-2023,Silver,Tiffany,Quinn,DE,49,555,1316.16,2025-05-07 01:39:06,Sports,Cash,Miami,1
+719,Julie Peters,suttonjoseph@example.net,+249 -351-5387,"608 Mullins Extension Suite 259, Lake Michael, SD 15105",13-10-2024,Bronze,Julie,Peters,SD,249,68,4568.21,2025-04-05 00:46:59,Home,Credit Card,Los Angeles,0
+723,John Chavez,geraldbullock@example.net,+1 -743-8038,"196 Scott Springs Apt. 577, Reynoldsside, AK 54520",05-09-2023,Gold,John,Chavez,AK,1,730,3842.83,2025-01-15 09:59:23,Electronics,Cash,New York,2
+723,John Chavez,geraldbullock@example.net,+1 -743-8038,"196 Scott Springs Apt. 577, Reynoldsside, AK 54520",05-09-2023,Gold,John,Chavez,AK,1,864,3349.77,2025-03-09 14:58:53,Clothing,Cash,Los Angeles,2
+724,Briana Williams,johnsmith@example.net,+57 -896-4265,"0317 Brian Keys, Hernandezmouth, CO 92890",18-07-2024,Gold,Briana,Williams,CO,57,17,1616.35,2025-03-26 18:46:58,Sports,Debit Card,Chicago,2
+724,Briana Williams,johnsmith@example.net,+57 -896-4265,"0317 Brian Keys, Hernandezmouth, CO 92890",18-07-2024,Gold,Briana,Williams,CO,57,341,4546.42,2025-06-08 19:05:32,Beauty,PayPal,Online,2
+725,Cole Dougherty,krista39@example.net,+49 -773-2025,"112 Hill Square Apt. 501, South Adam, DE 43035",07-07-2023,Gold,Cole,Dougherty,DE,49,533,2766.82,2025-06-14 19:08:30,Clothing,Credit Card,Los Angeles,2
+729,Jessica Wiley,sharon92@example.org,+1 -224-5359,"77702 Allen Motorway Suite 904, Alexanderside, MI 94788",21-06-2023,Silver,Jessica,Wiley,MI,1,239,3283.74,2025-01-18 19:46:19,Clothing,Cash,Los Angeles,1
+729,Jessica Wiley,sharon92@example.org,+1 -224-5359,"77702 Allen Motorway Suite 904, Alexanderside, MI 94788",21-06-2023,Silver,Jessica,Wiley,MI,1,626,4460.94,2025-02-24 02:05:31,Clothing,PayPal,New York,1
+729,Jessica Wiley,sharon92@example.org,+1 -224-5359,"77702 Allen Motorway Suite 904, Alexanderside, MI 94788",21-06-2023,Silver,Jessica,Wiley,MI,1,765,0.0,2025-01-01 08:43:06,Beauty,Credit Card,New York,1
+731,Sarah Cuevas,christopher86@example.com,+1 -558-3740,"689 Lynn Underpass, Jeffreyview, KY 77670",28-05-2024,Gold,Sarah,Cuevas,KY,1,446,3488.33,2025-05-09 17:11:58,Home,Debit Card,Online,2
+731,Sarah Cuevas,christopher86@example.com,+1 -558-3740,"689 Lynn Underpass, Jeffreyview, KY 77670",28-05-2024,Gold,Sarah,Cuevas,KY,1,774,506.4,2025-06-07 09:42:56,Electronics,Debit Card,New York,2
+733,Peter Hughes,hholland@example.net,+971 -153-1874,"Unit 6364 Box 7996, DPO AE 29319",01-05-2025,Gold,Peter,Hughes,AE,971,215,1072.74,2025-01-11 09:19:11,Home,Debit Card,New York,2
+733,Peter Hughes,hholland@example.net,+971 -153-1874,"Unit 6364 Box 7996, DPO AE 29319",01-05-2025,Gold,Peter,Hughes,AE,971,281,4410.09,2025-02-25 00:56:40,Clothing,PayPal,Chicago,2
+733,Peter Hughes,hholland@example.net,+971 -153-1874,"Unit 6364 Box 7996, DPO AE 29319",01-05-2025,Gold,Peter,Hughes,AE,971,852,557.26,2025-03-16 20:07:54,Home,Cash,Online,2
+735,John Gutierrez,youngsarah@example.org,+249 -119-4138,"85232 Rebecca Lodge, North Cindy, SD 58039",29-01-2024,Silver,John,Gutierrez,SD,249,105,3802.28,2025-02-12 03:19:17,Home,PayPal,New York,1
+735,John Gutierrez,youngsarah@example.org,+249 -119-4138,"85232 Rebecca Lodge, North Cindy, SD 58039",29-01-2024,Silver,John,Gutierrez,SD,249,147,202.73,2025-01-14 13:19:11,Home,Debit Card,Miami,1
+735,John Gutierrez,youngsarah@example.org,+249 -119-4138,"85232 Rebecca Lodge, North Cindy, SD 58039",29-01-2024,Silver,John,Gutierrez,SD,249,247,419.09,2025-04-26 17:30:08,Home,Credit Card,Miami,1
+735,John Gutierrez,youngsarah@example.org,+249 -119-4138,"85232 Rebecca Lodge, North Cindy, SD 58039",29-01-2024,Silver,John,Gutierrez,SD,249,780,3052.6,2025-01-22 04:52:24,Electronics,Cash,Miami,1
+736,Shannon Richardson,thomas19@example.net,+1 -739-2481,"1484 Daniel Highway, West Brian, AK 17966",15-09-2023,Bronze,Shannon,Richardson,AK,1,175,3851.13,2025-03-08 15:06:21,Clothing,PayPal,Online,0
+736,Shannon Richardson,thomas19@example.net,+1 -739-2481,"1484 Daniel Highway, West Brian, AK 17966",15-09-2023,Bronze,Shannon,Richardson,AK,1,290,2604.43,2025-02-15 13:07:09,Clothing,PayPal,Los Angeles,0
+738,Christopher Brown,dstewart@example.com,+1 -212-7050,"13285 Jasmine Mountain Suite 672, South Dennis, NC 68517",30-04-2025,Gold,Christopher,Brown,NC,1,231,4904.77,2025-03-02 01:32:19,Sports,Cash,Los Angeles,2
+741,Jennifer Torres,tcunningham@example.org,+62 -146-1092,"2750 Danielle Plains Suite 472, Bryanberg, ID 26089",25-07-2023,Silver,Jennifer,Torres,ID,62,76,3940.23,2025-01-02 12:32:05,Clothing,PayPal,Online,1
+741,Jennifer Torres,tcunningham@example.org,+62 -146-1092,"2750 Danielle Plains Suite 472, Bryanberg, ID 26089",25-07-2023,Silver,Jennifer,Torres,ID,62,703,2477.55,2025-01-25 10:25:40,Home,Debit Card,New York,1
+742,Matthew Mcclain,osmith@example.com,+1 -400-9412,"36649 Garrett Mission, South Sheryltown, AZ 55126",09-07-2023,Gold,Matthew,Mcclain,AZ,1,218,0.0,2025-01-18 05:43:36,Electronics,Debit Card,Los Angeles,2
+742,Matthew Mcclain,osmith@example.com,+1 -400-9412,"36649 Garrett Mission, South Sheryltown, AZ 55126",09-07-2023,Gold,Matthew,Mcclain,AZ,1,421,353.9,2025-05-13 05:01:26,Beauty,Credit Card,Miami,2
+742,Matthew Mcclain,osmith@example.com,+1 -400-9412,"36649 Garrett Mission, South Sheryltown, AZ 55126",09-07-2023,Gold,Matthew,Mcclain,AZ,1,775,3237.67,2025-04-12 13:47:02,Home,Cash,New York,2
+743,Eric Martin,pdudley@example.org,+1 -917-1831,"303 Cooley Cliff, Serranoburgh, KY 81311",09-06-2024,Silver,Eric,Martin,KY,1,413,0.0,2025-06-16 03:35:39,Sports,Credit Card,New York,1
+743,Eric Martin,pdudley@example.org,+1 -917-1831,"303 Cooley Cliff, Serranoburgh, KY 81311",09-06-2024,Silver,Eric,Martin,KY,1,853,2597.74,2025-04-19 02:37:07,Sports,Cash,Chicago,1
+744,Aaron Collins,tcox@example.net,+62 -428-2439,"48864 Moody Ville Apt. 296, South Jennifer, ID 51329",17-04-2024,Bronze,Aaron,Collins,ID,62,26,0.0,2025-04-23 02:38:39,Beauty,PayPal,New York,0
+744,Aaron Collins,tcox@example.net,+62 -428-2439,"48864 Moody Ville Apt. 296, South Jennifer, ID 51329",17-04-2024,Bronze,Aaron,Collins,ID,62,432,3289.1,2025-04-24 12:33:00,Home,Credit Card,Los Angeles,0
+746,Heather Martin,mcdowellkatie@example.net,+1 -122-1732,"651 Flores Street, Port Micheleshire, MS 00622",26-03-2024,Silver,Heather,Martin,MS,1,472,4261.22,2025-06-11 04:05:07,Beauty,PayPal,Online,1
+751,Mark Smith,nelsonisaiah@example.org,+91 -508-9701,"5963 Wu Plaza, East Matthew, IN 15836",15-04-2024,Bronze,Mark,Smith,IN,91,449,0.0,2025-04-20 15:46:05,Clothing,Debit Card,Online,0
+751,Mark Smith,nelsonisaiah@example.org,+91 -508-9701,"5963 Wu Plaza, East Matthew, IN 15836",15-04-2024,Bronze,Mark,Smith,IN,91,629,3658.64,2025-05-29 05:05:32,Clothing,PayPal,Los Angeles,0
+752,Elizabeth Ali,jillandrade@example.net,+227 -812-8070,"3239 Kristin Street Apt. 915, West Brandi, NE 74986",04-10-2023,Gold,Elizabeth,Ali,NE,227,6,441.49,2025-03-28 06:15:55,Electronics,Cash,New York,2
+752,Elizabeth Ali,jillandrade@example.net,+227 -812-8070,"3239 Kristin Street Apt. 915, West Brandi, NE 74986",04-10-2023,Gold,Elizabeth,Ali,NE,227,21,2707.82,2025-05-26 07:35:44,Clothing,Credit Card,Miami,2
+752,Elizabeth Ali,jillandrade@example.net,+227 -812-8070,"3239 Kristin Street Apt. 915, West Brandi, NE 74986",04-10-2023,Gold,Elizabeth,Ali,NE,227,49,1431.1,2025-01-19 09:07:55,Electronics,PayPal,New York,2
+752,Elizabeth Ali,jillandrade@example.net,+227 -812-8070,"3239 Kristin Street Apt. 915, West Brandi, NE 74986",04-10-2023,Gold,Elizabeth,Ali,NE,227,936,4226.16,2025-05-17 22:40:06,Sports,Debit Card,Chicago,2
+753,John Owens,johnpennington@example.net,+692 -644-1942,"38004 Carlos Circle, Susanmouth, MH 10958",06-06-2025,Bronze,John,Owens,MH,692,357,807.06,2025-01-15 07:48:25,Clothing,Debit Card,Miami,0
+753,John Owens,johnpennington@example.net,+692 -644-1942,"38004 Carlos Circle, Susanmouth, MH 10958",06-06-2025,Bronze,John,Owens,MH,692,490,505.91,2025-02-03 18:36:48,Clothing,Credit Card,Online,0
+753,John Owens,johnpennington@example.net,+692 -644-1942,"38004 Carlos Circle, Susanmouth, MH 10958",06-06-2025,Bronze,John,Owens,MH,692,652,1624.31,2025-03-24 22:31:06,Electronics,PayPal,Los Angeles,0
+755,Robert Castaneda,jimmynielsen@example.net,+1 -396-3776,"052 Lewis Falls Apt. 206, Johnside, NV 67917",30-01-2025,Silver,Robert,Castaneda,NV,1,915,2985.85,2025-01-02 06:39:19,Electronics,Cash,Chicago,1
+756,Shawn White,michelleabbott@example.com,+1 -373-4154,"981 Deleon Plains Suite 928, Joshuaview, NH 75117",18-06-2023,Silver,Shawn,White,NH,1,595,4093.96,2025-01-07 13:35:48,Home,Debit Card,New York,1
+756,Shawn White,michelleabbott@example.com,+1 -373-4154,"981 Deleon Plains Suite 928, Joshuaview, NH 75117",18-06-2023,Silver,Shawn,White,NH,1,738,4466.78,2025-04-01 20:33:41,Sports,Debit Card,Online,1
+757,Kenneth Fuentes,lware@example.net,+1 -658-6600,"97445 Tammy Center Apt. 852, North Stanleyport, NH 05798",09-01-2025,Silver,Kenneth,Fuentes,NH,1,10,3896.31,2025-02-27 09:18:11,Clothing,PayPal,Los Angeles,1
+757,Kenneth Fuentes,lware@example.net,+1 -658-6600,"97445 Tammy Center Apt. 852, North Stanleyport, NH 05798",09-01-2025,Silver,Kenneth,Fuentes,NH,1,254,2521.16,2025-03-22 13:42:22,Home,Cash,Chicago,1
+758,Tommy Mendez,scruz@example.com,+1 -567-2915,"31758 Maldonado Center Suite 832, Davishaven, CA 65924",01-04-2025,Bronze,Tommy,Mendez,CA,1,382,3070.09,2025-06-11 19:54:56,Clothing,Credit Card,Miami,0
+759,Brian Gomez,pittsjennifer@example.com,+212 -864-3390,"72142 Miller Freeway Suite 719, Laurenside, MA 61322",30-03-2025,Gold,Brian,Gomez,MA,212,211,189.93,2025-05-31 08:56:32,Clothing,Debit Card,Chicago,2
+759,Brian Gomez,pittsjennifer@example.com,+212 -864-3390,"72142 Miller Freeway Suite 719, Laurenside, MA 61322",30-03-2025,Gold,Brian,Gomez,MA,212,513,1127.03,2025-03-20 18:15:42,Sports,PayPal,Los Angeles,2
+760,Sharon Cole,andreadkins@example.org,+1 -473-5858,"61678 Wyatt Land Suite 069, Brianside, IA 76407",06-05-2025,Gold,Sharon,Cole,IA,1,81,4100.09,2025-01-27 02:35:28,Sports,Credit Card,New York,2
+760,Sharon Cole,andreadkins@example.org,+1 -473-5858,"61678 Wyatt Land Suite 069, Brianside, IA 76407",06-05-2025,Gold,Sharon,Cole,IA,1,152,3421.32,2025-01-01 07:11:36,Home,Credit Card,Chicago,2
+760,Sharon Cole,andreadkins@example.org,+1 -473-5858,"61678 Wyatt Land Suite 069, Brianside, IA 76407",06-05-2025,Gold,Sharon,Cole,IA,1,545,4508.24,2025-05-08 18:54:49,Electronics,Credit Card,Los Angeles,2
+760,Sharon Cole,andreadkins@example.org,+1 -473-5858,"61678 Wyatt Land Suite 069, Brianside, IA 76407",06-05-2025,Gold,Sharon,Cole,IA,1,764,1626.65,2025-05-10 02:35:03,Home,Debit Card,Los Angeles,2
+762,Jamie Patton,davisbradley@example.net,+972 -802-5353,"39858 Alexander Meadow, Robertchester, IL 95005",23-08-2024,Silver,Jamie,Patton,IL,972,66,2433.39,2025-04-03 03:52:43,Sports,Debit Card,Chicago,1
+762,Jamie Patton,davisbradley@example.net,+972 -802-5353,"39858 Alexander Meadow, Robertchester, IL 95005",23-08-2024,Silver,Jamie,Patton,IL,972,415,2099.51,2025-05-28 23:08:01,Clothing,PayPal,Online,1
+763,Elizabeth Richards,cheryl51@example.com,+972 -738-1774,"53664 Robinson Greens, West Jonathanmouth, IL 23293",02-07-2023,Bronze,Elizabeth,Richards,IL,972,58,4785.24,2025-04-08 13:25:41,Sports,Debit Card,New York,0
+763,Elizabeth Richards,cheryl51@example.com,+972 -738-1774,"53664 Robinson Greens, West Jonathanmouth, IL 23293",02-07-2023,Bronze,Elizabeth,Richards,IL,972,950,564.56,2025-03-08 03:08:25,Beauty,PayPal,Miami,0
+767,Roberto Lee,adam71@example.net,+1 -907-1041,"83406 Joel Brook Apt. 701, Port Joshua, IA 13767",20-07-2024,Bronze,Roberto,Lee,IA,1,787,3990.78,2025-05-09 16:15:04,Sports,Credit Card,New York,0
+768,John Adams,yrosario@example.net,+1 -496-7915,"3968 Barbara Overpass Apt. 621, Natalieville, NC 78202",30-08-2024,Silver,John,Adams,NC,1,818,4442.21,2025-02-21 20:46:00,Home,Credit Card,New York,1
+769,Tracey Duarte,btaylor@example.com,+1 -268-4422,"Unit 4755 Box 4080, DPO AP 09843",25-06-2023,Bronze,Tracey,Duarte,AP,1,206,2213.26,2025-01-08 11:02:39,Sports,Cash,Chicago,0
+769,Tracey Duarte,btaylor@example.com,+1 -268-4422,"Unit 4755 Box 4080, DPO AP 09843",25-06-2023,Bronze,Tracey,Duarte,AP,1,598,3890.83,2025-04-30 15:28:34,Home,Credit Card,Miami,0
+770,Mark Diaz,martinkimberly@example.org,+216 -676-1530,"3708 Brandon Garden Suite 228, Port Mark, TN 25251",22-03-2025,Silver,Mark,Diaz,TN,216,552,502.06,2025-05-18 14:24:02,Electronics,Cash,Miami,1
+770,Mark Diaz,martinkimberly@example.org,+216 -676-1530,"3708 Brandon Garden Suite 228, Port Mark, TN 25251",22-03-2025,Silver,Mark,Diaz,TN,216,687,442.46,2025-03-03 23:36:05,Clothing,Debit Card,Miami,1
+770,Mark Diaz,martinkimberly@example.org,+216 -676-1530,"3708 Brandon Garden Suite 228, Port Mark, TN 25251",22-03-2025,Silver,Mark,Diaz,TN,216,776,1951.12,2025-05-29 00:45:05,Sports,Debit Card,Chicago,1
+773,Miss Tiffany Ramos,michael88@example.net,+379 -524-1644,"495 Saunders Ports, South Brendachester, VA 87499",25-06-2024,Gold,Miss,Tiffany,VA,379,627,2121.87,2025-01-02 07:29:41,Home,Credit Card,Online,2
+774,Evelyn Tran,ericcooke@example.com,+1 -433-3132,"077 Ellis Curve, Watkinschester, HI 74114",27-01-2024,Bronze,Evelyn,Tran,HI,1,537,3126.16,2025-05-09 03:51:51,Sports,PayPal,Online,0
+774,Evelyn Tran,ericcooke@example.com,+1 -433-3132,"077 Ellis Curve, Watkinschester, HI 74114",27-01-2024,Bronze,Evelyn,Tran,HI,1,592,302.48,2025-04-05 14:04:24,Beauty,Credit Card,Chicago,0
+777,Alex Turner,turnermichael@example.net,+1 -818-9484,"531 Jenna Isle, South Nicholasmouth, FL 01360",31-01-2025,Silver,Alex,Turner,FL,1,892,1712.9,2025-05-25 16:39:20,Electronics,Debit Card,Chicago,1
+779,Darrell Grant,ashleypowell@example.com,+1 -854-5777,"01102 Alyssa Viaduct, West Shawnbury, NH 78045",29-08-2024,Bronze,Darrell,Grant,NH,1,788,4514.95,2025-04-20 22:47:21,Home,Cash,Online,0
+780,Robert Mueller,wesleymiller@example.org,+91 -232-4938,"112 Jacob Vista Apt. 253, New Mark, IN 44849",23-05-2024,Gold,Robert,Mueller,IN,91,92,1087.77,2025-06-06 19:12:48,Beauty,Debit Card,New York,2
+780,Robert Mueller,wesleymiller@example.org,+91 -232-4938,"112 Jacob Vista Apt. 253, New Mark, IN 44849",23-05-2024,Gold,Robert,Mueller,IN,91,990,1050.33,2025-04-20 20:55:10,Sports,Credit Card,Chicago,2
+781,Melissa Stout,dawnporter@example.org,+680 -582-4174,"57561 Erin Falls Suite 157, Currychester, PW 01201",18-09-2024,Bronze,Melissa,Stout,PW,680,201,2591.08,2025-05-12 22:56:03,Electronics,PayPal,Miami,0
+781,Melissa Stout,dawnporter@example.org,+680 -582-4174,"57561 Erin Falls Suite 157, Currychester, PW 01201",18-09-2024,Bronze,Melissa,Stout,PW,680,613,4863.58,2025-01-19 10:53:07,Beauty,Credit Card,Online,0
+783,Ashley Massey,katherinevillarreal@example.org,+57 -462-1585,"62352 Christine Track, East Gregoryport, CO 48352",08-04-2024,Silver,Ashley,Massey,CO,57,335,1308.36,2025-05-10 20:36:47,Beauty,Cash,Los Angeles,1
+785,Rhonda Lynn,sandra46@example.com,+1 -798-9267,"080 Stephen Crossroad Apt. 586, Fergusonburgh, UT 06010",13-10-2023,Silver,Rhonda,Lynn,UT,1,956,2130.25,2025-05-13 09:55:47,Electronics,Debit Card,Chicago,1
+786,Philip Gonzalez,crystalhoward@example.org,+1 -975-9093,"11124 Sean Point Apt. 680, Lake Haleyburgh, FL 54289",27-04-2025,Silver,Philip,Gonzalez,FL,1,559,3638.43,2025-01-11 17:54:51,Clothing,Cash,Online,1
+786,Philip Gonzalez,crystalhoward@example.org,+1 -975-9093,"11124 Sean Point Apt. 680, Lake Haleyburgh, FL 54289",27-04-2025,Silver,Philip,Gonzalez,FL,1,619,3866.7,2025-03-19 12:02:32,Sports,PayPal,Online,1
+787,Sharon Miller,bedwards@example.org,+49 -193-8237,"328 Michael Burgs Suite 633, Port Jennifer, DE 77468",24-02-2025,Bronze,Sharon,Miller,DE,49,710,4686.67,2025-01-06 22:43:14,Beauty,PayPal,Online,0
+788,Shannon Stanton,cindyreed@example.com,+49 -749-9141,"1673 Lindsey Crossing Apt. 356, Lake Katherinestad, DE 97263",08-04-2025,Silver,Shannon,Stanton,DE,49,324,2783.01,2025-04-12 05:54:26,Electronics,Debit Card,Chicago,1
+788,Shannon Stanton,cindyreed@example.com,+49 -749-9141,"1673 Lindsey Crossing Apt. 356, Lake Katherinestad, DE 97263",08-04-2025,Silver,Shannon,Stanton,DE,49,934,3242.93,2025-04-23 01:06:39,Beauty,PayPal,Chicago,1
+789,Jason Middleton,mileskatherine@example.com,+856 -380-3176,"7050 Fowler View, North Thomas, LA 42727",08-01-2025,Silver,Jason,Middleton,LA,856,438,719.64,2025-01-12 16:07:32,Sports,Credit Card,Chicago,1
+789,Jason Middleton,mileskatherine@example.com,+856 -380-3176,"7050 Fowler View, North Thomas, LA 42727",08-01-2025,Silver,Jason,Middleton,LA,856,750,3356.68,2025-05-12 02:38:34,Electronics,Debit Card,Chicago,1
+790,Katherine Howell,monica28@example.com,+856 -823-3220,"1123 Laura Loop, Port Kimchester, LA 89031",25-01-2025,Gold,Katherine,Howell,LA,856,375,2546.82,2025-05-07 02:37:10,Home,Debit Card,New York,2
+790,Katherine Howell,monica28@example.com,+856 -823-3220,"1123 Laura Loop, Port Kimchester, LA 89031",25-01-2025,Gold,Katherine,Howell,LA,856,943,4403.46,2025-06-13 05:25:01,Electronics,Debit Card,New York,2
+793,Ellen Anderson,uthomas@example.org,+1 -138-1780,"3835 Mckenzie Rest Suite 322, Johntown, PR 00725",17-11-2024,Silver,Ellen,Anderson,PR,1,146,4439.15,2025-04-29 00:59:18,Beauty,Debit Card,Online,1
+793,Ellen Anderson,uthomas@example.org,+1 -138-1780,"3835 Mckenzie Rest Suite 322, Johntown, PR 00725",17-11-2024,Silver,Ellen,Anderson,PR,1,501,1511.92,2025-05-02 20:33:51,Clothing,Credit Card,Chicago,1
+794,Ashley Morgan,montgomerysteven@example.com,+57 -325-7681,"253 Peggy Hills Apt. 434, East Samuelfurt, CO 45359",30-09-2023,Silver,Ashley,Morgan,CO,57,811,4199.12,2025-06-04 18:31:12,Home,Cash,Miami,1
+796,Marcus Williams,groach@example.net,+1 -564-5958,"0304 Park Rapids Suite 345, Smithhaven, TX 89972",04-05-2024,Silver,Marcus,Williams,TX,1,327,0.0,2025-01-06 15:05:08,Electronics,PayPal,Los Angeles,1
+796,Marcus Williams,groach@example.net,+1 -564-5958,"0304 Park Rapids Suite 345, Smithhaven, TX 89972",04-05-2024,Silver,Marcus,Williams,TX,1,939,1259.34,2025-02-24 00:06:53,Clothing,Cash,New York,1
+797,Paul Poole,john61@example.net,+62 -870-5510,"4979 Kevin Ford, Jilltown, ID 44948",08-06-2025,Gold,Paul,Poole,ID,62,817,2042.13,2025-04-23 12:52:42,Beauty,Credit Card,Chicago,2
+798,Julia Richardson,marcsmith@example.net,+216 -493-1748,"9947 Villarreal Forges Suite 711, Holmesview, TN 36454",30-10-2024,Gold,Julia,Richardson,TN,216,959,2359.39,2025-01-31 19:06:53,Home,Credit Card,Los Angeles,2
+799,Joan Peters,matthew92@example.com,+1 -436-6110,"4563 William Avenue Apt. 687, Jamesmouth, RI 55198",27-03-2024,Bronze,Joan,Peters,RI,1,422,1484.84,2025-05-04 13:17:26,Home,Cash,Chicago,0
+800,Stephanie Cain,fishernicholas@example.org,+1 -671-9628,"035 Jeremy Heights Suite 165, Port George, PR 84057",04-04-2025,Bronze,Stephanie,Cain,PR,1,380,2010.5,2025-04-20 07:44:24,Clothing,Debit Card,Miami,0
+804,Terry Burke,cjohnson@example.net,+355 -396-4613,"4363 Benjamin Bypass, South Miguelchester, AL 53183",24-09-2024,Silver,Terry,Burke,AL,355,790,0.0,2025-04-19 02:17:22,Sports,PayPal,Online,1
+805,Nicholas Baker,lewismary@example.com,+971 -244-6706,"PSC 4116, Box 7921, APO AE 84771",19-03-2024,Silver,Nicholas,Baker,AE,971,109,4463.67,2025-04-25 06:17:41,Beauty,Debit Card,Miami,1
+806,Savannah White,xmcfarland@example.net,+1 -318-3813,"70330 Lowery Port Apt. 220, Erikburgh, RI 28444",20-09-2024,Gold,Savannah,White,RI,1,387,3824.79,2025-06-08 14:57:41,Sports,Cash,New York,2
+806,Savannah White,xmcfarland@example.net,+1 -318-3813,"70330 Lowery Port Apt. 220, Erikburgh, RI 28444",20-09-2024,Gold,Savannah,White,RI,1,538,889.17,2025-03-20 16:31:55,Beauty,Cash,Miami,2
+806,Savannah White,xmcfarland@example.net,+1 -318-3813,"70330 Lowery Port Apt. 220, Erikburgh, RI 28444",20-09-2024,Gold,Savannah,White,RI,1,679,4988.06,2025-03-27 22:51:21,Home,Debit Card,Online,2
+806,Savannah White,xmcfarland@example.net,+1 -318-3813,"70330 Lowery Port Apt. 220, Erikburgh, RI 28444",20-09-2024,Gold,Savannah,White,RI,1,822,184.17,2025-05-11 21:12:34,Sports,Credit Card,Online,2
+808,James Beck,taylorderrick@example.net,+355 -245-1438,"17523 Wendy Expressway Apt. 128, Carrborough, AL 59625",21-11-2024,Silver,James,Beck,AL,355,963,2829.24,2025-02-20 15:02:08,Home,Debit Card,Los Angeles,1
+810,Stephen Rice,gflores@example.org,+1 -956-9478,"048 Gonzalez Forges, South Derek, NV 66639",19-12-2024,Silver,Stephen,Rice,NV,1,503,2727.34,2025-05-31 12:10:48,Home,Debit Card,New York,1
+811,Patricia Hunt,kevin69@example.net,+1 -289-1419,"5914 Perkins Gateway Suite 855, North Joseph, NH 39727",20-01-2024,Bronze,Patricia,Hunt,NH,1,806,3904.39,2025-03-08 09:41:40,Clothing,Debit Card,New York,0
+813,Amber Wright,bsmith@example.org,+1 -773-8630,"087 Renee Trace, Port Juanmouth, AZ 21602",10-01-2024,Bronze,Amber,Wright,AZ,1,826,2034.22,2025-01-19 23:23:14,Beauty,PayPal,Chicago,0
+814,Eric Moore,willie58@example.org,+1 -103-3942,"35150 Carter Hollow, Davidshire, MS 70876",21-02-2024,Silver,Eric,Moore,MS,1,107,3738.7,2025-01-17 23:04:10,Home,Credit Card,Online,1
+814,Eric Moore,willie58@example.org,+1 -103-3942,"35150 Carter Hollow, Davidshire, MS 70876",21-02-2024,Silver,Eric,Moore,MS,1,428,4523.09,2025-04-11 23:48:05,Electronics,Debit Card,Chicago,1
+815,James Morrison,michaelburnett@example.org,+1 -807-7897,"0906 Chloe Avenue Apt. 079, Carrollstad, CT 04961",13-09-2024,Bronze,James,Morrison,CT,1,270,3342.14,2025-05-07 18:19:17,Sports,Debit Card,Online,0
+816,Janice Olson,Janice.Olson@email.com,+680 -487-4206,"9546 Colin Key Suite 653, Walkermouth, PW 47699",10-08-2024,Silver,Janice,Olson,PW,680,607,0.0,2025-01-09 11:16:56,Sports,Cash,Chicago,1
+817,Derrick Jackson,eringrant@example.net,+227 -481-1147,"409 Best Locks, Watersborough, NE 67440",15-08-2023,Silver,Derrick,Jackson,NE,227,101,1893.09,2025-04-16 14:24:06,Clothing,Cash,Online,1
+817,Derrick Jackson,eringrant@example.net,+227 -481-1147,"409 Best Locks, Watersborough, NE 67440",15-08-2023,Silver,Derrick,Jackson,NE,227,106,3604.29,2025-04-24 09:41:42,Clothing,Cash,Los Angeles,1
+817,Derrick Jackson,eringrant@example.net,+227 -481-1147,"409 Best Locks, Watersborough, NE 67440",15-08-2023,Silver,Derrick,Jackson,NE,227,192,1147.55,2025-02-02 04:43:34,Beauty,Credit Card,Chicago,1
+818,Kristina Cook,samueljohnson@example.org,+1 -980-3948,"62388 Harris Forge, New Arthur, WA 29954",11-12-2024,Gold,Kristina,Cook,WA,1,295,2457.39,2025-01-17 16:24:54,Beauty,Credit Card,Los Angeles,2
+820,Rebecca Moon,ericowens@example.net,+1 -870-2645,"37062 Davis Road, Georgeborough, OH 57195",12-01-2025,Bronze,Rebecca,Moon,OH,1,653,176.24,2025-04-17 17:54:15,Sports,PayPal,Los Angeles,0
+820,Rebecca Moon,ericowens@example.net,+1 -870-2645,"37062 Davis Road, Georgeborough, OH 57195",12-01-2025,Bronze,Rebecca,Moon,OH,1,801,0.0,2025-02-05 04:10:12,Home,Credit Card,Los Angeles,0
+821,Gregory Hicks,camposheidi@example.org,+1 -183-6005,"139 Mccarthy Road, Cruzstad, MI 88502",18-07-2024,Silver,Gregory,Hicks,MI,1,366,2267.87,2025-01-20 11:55:11,Electronics,Debit Card,Miami,1
+822,Dana Fisher,sheribridges@example.org,+1 -739-6272,"749 Graham Gateway, Port Kyleton, UT 09326",30-07-2024,Gold,Dana,Fisher,UT,1,356,3504.99,2025-06-12 14:33:31,Sports,Credit Card,Miami,2
+823,Jordan Long,angieneal@example.com,+1 -780-9681,"067 Jamie Overpass, Davidton, NY 34998",26-03-2024,Silver,Jordan,Long,NY,1,966,2870.19,2025-03-19 02:14:37,Clothing,PayPal,Miami,1
+824,Lisa Smith,wyoung@example.org,+1 -637-9086,"898 Velazquez Drive, West Mistyfurt, AS 34835",10-01-2025,Gold,Lisa,Smith,AS,1,311,1478.58,2025-01-03 01:21:38,Home,Cash,Miami,2
+824,Lisa Smith,wyoung@example.org,+1 -637-9086,"898 Velazquez Drive, West Mistyfurt, AS 34835",10-01-2025,Gold,Lisa,Smith,AS,1,655,477.78,2025-03-14 16:30:45,Home,Debit Card,New York,2
+825,April Larson,rbrooks@example.org,+691 -681-7224,"088 Edward Village, Hoganburgh, FM 39662",01-01-2024,Silver,April,Larson,FM,691,849,1097.11,2025-05-02 05:07:35,Electronics,Cash,Miami,1
+825,April Larson,rbrooks@example.org,+691 -681-7224,"088 Edward Village, Hoganburgh, FM 39662",01-01-2024,Silver,April,Larson,FM,691,952,1485.02,2025-06-05 02:49:48,Sports,Debit Card,Online,1
+830,Erica Palmer,diazjanet@example.com,+1 -391-1861,"066 Mark Knolls, Ronaldchester, OH 31594",31-05-2025,Silver,Erica,Palmer,OH,1,556,4049.01,2025-06-01 14:13:48,Clothing,PayPal,Miami,1
+831,Michael Ochoa,brianrobinson@example.net,+62 -481-1323,"61848 Mcdonald Islands, Robertsonland, ID 16795",30-05-2025,Bronze,Michael,Ochoa,ID,62,93,4250.2,2025-05-25 01:40:24,Beauty,Cash,Miami,0
+831,Michael Ochoa,brianrobinson@example.net,+62 -481-1323,"61848 Mcdonald Islands, Robertsonland, ID 16795",30-05-2025,Bronze,Michael,Ochoa,ID,62,975,3415.38,2025-02-21 23:29:03,Home,PayPal,New York,0
+833,Michael Patel,rogersmark@example.net,+856 -226-7037,"777 Reyes Port Apt. 393, West Megan, LA 59920",15-11-2024,Bronze,Michael,Patel,LA,856,42,2408.29,2025-03-13 17:49:35,Sports,Credit Card,Los Angeles,0
+833,Michael Patel,rogersmark@example.net,+856 -226-7037,"777 Reyes Port Apt. 393, West Megan, LA 59920",15-11-2024,Bronze,Michael,Patel,LA,856,842,4786.84,2025-01-28 15:30:00,Electronics,PayPal,Chicago,0
+834,Anna Griffin,kspencer@example.com,+91 -741-2606,"644 Montgomery Grove Apt. 482, Juanmouth, IN 11680",21-05-2025,Silver,Anna,Griffin,IN,91,397,0.0,2025-02-22 03:01:13,Electronics,Cash,New York,1
+834,Anna Griffin,kspencer@example.com,+91 -741-2606,"644 Montgomery Grove Apt. 482, Juanmouth, IN 11680",21-05-2025,Silver,Anna,Griffin,IN,91,518,4163.64,2025-05-10 15:08:35,Home,PayPal,Online,1
+836,Tiffany Lucas,danielmunoz@example.net,+212 -903-2180,"97729 Mitchell Plain Suite 918, West Michaelburgh, MA 06676",16-05-2025,Gold,Tiffany,Lucas,MA,212,131,1913.75,2025-02-06 07:55:38,Home,Debit Card,Los Angeles,2
+837,Ana Cunningham,melissacruz@example.com,+227 -661-7743,"6723 Frazier Way, New Timothyburgh, NE 01263",28-01-2024,Silver,Ana,Cunningham,NE,227,44,3422.42,2025-03-21 19:56:49,Home,Cash,Miami,1
+838,Christopher Williams,howelldenise@example.org,+1 -504-8053,"55267 Reed Streets, South Kristinechester, PR 82287",31-01-2024,Silver,Christopher,Williams,PR,1,34,0.0,2025-01-30 22:27:45,Clothing,Cash,Los Angeles,1
+839,Jonathon Clark,nschmidt@example.org,+1 -661-8179,"4735 Carol Run, East Debbie, HI 94519",10-08-2023,Bronze,Jonathon,Clark,HI,1,625,4145.2,2025-04-05 05:22:42,Electronics,Cash,Miami,0
+839,Jonathon Clark,nschmidt@example.org,+1 -661-8179,"4735 Carol Run, East Debbie, HI 94519",10-08-2023,Bronze,Jonathon,Clark,HI,1,677,3406.17,2025-03-30 07:15:13,Sports,Debit Card,New York,0
+840,Deanna Skinner,qmiller@example.net,+57 -857-1065,"02791 Tara Manor, Hannahfurt, CO 54476",13-11-2023,Silver,Deanna,Skinner,CO,57,128,2214.43,2025-03-24 06:31:45,Clothing,Credit Card,Los Angeles,1
+841,Ebony Chan,roy79@example.com,+1 -703-7701,"Unit 9502 Box 4892, DPO AP 81290",28-05-2024,Gold,Ebony,Chan,AP,1,124,4277.32,2025-06-02 09:27:56,Sports,Debit Card,New York,2
+845,Keith Jones,marquezchristopher@example.org,+212 -422-9571,"488 Cameron Ferry Suite 135, New Susan, MA 56402",05-12-2023,Silver,Keith,Jones,MA,212,993,2379.23,2025-05-05 05:34:24,Clothing,Credit Card,Online,1
+846,Beth Bautista,ukemp@example.org,+49 -482-8446,"45123 Shawn Manor Suite 585, East Sandra, DE 40852",28-11-2023,Gold,Beth,Bautista,DE,49,858,2038.07,2025-04-10 17:12:36,Electronics,Credit Card,Miami,2
+848,Kristopher Lewis,Kristopher.Lewis@email.com,+691 -617-3887,"8713 Robert Knolls, North Chris, FM 69864",22-04-2024,Gold,Kristopher,Lewis,FM,691,657,2906.18,2025-03-01 19:30:37,Clothing,Debit Card,Los Angeles,2
+848,Kristopher Lewis,Kristopher.Lewis@email.com,+691 -617-3887,"8713 Robert Knolls, North Chris, FM 69864",22-04-2024,Gold,Kristopher,Lewis,FM,691,906,3313.64,2025-05-29 03:10:59,Sports,PayPal,New York,2
+849,Brian Moore,evan83@example.com,+1 -462-7520,"5783 John Walk Suite 840, Port Heatherview, UT 97584",02-12-2024,Silver,Brian,Moore,UT,1,151,4016.28,2025-04-25 11:30:26,Clothing,Credit Card,Los Angeles,1
+849,Brian Moore,evan83@example.com,+1 -462-7520,"5783 John Walk Suite 840, Port Heatherview, UT 97584",02-12-2024,Silver,Brian,Moore,UT,1,388,3642.55,2025-01-02 23:14:12,Electronics,Debit Card,New York,1
+849,Brian Moore,evan83@example.com,+1 -462-7520,"5783 John Walk Suite 840, Port Heatherview, UT 97584",02-12-2024,Silver,Brian,Moore,UT,1,521,232.25,2025-02-26 11:55:21,Electronics,Credit Card,Los Angeles,1
+850,William Welch,douglaskathy@example.net,+1 -632-7964,"4818 Amanda Flats, Brianburgh, GU 26186",12-01-2024,Bronze,William,Welch,GU,1,135,4142.98,2025-01-23 17:28:38,Clothing,PayPal,Los Angeles,0
+852,Andrew Garcia,Andrew.Garcia@email.com,+1 -116-9412,"471 Miller Cove Apt. 974, New Gail, CT 52595",14-02-2025,Bronze,Andrew,Garcia,CT,1,572,4995.63,2025-03-17 11:37:48,Sports,Credit Card,Chicago,0
+853,Jennifer Turner,pacemakayla@example.org,+1 -680-2232,"3915 Hamilton Road, Jenniferport, CA 73310",22-10-2024,Gold,Jennifer,Turner,CA,1,839,1081.65,2025-06-16 21:22:24,Home,Credit Card,Miami,2
+853,Jennifer Turner,pacemakayla@example.org,+1 -680-2232,"3915 Hamilton Road, Jenniferport, CA 73310",22-10-2024,Gold,Jennifer,Turner,CA,1,921,0.0,2025-04-05 08:22:27,Home,PayPal,Online,2
+854,Tammy Rodriguez,esmith@example.com,+1 -570-6669,"PSC 9225, Box 2728, APO AA 36453",14-05-2024,Gold,Tammy,Rodriguez,AA,1,108,2458.61,2025-04-14 09:08:30,Home,Debit Card,New York,2
+855,Logan Petersen,denise01@example.org,+1 -651-7073,"554 Jennifer Fort Apt. 565, Martinezchester, FL 49603",13-01-2025,Gold,Logan,Petersen,FL,1,143,2371.54,2025-04-28 10:13:38,Home,Cash,New York,2
+855,Logan Petersen,denise01@example.org,+1 -651-7073,"554 Jennifer Fort Apt. 565, Martinezchester, FL 49603",13-01-2025,Gold,Logan,Petersen,FL,1,758,253.54,2025-05-21 05:27:42,Clothing,Debit Card,Miami,2
+856,Amy Parker,harriszachary@example.net,+382 -794-1066,"554 Tina Crescent, Thomasport, ME 19025",05-03-2024,Silver,Amy,Parker,ME,382,436,4646.12,2025-01-20 19:18:55,Clothing,Debit Card,Los Angeles,1
+856,Amy Parker,harriszachary@example.net,+382 -794-1066,"554 Tina Crescent, Thomasport, ME 19025",05-03-2024,Silver,Amy,Parker,ME,382,492,419.47,2025-05-12 12:16:54,Home,Debit Card,Chicago,1
+856,Amy Parker,harriszachary@example.net,+382 -794-1066,"554 Tina Crescent, Thomasport, ME 19025",05-03-2024,Silver,Amy,Parker,ME,382,875,2666.01,2025-05-08 14:55:17,Beauty,PayPal,Los Angeles,1
+858,Andrea Miranda,Andrea.Miranda@email.com,+680 -102-8103,"560 Melinda Haven, West Davidchester, PW 87390",17-11-2023,Bronze,Andrea,Miranda,PW,680,554,4085.26,2025-01-19 11:06:00,Electronics,Cash,Miami,0
+858,Andrea Miranda,Andrea.Miranda@email.com,+680 -102-8103,"560 Melinda Haven, West Davidchester, PW 87390",17-11-2023,Bronze,Andrea,Miranda,PW,680,591,765.27,2025-02-11 03:37:55,Clothing,Credit Card,Miami,0
+859,Trevor James,rgomez@example.com,+1 -124-1362,"342 Elizabeth Port Suite 660, Powellville, WV 51207",03-09-2024,Bronze,Trevor,James,WV,1,961,827.86,2025-01-03 22:26:01,Clothing,Cash,New York,0
+861,James Bass,kristenguerrero@example.com,+1 -618-8901,"9861 Madison Station Apt. 248, North Morganberg, CT 08139",01-01-2025,Bronze,James,Bass,CT,1,708,0.0,2025-05-27 12:22:22,Clothing,PayPal,New York,0
+863,Belinda Mills,taylor84@example.org,+249 -453-1236,"607 Cody Villages Suite 971, Marychester, SD 56680",29-01-2025,Bronze,Belinda,Mills,SD,249,636,3908.89,2025-04-12 03:40:57,Electronics,Debit Card,Chicago,0
+864,Lindsey Martin,cookanna@example.com,+1 -285-5142,"085 Russell Loop Suite 181, South Jacobborough, WA 95827",31-08-2023,Gold,Lindsey,Martin,WA,1,616,1085.68,2025-02-04 06:07:29,Sports,Cash,Online,2
+865,Chad Valenzuela,sandrafranklin@example.org,+379 -184-8774,"4157 Lewis Rest Suite 582, Katrinamouth, VA 78127",05-10-2024,Bronze,Chad,Valenzuela,VA,379,520,0.0,2025-03-25 23:15:20,Sports,Cash,New York,0
+866,Michael Ross,woodsangela@example.com,+227 -191-1085,"143 Walker Inlet, Gonzalesmouth, NE 78732",25-06-2023,Bronze,Michael,Ross,NE,227,330,1983.68,2025-02-05 23:54:11,Beauty,PayPal,New York,0
+866,Michael Ross,woodsangela@example.com,+227 -191-1085,"143 Walker Inlet, Gonzalesmouth, NE 78732",25-06-2023,Bronze,Michael,Ross,NE,227,377,3010.19,2025-05-31 08:35:16,Electronics,Debit Card,Los Angeles,0
+866,Michael Ross,woodsangela@example.com,+227 -191-1085,"143 Walker Inlet, Gonzalesmouth, NE 78732",25-06-2023,Bronze,Michael,Ross,NE,227,578,3707.71,2025-05-16 18:30:23,Clothing,Credit Card,Online,0
+866,Michael Ross,woodsangela@example.com,+227 -191-1085,"143 Walker Inlet, Gonzalesmouth, NE 78732",25-06-2023,Bronze,Michael,Ross,NE,227,704,4998.17,2025-01-21 19:15:36,Sports,PayPal,New York,0
+867,Juan Johnson,fletcherlinda@example.com,+1 -381-1981,"Unit 1869 Box 6499, DPO AP 49454",05-11-2024,Silver,Juan,Johnson,AP,1,244,4881.05,2025-01-20 14:52:10,Electronics,Cash,Online,1
+868,Christy Ferguson,johnsonangela@example.net,+1 -228-7217,"211 Darren Roads, North Patty, WI 87735",01-07-2023,Gold,Christy,Ferguson,WI,1,378,285.99,2025-04-24 16:55:30,Sports,Debit Card,Miami,2
+870,Ashley Romero,bakerbrittney@example.com,+1 -161-6754,"PSC 6583, Box 4321, APO AP 18388",09-05-2024,Bronze,Ashley,Romero,AP,1,528,4122.15,2025-01-04 18:29:57,Sports,PayPal,Chicago,0
+872,Malik Wells,millercatherine@example.com,+856 -466-9730,"753 Baker Burg, Reeveschester, LA 96277",22-07-2024,Silver,Malik,Wells,LA,856,199,4564.57,2025-05-20 08:21:56,Electronics,Debit Card,Online,1
+875,Steven Kline,bradygray@example.com,+976 -657-6954,"7539 Gloria Centers, North Nataliebury, MN 13734",23-06-2023,Gold,Steven,Kline,MN,976,203,844.11,2025-04-08 07:13:39,Sports,Credit Card,Los Angeles,2
+875,Steven Kline,bradygray@example.com,+976 -657-6954,"7539 Gloria Centers, North Nataliebury, MN 13734",23-06-2023,Gold,Steven,Kline,MN,976,897,4883.98,2025-06-14 09:11:04,Beauty,Credit Card,New York,2
+876,Kelsey Nielsen,alexanderbobby@example.net,+1 -608-7941,"9574 Rachel Loaf, East Melanie, WV 41830",06-07-2024,Bronze,Kelsey,Nielsen,WV,1,544,1451.65,2025-03-10 04:02:46,Home,Credit Card,Online,0
+877,Helen Hill,obruce@example.org,+1 -683-5952,"5314 Yvette Passage Suite 323, Lake Timothy, MO 30760",29-02-2024,Bronze,Helen,Hill,MO,1,32,1208.22,2025-02-16 10:54:07,Home,Debit Card,Los Angeles,0
+877,Helen Hill,obruce@example.org,+1 -683-5952,"5314 Yvette Passage Suite 323, Lake Timothy, MO 30760",29-02-2024,Bronze,Helen,Hill,MO,1,255,3974.51,2025-04-28 18:58:46,Sports,Debit Card,Los Angeles,0
+878,John Henry,youngjennifer@example.org,+1 -290-4802,"6835 Jones Port, Thorntonfort, WV 66654",17-05-2024,Bronze,John,Henry,WV,1,297,3479.54,2025-04-22 21:30:11,Clothing,PayPal,Chicago,0
+878,John Henry,youngjennifer@example.org,+1 -290-4802,"6835 Jones Port, Thorntonfort, WV 66654",17-05-2024,Bronze,John,Henry,WV,1,580,2987.07,2025-06-06 01:53:14,Beauty,Debit Card,Chicago,0
+879,Mitchell Hodges,chelsey31@example.com,+356 -582-7024,"135 Destiny Fords Suite 513, Mcknightmouth, MT 22238",26-03-2025,Gold,Mitchell,Hodges,MT,356,553,4872.19,2025-03-17 00:38:22,Home,PayPal,Los Angeles,2
+879,Mitchell Hodges,chelsey31@example.com,+356 -582-7024,"135 Destiny Fords Suite 513, Mcknightmouth, MT 22238",26-03-2025,Gold,Mitchell,Hodges,MT,356,828,1693.57,2025-01-03 04:37:53,Sports,PayPal,New York,2
+881,Kyle Bullock,ryansingleton@example.org,+1 -884-6287,"066 Annette Shoals, Edwardsside, NV 29994",27-04-2024,Silver,Kyle,Bullock,NV,1,226,1938.78,2025-05-19 05:00:06,Clothing,Credit Card,Chicago,1
+881,Kyle Bullock,ryansingleton@example.org,+1 -884-6287,"066 Annette Shoals, Edwardsside, NV 29994",27-04-2024,Silver,Kyle,Bullock,NV,1,985,1993.41,2025-04-05 18:53:49,Home,Debit Card,Online,1
+882,Meagan Pugh,wjones@example.net,+680 -120-5636,"620 Reginald Ports Suite 141, Pereztown, PW 75628",23-04-2024,Gold,Meagan,Pugh,PW,680,594,3247.85,2025-04-19 23:44:27,Electronics,Cash,New York,2
+883,Curtis Wilson,dpalmer@example.org,+1 -602-8205,"5982 John Trace, Jameston, OR 25864",07-04-2025,Gold,Curtis,Wilson,OR,1,261,1459.36,2025-03-02 06:12:51,Sports,Credit Card,Chicago,2
+884,Denise Martinez,edward23@example.com,+1 -604-5417,"278 Mark Spring Apt. 873, Port Gilbert, NY 58155",31-10-2023,Silver,Denise,Martinez,NY,1,562,1594.54,2025-05-19 18:50:43,Clothing,Cash,New York,1
+885,Mary Anderson,vincent73@example.org,+248 -353-4527,"22877 Jesus Street Suite 558, Morganfort, SC 28434",22-03-2025,Silver,Mary,Anderson,SC,248,252,3957.34,2025-01-31 14:36:18,Beauty,Debit Card,Miami,1
+885,Mary Anderson,vincent73@example.org,+248 -353-4527,"22877 Jesus Street Suite 558, Morganfort, SC 28434",22-03-2025,Silver,Mary,Anderson,SC,248,365,3662.34,2025-03-14 13:23:38,Electronics,Cash,Chicago,1
+886,Dorothy Ochoa,adkinsrebecca@example.org,+1 -449-6780,"01662 Mary Pines, Port Stevenchester, WI 28329",12-02-2025,Bronze,Dorothy,Ochoa,WI,1,519,2129.02,2025-03-03 06:41:31,Clothing,Debit Card,Online,0
+888,Jessica Edwards,wcook@example.org,+1 -351-2560,"638 Jeffrey Creek Apt. 528, North Kimberly, TX 51856",20-07-2024,Gold,Jessica,Edwards,TX,1,837,4312.87,2025-01-09 16:06:12,Home,Cash,New York,2
+894,Kara Miranda,brandi40@example.com,+1 -339-5826,"36538 Yu Underpass, Gomezfort, OK 98709",04-02-2025,Gold,Kara,Miranda,OK,1,229,1857.67,2025-01-27 01:00:43,Clothing,Cash,Miami,2
+894,Kara Miranda,brandi40@example.com,+1 -339-5826,"36538 Yu Underpass, Gomezfort, OK 98709",04-02-2025,Gold,Kara,Miranda,OK,1,665,3362.87,2025-04-03 19:26:32,Sports,Cash,Chicago,2
+895,Heather Beck,linda41@example.net,+212 -829-3157,"25209 White Ways, Brownland, MA 11224",29-04-2025,Silver,Heather,Beck,MA,212,212,1061.22,2025-01-10 16:12:34,Beauty,Credit Card,Miami,1
+899,David Ferguson,suzanne19@example.net,+1 -589-7704,"PSC 5581, Box 7470, APO AA 45161",23-06-2023,Bronze,David,Ferguson,AA,1,407,386.18,2025-01-20 15:07:52,Sports,PayPal,Online,0
+900,Stephanie Perry,Stephanie.Perry@email.com,+1 -540-9384,"2611 Beasley Valleys, Danaburgh, MS 60418",19-04-2024,Bronze,Stephanie,Perry,MS,1,535,3204.92,2025-02-11 17:13:57,Electronics,Credit Card,Miami,0
+901,Barbara Cordova,lindsay16@example.com,+241 -346-9905,"331 Blair Dam Suite 094, Jonesville, GA 94746",19-12-2023,Gold,Barbara,Cordova,GA,241,144,4640.09,2025-01-17 04:11:41,Sports,Debit Card,Miami,2
+901,Barbara Cordova,lindsay16@example.com,+241 -346-9905,"331 Blair Dam Suite 094, Jonesville, GA 94746",19-12-2023,Gold,Barbara,Cordova,GA,241,896,2719.3,2025-01-01 22:40:10,Sports,Cash,Chicago,2
+902,Michael Bowman,jessicaarnold@example.net,+241 -965-2609,"6288 John Village, North Deanmouth, GA 58787",17-04-2024,Silver,Michael,Bowman,GA,241,54,2431.82,2025-01-11 22:57:48,Beauty,Debit Card,Miami,1
+902,Michael Bowman,jessicaarnold@example.net,+241 -965-2609,"6288 John Village, North Deanmouth, GA 58787",17-04-2024,Silver,Michael,Bowman,GA,241,164,1493.73,2025-03-01 04:51:26,Home,Credit Card,Chicago,1
+903,Brandon Montgomery,mcintyresusan@example.org,+57 -114-5019,"608 Turner Mount, Chadtown, CO 89905",17-01-2025,Silver,Brandon,Montgomery,CO,57,457,870.01,2025-04-27 05:11:37,Clothing,Debit Card,Los Angeles,1
+903,Brandon Montgomery,mcintyresusan@example.org,+57 -114-5019,"608 Turner Mount, Chadtown, CO 89905",17-01-2025,Silver,Brandon,Montgomery,CO,57,723,2478.66,2025-04-07 13:37:31,Beauty,Debit Card,Chicago,1
+905,Rachel Schroeder,sydneyfernandez@example.com,+1 -801-9920,"723 Ramos Throughway Suite 167, Padillaberg, OH 60153",21-09-2024,Gold,Rachel,Schroeder,OH,1,240,1141.21,2025-01-07 04:04:14,Beauty,Debit Card,New York,2
+905,Rachel Schroeder,sydneyfernandez@example.com,+1 -801-9920,"723 Ramos Throughway Suite 167, Padillaberg, OH 60153",21-09-2024,Gold,Rachel,Schroeder,OH,1,274,0.0,2025-01-28 06:11:04,Beauty,PayPal,Chicago,2
+905,Rachel Schroeder,sydneyfernandez@example.com,+1 -801-9920,"723 Ramos Throughway Suite 167, Padillaberg, OH 60153",21-09-2024,Gold,Rachel,Schroeder,OH,1,612,0.0,2025-03-01 23:16:30,Clothing,PayPal,Miami,2
+905,Rachel Schroeder,sydneyfernandez@example.com,+1 -801-9920,"723 Ramos Throughway Suite 167, Padillaberg, OH 60153",21-09-2024,Gold,Rachel,Schroeder,OH,1,673,3366.52,2025-04-29 02:13:01,Sports,Credit Card,Online,2
+907,Adam Dixon,sevans@example.org,+1 -231-3024,"PSC 5127, Box 3446, APO AP 50493",19-12-2023,Bronze,Adam,Dixon,AP,1,549,1484.8,2025-03-04 17:05:06,Clothing,Cash,Los Angeles,0
+908,Anthony Hoover,jwalker@example.com,+1 -530-8452,"87396 Montgomery Greens, New Alyssachester, WY 72921",19-03-2024,Silver,Anthony,Hoover,WY,1,400,2477.6,2025-04-03 02:00:40,Sports,Credit Card,Los Angeles,1
+909,Mario Jones,robertdavis@example.com,+241 -981-5267,"00700 Kelly Shoal, East Heatherborough, GA 39634",26-05-2025,Gold,Mario,Jones,GA,241,310,2000.38,2025-04-18 12:22:00,Home,PayPal,Los Angeles,2
+909,Mario Jones,robertdavis@example.com,+241 -981-5267,"00700 Kelly Shoal, East Heatherborough, GA 39634",26-05-2025,Gold,Mario,Jones,GA,241,726,4641.79,2025-03-05 12:12:45,Beauty,Cash,Los Angeles,2
+910,Joseph Larson,hsanchez@example.com,+1 -571-6479,"91808 Jennifer Knolls, East Evanton, FL 27233",30-04-2025,Silver,Joseph,Larson,FL,1,505,3186.76,2025-03-02 17:45:34,Sports,Cash,Miami,1
+911,Tracy Franklin,jessicaware@example.net,+1 -140-8765,"6160 Danielle Plains Apt. 030, Hayeshaven, KY 38411",25-05-2024,Bronze,Tracy,Franklin,KY,1,762,4528.12,2025-03-22 17:09:21,Electronics,Debit Card,Chicago,0
+911,Tracy Franklin,jessicaware@example.net,+1 -140-8765,"6160 Danielle Plains Apt. 030, Hayeshaven, KY 38411",25-05-2024,Bronze,Tracy,Franklin,KY,1,863,2421.09,2025-04-18 08:01:42,Electronics,Debit Card,Chicago,0
+913,Theresa Berry,rachel94@example.org,+1 -634-4244,"2851 Jill Forks Suite 757, West Diane, KS 27416",07-11-2023,Bronze,Theresa,Berry,KS,1,904,1334.62,2025-04-09 05:51:56,Sports,Debit Card,Chicago,0
+914,Tanner Williams,jessica18@example.org,+241 -629-4049,"00874 Nelson Extension, East Stevenview, GA 82071",18-09-2024,Silver,Tanner,Williams,GA,241,664,2994.89,2025-01-04 04:26:51,Home,PayPal,Miami,1
+916,Brandy Gardner,mackmelissa@example.net,+1 -849-1838,"1200 Grant Club, Lake Alison, IA 89185",28-01-2024,Gold,Brandy,Gardner,IA,1,354,2087.36,2025-05-31 07:24:41,Home,Cash,Miami,2
+917,Kathleen Powell,nhall@example.com,+1 -302-6805,"33512 Samantha Crossing, Jessicashire, AS 16514",19-03-2025,Gold,Kathleen,Powell,AS,1,55,1814.91,2025-02-22 11:33:37,Beauty,Credit Card,New York,2
+917,Kathleen Powell,nhall@example.com,+1 -302-6805,"33512 Samantha Crossing, Jessicashire, AS 16514",19-03-2025,Gold,Kathleen,Powell,AS,1,760,2129.31,2025-03-16 11:52:10,Home,PayPal,Los Angeles,2
+918,Tammy Bradford,thompsonrebecca@example.net,+356 -845-9949,"00544 Patricia Via Apt. 923, Juliemouth, MT 56203",25-03-2024,Silver,Tammy,Bradford,MT,356,739,2252.86,2025-06-08 16:10:57,Clothing,Debit Card,Chicago,1
+919,James Cross,xbaldwin@example.com,+382 -876-5168,"7909 White Pine, Alvarezborough, ME 02794",13-05-2024,Gold,James,Cross,ME,382,682,3375.78,2025-06-15 14:52:07,Electronics,Credit Card,New York,2
+919,James Cross,xbaldwin@example.com,+382 -876-5168,"7909 White Pine, Alvarezborough, ME 02794",13-05-2024,Gold,James,Cross,ME,382,903,735.32,2025-01-09 08:53:22,Clothing,Cash,Los Angeles,2
+920,Susan Bush,zcurry@example.com,+227 -743-4404,"2121 Janet Trail, Chadborough, NE 63603",19-12-2023,Silver,Susan,Bush,NE,227,245,2169.89,2025-02-26 18:03:52,Beauty,Cash,Miami,1
+920,Susan Bush,zcurry@example.com,+227 -743-4404,"2121 Janet Trail, Chadborough, NE 63603",19-12-2023,Silver,Susan,Bush,NE,227,540,2957.81,2025-03-13 04:35:46,Clothing,PayPal,Miami,1
+921,Robin Barber,Robin.Barber@email.com,+212 -687-7684,"291 William Ways, Jenkinshaven, MA 88232",13-01-2024,Silver,Robin,Barber,MA,212,741,2018.07,2025-06-06 14:11:07,Sports,Cash,Miami,1
+922,Jennifer Perry,jonathancummings@example.net,+91 -956-2421,"4645 Kelly Street, Jacobhaven, IN 73137",10-11-2024,Bronze,Jennifer,Perry,IN,91,40,3722.38,2025-01-11 07:26:47,Sports,Cash,Online,0
+922,Jennifer Perry,jonathancummings@example.net,+91 -956-2421,"4645 Kelly Street, Jacobhaven, IN 73137",10-11-2024,Bronze,Jennifer,Perry,IN,91,791,2286.56,2025-01-26 03:22:27,Sports,Cash,Miami,0
+922,Jennifer Perry,jonathancummings@example.net,+91 -956-2421,"4645 Kelly Street, Jacobhaven, IN 73137",10-11-2024,Bronze,Jennifer,Perry,IN,91,987,697.3,2025-02-18 09:04:47,Sports,PayPal,Online,0
+923,Alexandra Moore,longjuan@example.net,+1 -222-7381,"066 Mckenzie Ranch Suite 006, North Kristin, MI 63134",04-02-2024,Silver,Alexandra,Moore,MI,1,18,2523.63,2025-01-01 13:36:16,Electronics,Credit Card,New York,1
+924,Jacqueline Long,danielle16@example.org,+1 -260-2131,"9672 Herring Gateway Suite 143, Lowerytown, NM 20904",13-12-2023,Silver,Jacqueline,Long,NM,1,686,4929.15,2025-01-02 14:27:19,Beauty,Credit Card,New York,1
+925,Michael Jones,amy13@example.org,+62 -420-7604,"23432 Sanders Street, Sampsonmouth, ID 62136",23-07-2024,Gold,Michael,Jones,ID,62,690,1727.49,2025-05-27 00:30:09,Clothing,PayPal,Los Angeles,2
+925,Michael Jones,amy13@example.org,+62 -420-7604,"23432 Sanders Street, Sampsonmouth, ID 62136",23-07-2024,Gold,Michael,Jones,ID,62,1000,4141.44,2025-05-24 13:39:19,Electronics,PayPal,Online,2
+927,Mary Young,vcooper@example.com,+691 -297-7057,"1425 Gill Green Suite 335, Lake Calvin, FM 58704",28-12-2024,Gold,Mary,Young,FM,691,15,4349.07,2025-01-07 17:00:23,Beauty,Debit Card,Chicago,2
+927,Mary Young,vcooper@example.com,+691 -297-7057,"1425 Gill Green Suite 335, Lake Calvin, FM 58704",28-12-2024,Gold,Mary,Young,FM,691,995,1368.17,2025-02-08 21:53:32,Clothing,Cash,Los Angeles,2
+928,Danielle Johnson,frank49@example.org,+1 -676-9458,"1845 Murray Radial, Riversland, NJ 69414",01-06-2024,Gold,Danielle,Johnson,NJ,1,104,0.0,2025-04-20 02:32:07,Beauty,Cash,New York,2
+928,Danielle Johnson,frank49@example.org,+1 -676-9458,"1845 Murray Radial, Riversland, NJ 69414",01-06-2024,Gold,Danielle,Johnson,NJ,1,650,3717.71,2025-02-24 05:04:33,Sports,Debit Card,Miami,2
+928,Danielle Johnson,frank49@example.org,+1 -676-9458,"1845 Murray Radial, Riversland, NJ 69414",01-06-2024,Gold,Danielle,Johnson,NJ,1,814,2653.98,2025-02-17 07:21:19,Electronics,Credit Card,Miami,2
+930,Connor Torres,reidkevin@example.org,+382 -336-3748,"24680 Thomas Vista, New Amandaside, ME 78051",27-04-2024,Gold,Connor,Torres,ME,382,658,4725.54,2025-01-07 15:41:27,Beauty,Credit Card,Miami,2
+931,Diane Burch,cardenasmelissa@example.org,+373 -332-9719,"6752 Flynn Mission Apt. 849, Andersonhaven, MD 45417",22-12-2023,Silver,Diane,Burch,MD,373,999,2262.75,2025-06-08 01:36:01,Clothing,Debit Card,Online,1
+934,Danielle Stewart,kevinbrown@example.net,+91 -235-2899,"0808 Bill Curve, Pattersonview, IN 12584",01-12-2024,Gold,Danielle,Stewart,IN,91,958,3987.4,2025-04-08 09:17:55,Home,Cash,Los Angeles,2
+936,Christopher Brown,llong@example.com,+1 -771-1721,"2778 Michelle Run Apt. 982, Port Cassie, HI 81549",28-11-2024,Bronze,Christopher,Brown,HI,1,96,2288.29,2025-04-20 13:30:43,Electronics,Cash,Miami,0
+936,Christopher Brown,llong@example.com,+1 -771-1721,"2778 Michelle Run Apt. 982, Port Cassie, HI 81549",28-11-2024,Bronze,Christopher,Brown,HI,1,187,972.07,2025-04-15 18:20:16,Electronics,Credit Card,Miami,0
+937,Gregory Delgado,sandovaljennifer@example.net,+1 -581-4385,"81588 Tiffany Circles Apt. 973, East Danielle, MS 71931",30-03-2025,Bronze,Gregory,Delgado,MS,1,802,1825.54,2025-01-12 10:40:06,Sports,PayPal,Online,0
+939,Pamela Taylor,lauren39@example.net,+62 -232-3251,"370 John Lodge Apt. 303, North Maria, ID 62354",18-04-2025,Gold,Pamela,Taylor,ID,62,550,2422.13,2025-05-26 03:43:35,Beauty,Credit Card,Chicago,2
+939,Pamela Taylor,lauren39@example.net,+62 -232-3251,"370 John Lodge Apt. 303, North Maria, ID 62354",18-04-2025,Gold,Pamela,Taylor,ID,62,792,4409.04,2025-02-22 04:28:21,Sports,PayPal,Online,2
+940,Shawn Williams,vanessarush@example.com,+248 -377-3085,"3208 Booker Mission Suite 778, Johnfort, SC 09698",29-06-2023,Silver,Shawn,Williams,SC,248,724,1264.66,2025-02-08 19:36:31,Electronics,PayPal,New York,1
+943,Michelle Herman,leejacob@example.org,+1 -777-2994,"3629 Gardner Mews Apt. 093, Chandlershire, KS 71116",02-07-2023,Silver,Michelle,Herman,KS,1,500,489.75,2025-05-26 08:11:38,Electronics,Cash,Chicago,1
+944,Jonathan Weiss,philipmartinez@example.net,+1 -415-3772,"1457 Reeves Prairie, Lake Adam, VI 90532",16-06-2024,Gold,Jonathan,Weiss,VI,1,329,2299.69,2025-02-10 20:18:41,Clothing,Debit Card,Miami,2
+945,Cynthia Parks,simslarry@example.com,+1 -878-7837,"7949 Thomas Harbor Suite 743, Nancybury, WI 30420",05-12-2024,Gold,Cynthia,Parks,WI,1,430,2745.19,2025-04-18 06:51:55,Beauty,Credit Card,Chicago,2
+946,Monica Barry,cdelgado@example.org,+1 -619-3171,"187 Sharon Light Apt. 623, Bryanport, MI 65818",22-08-2023,Silver,Monica,Barry,MI,1,140,4771.85,2025-02-20 02:00:00,Sports,Debit Card,Chicago,1
+947,Wendy Lopez,Wendy.Lopez@email.com,+1 -990-4299,"16210 Christie Drives Apt. 640, North Jamesville, NC 58548",23-01-2024,Gold,Wendy,Lopez,NC,1,923,1090.62,2025-01-09 12:05:53,Home,Debit Card,Miami,2
+948,Erica Garcia,jeffrey83@example.net,+91 -918-1333,"1064 Henry Union Suite 457, New Vincent, IN 96949",13-07-2023,Bronze,Erica,Garcia,IN,91,632,696.93,2025-01-14 20:28:03,Beauty,PayPal,Online,0
+950,Ann Ochoa,anthony36@example.org,+62 -815-7788,"58088 Justin Mews, East Debra, ID 04518",26-09-2023,Silver,Ann,Ochoa,ID,62,292,2618.93,2025-01-16 06:23:15,Electronics,Credit Card,Miami,1
+950,Ann Ochoa,anthony36@example.org,+62 -815-7788,"58088 Justin Mews, East Debra, ID 04518",26-09-2023,Silver,Ann,Ochoa,ID,62,807,297.1,2025-05-16 08:31:54,Sports,Debit Card,New York,1
+952,Angela Doyle,ivaldez@example.net,+972 -541-5630,"800 Karen Plaza Apt. 019, Kristaberg, IL 25674",08-04-2025,Silver,Angela,Doyle,IL,972,882,4608.54,2025-06-01 14:34:48,Sports,Cash,Online,1
+953,Ryan Castillo,hhall@example.com,+1 -171-1180,"PSC 5822, Box 7995, APO AA 40276",17-04-2025,Gold,Ryan,Castillo,AA,1,601,4053.1,2025-05-20 02:44:35,Electronics,Cash,Online,2
+963,Loretta Lee,pmiller@example.com,+971 -973-4411,"Unit 4449 Box 5233, DPO AE 79948",12-04-2025,Gold,Loretta,Lee,AE,971,789,2825.48,2025-06-02 05:01:00,Electronics,PayPal,Los Angeles,2
+966,Felicia Tate,robertskimberly@example.org,+507 -254-8903,"22253 Carolyn Curve Apt. 653, West Rebecca, PA 56512",29-01-2024,Bronze,Felicia,Tate,PA,507,60,986.61,2025-04-29 03:38:43,Home,PayPal,New York,0
+966,Felicia Tate,robertskimberly@example.org,+507 -254-8903,"22253 Carolyn Curve Apt. 653, West Rebecca, PA 56512",29-01-2024,Bronze,Felicia,Tate,PA,507,895,4382.49,2025-02-16 10:28:07,Clothing,PayPal,Chicago,0
+969,Robert Bailey,matthew48@example.com,+91 -501-2376,"8664 Amanda Lodge, North Edwinview, IN 90790",11-12-2023,Bronze,Robert,Bailey,IN,91,926,724.96,2025-04-07 23:57:33,Beauty,Credit Card,New York,0
+970,Kimberly Ray,veronica73@example.org,+1 -982-1578,"8091 Kimberly Creek, North William, CT 50236",22-10-2023,Bronze,Kimberly,Ray,CT,1,557,2871.83,2025-02-23 21:59:47,Clothing,Credit Card,Los Angeles,0
+971,Charlotte Kline,Charlotte.Kline@email.com,+1 -231-8480,"6992 Jones Forest Apt. 304, Leeborough, PR 72282",07-08-2023,Bronze,Charlotte,Kline,PR,1,816,0.0,2025-02-05 01:07:22,Beauty,PayPal,New York,0
+975,Michelle Mack,jamessosa@example.net,+1 -247-9773,"2592 Cantrell Circle Apt. 609, New Darryl, UT 17438",11-11-2023,Gold,Michelle,Mack,UT,1,976,2640.59,2025-05-21 02:01:55,Electronics,Cash,Los Angeles,2
+977,Amanda Harper,david80@example.com,+1 -142-7280,"3243 Houston Mount, Luisport, ND 31587",23-09-2024,Silver,Amanda,Harper,ND,1,419,2731.75,2025-04-10 01:12:34,Sports,PayPal,Chicago,1
+978,Traci Young,xpatel@example.com,+356 -465-8207,"004 Mays Plain Suite 254, North Matthew, MT 18674",18-03-2025,Gold,Traci,Young,MT,356,794,4072.62,2025-05-27 18:23:47,Home,Credit Card,Chicago,2
+980,Sharon Hernandez,sherry23@example.com,+971 -155-7067,"PSC 2167, Box 8119, APO AE 16205",31-03-2025,Gold,Sharon,Hernandez,AE,971,364,0.0,2025-01-30 11:32:51,Home,Cash,New York,2
+980,Sharon Hernandez,sherry23@example.com,+971 -155-7067,"PSC 2167, Box 8119, APO AE 16205",31-03-2025,Gold,Sharon,Hernandez,AE,971,883,2715.8,2025-02-07 16:27:42,Clothing,Cash,Online,2
+981,Gloria Lin,allison17@example.org,+1 -487-8216,"4990 Gould Crossroad Apt. 009, North Sarah, NM 12234",21-12-2023,Gold,Gloria,Lin,NM,1,473,3032.91,2025-03-17 01:01:54,Clothing,Cash,Online,2
+982,Rose Rush,chenjames@example.net,+62 -994-3492,"820 Young Flats Apt. 053, Gracehaven, ID 99624",11-01-2025,Gold,Rose,Rush,ID,62,697,4707.6,2025-05-09 09:00:18,Sports,Debit Card,Los Angeles,2
+983,Timothy Young,qsmith@example.com,+1 -641-9777,"55192 Kenneth Trail Apt. 513, Brianland, GU 62417",06-12-2023,Silver,Timothy,Young,GU,1,659,4927.28,2025-05-19 00:59:51,Sports,PayPal,Los Angeles,1
+984,Crystal Ferguson,diazmegan@example.net,+1 -397-4748,"75923 Jeffrey Way, Alvarezburgh, TX 98951",28-07-2023,Gold,Crystal,Ferguson,TX,1,331,1208.76,2025-04-03 11:46:40,Beauty,Credit Card,New York,2
+985,Shane Roth,pacemakayla@example.org,+1 -845-3076,"3216 Armstrong Street Suite 221, North Johnathan, RI 85491",13-02-2025,Gold,Shane,Roth,RI,1,409,1227.8,2025-01-20 03:53:54,Home,Credit Card,New York,2
+985,Shane Roth,pacemakayla@example.org,+1 -845-3076,"3216 Armstrong Street Suite 221, North Johnathan, RI 85491",13-02-2025,Gold,Shane,Roth,RI,1,586,962.84,2025-03-26 02:22:41,Clothing,Credit Card,Chicago,2
+986,Thomas Ferguson,kathy06@example.com,+1 -629-4902,"489 Poole Islands Apt. 246, Jonesville, AK 10668",04-09-2024,Silver,Thomas,Ferguson,AK,1,587,3519.14,2025-04-09 11:51:59,Clothing,Credit Card,Los Angeles,1
+986,Thomas Ferguson,kathy06@example.com,+1 -629-4902,"489 Poole Islands Apt. 246, Jonesville, AK 10668",04-09-2024,Silver,Thomas,Ferguson,AK,1,689,1219.88,2025-04-18 10:31:24,Electronics,Debit Card,Miami,1
+986,Thomas Ferguson,kathy06@example.com,+1 -629-4902,"489 Poole Islands Apt. 246, Jonesville, AK 10668",04-09-2024,Silver,Thomas,Ferguson,AK,1,725,2445.65,2025-03-09 06:13:44,Clothing,Credit Card,Miami,1
+988,Johnny Ingram,danielle96@example.com,+1 -735-9149,"4275 Davis Cliff Suite 804, South Larry, AZ 46557",04-03-2025,Silver,Johnny,Ingram,AZ,1,342,1055.22,2025-05-07 05:06:22,Clothing,PayPal,Miami,1
+988,Johnny Ingram,danielle96@example.com,+1 -735-9149,"4275 Davis Cliff Suite 804, South Larry, AZ 46557",04-03-2025,Silver,Johnny,Ingram,AZ,1,734,1130.57,2025-05-18 06:15:18,Clothing,Credit Card,Online,1
+989,John Mcknight,gonzalezrebecca@example.org,+1 -752-7871,"299 Chad Islands, Lake Emmafurt, NC 25996",26-09-2024,Silver,John,Mcknight,NC,1,63,593.22,2025-05-03 13:04:15,Clothing,PayPal,Los Angeles,1
+989,John Mcknight,gonzalezrebecca@example.org,+1 -752-7871,"299 Chad Islands, Lake Emmafurt, NC 25996",26-09-2024,Silver,John,Mcknight,NC,1,343,3791.7,2025-05-28 00:09:28,Clothing,PayPal,Chicago,1
+990,Alexis Brown,amy77@example.com,+1 -667-2029,"083 John Lock, East Dennis, NY 30784",09-03-2024,Gold,Alexis,Brown,NY,1,862,788.52,2025-03-12 10:50:41,Beauty,Credit Card,Online,2
+991,Erica Fleming,erica85@example.net,+1 -453-6078,"55648 Gilbert Square, Port Jessica, OR 63566",21-01-2025,Silver,Erica,Fleming,OR,1,171,3346.4,2025-05-29 20:17:50,Clothing,Cash,Miami,1
+991,Erica Fleming,erica85@example.net,+1 -453-6078,"55648 Gilbert Square, Port Jessica, OR 63566",21-01-2025,Silver,Erica,Fleming,OR,1,808,2781.52,2025-05-14 07:30:24,Clothing,Credit Card,Los Angeles,1
+992,Thomas Stevens,vargasmatthew@example.org,+356 -454-4879,"8783 Joseph Stravenue Suite 016, Port Gabriella, MT 87537",25-06-2024,Silver,Thomas,Stevens,MT,356,352,3691.14,2025-02-12 08:40:27,Sports,Debit Card,New York,1
+995,Deanna Johnson,ycook@example.org,+1 -320-4824,"601 Contreras Forges, Michaelfurt, KY 30733",01-11-2023,Silver,Deanna,Johnson,KY,1,62,4299.69,2025-01-04 19:54:59,Electronics,Debit Card,New York,1
+995,Deanna Johnson,ycook@example.org,+1 -320-4824,"601 Contreras Forges, Michaelfurt, KY 30733",01-11-2023,Silver,Deanna,Johnson,KY,1,129,4653.24,2025-04-25 23:19:54,Beauty,Cash,Chicago,1
+995,Deanna Johnson,ycook@example.org,+1 -320-4824,"601 Contreras Forges, Michaelfurt, KY 30733",01-11-2023,Silver,Deanna,Johnson,KY,1,532,759.38,2025-03-14 16:56:22,Home,PayPal,New York,1
+995,Deanna Johnson,ycook@example.org,+1 -320-4824,"601 Contreras Forges, Michaelfurt, KY 30733",01-11-2023,Silver,Deanna,Johnson,KY,1,617,821.18,2025-01-23 07:39:19,Electronics,Debit Card,Miami,1
+997,Jodi Simpson,eric24@example.org,+355 -625-2940,"2876 Tucker Road Suite 947, North Tommyborough, AL 11339",18-04-2024,Bronze,Jodi,Simpson,AL,355,45,480.64,2025-01-06 08:27:59,Home,Credit Card,Los Angeles,0
+998,Crystal Brown,pshaffer@example.net,+49 -747-3088,"095 Janice Forest Suite 570, Boltonmouth, DE 73081",30-08-2024,Bronze,Crystal,Brown,DE,49,304,73.71,2025-01-27 05:33:22,Home,Debit Card,Chicago,0
+998,Crystal Brown,pshaffer@example.net,+49 -747-3088,"095 Janice Forest Suite 570, Boltonmouth, DE 73081",30-08-2024,Bronze,Crystal,Brown,DE,49,886,0.0,2025-03-16 15:42:17,Beauty,Debit Card,Online,0
